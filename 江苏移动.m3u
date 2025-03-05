@@ -76,8 +76,6 @@ http://[2409:8087:2061:20:3100:0:df6e:f7c2]:6610/gitv/live1/G_JSGG/G_JSGG/1.m3u8
 http://[2409:8087:2061:20:3100:0:df6e:f7e2]:6610/gitv/live1/G_JSJY/G_JSJY/1.m3u8
 #EXTINF:-1 ,group-title="江苏地方",江苏影视
 http://[2409:8087:2061:20:3100:0:df6e:f7e2]:6610/gitv/live1/G_JSYS/G_JSYS/1.m3u8
-
-
 #EXTINF:-1 ,group-title="江苏地方",南通一套
 http://[2409:8087:2061:20:3100:0:df6e:f7c8]:6610/cntv/live1/jsntyitao/jsntyitao/1.m3u8
 #EXTINF:-1 ,group-title="江苏地方",南通二套
@@ -164,61 +162,30 @@ http://[2409:8087:2061:20:3100:0:df6e:f7e2]:6610/cntv/live1/SD-4000k-576P-kambat
 #EXTINF:-1 ,group-title="地方卫视",青海·安多卫视
 http://[2409:8087:2061:20:3100:0:df6e:f7e4]:6610/cntv/live1/anduostv/anduostv/1.m3u8
 #EXTINF:-1 ,group-title="地方卫视",吉林·延边卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226516/index.m3u8
+http://223.110.247.200:6610/cntv/live1/SD-4000k-576P-yanbianstv/SD-4000k-576P-yanbianstv/1.m3u8
 #EXTINF:-1 ,group-title="地方卫视",新疆·兵团卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226439/index.m3u8
-#EXTINF:-1 ,group-title="地方卫视",湖南·金鹰卡通卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225653/index.m3u8
-#EXTINF:-1 ,group-title="地方卫视",江苏·优漫卡通卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225656/index.m3u8
-#EXTINF:-1 ,group-title="地方卫视",北京·卡酷少儿卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225654/index.m3u8
+http://223.110.247.198:6610/cntv/live1/SD-4000k-576P-bingtuanstv/SD-4000k-576P-bingtuanstv/1.m3u8
+
+#EXTINF:-1 ,group-title="少儿频道",金鹰卡通
+http://223.110.247.214:6610/cntv/live1/n-jinyingkaton/n-jinyingkaton/1.m3u8
+#EXTINF:-1 ,group-title="少儿频道",优漫卡通
+http://223.110.247.140:6610/cntv/live1/n-youmankaton/n-youmankaton/1.m3u8
+#EXTINF:-1 ,group-title="少儿频道",卡酷少儿
+http://223.110.247.225:6610/cntv/live1/n-kakukaton/n-kakukaton/1.m3u8
+#EXTINF:-1 ,group-title="少儿频道",黑莓动画
+http://223.110.247.134:6610/cntv/live1/donghuawg/donghuawg/1.m3u8
+#EXTINF:-1 ,group-title="少儿频道",哈哈炫动
+http://223.110.247.229:6610/cntv/live1/n-xuandongkaton/n-xuandongkaton/1.m3u8
+#EXTINF:-1 ,group-title="少儿频道",嘉佳卡通
+http://223.110.247.134:6610/cntv/live1/SD-4000k-576P-jiajiakaton/SD-4000k-576P-jiajiakaton/1.m3u8
+#EXTINF:-1 ,group-title="少儿频道",动漫星空
+http://223.110.247.198:6610/gitv/live1/GITV-JS-25/GITV-JS-25/1.m3u8
+#EXTINF:-1 ,group-title="少儿频道",小猪佩奇
+http://223.110.247.161:6610/gitv/live1/GITV-JS-12/GITV-JS-12/1.m3u8
+#EXTINF:-1 ,group-title="少儿频道",汪汪立大功
+http://223.110.247.229:6610/gitv/live1/GITV-JS-13/GITV-JS-13/1.m3u8
 
 
-#EXTINF:-1 ,group-title="Newtv",Newtv 黑莓动画
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
-#EXTINF:-1 ,group-title="Newtv",Newtv 超级电影
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
-#EXTINF:-1 ,group-title="Newtv",Newtv 超级电视剧
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
-#EXTINF:-1 ,group-title="Newtv",Newtv 超级综艺
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8
-#EXTINF:-1 ,group-title="Newtv",Newtv 东北热剧
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
-#EXTINF:-1 ,group-title="Newtv",Newtv 欢乐剧场
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
-#EXTINF:-1 ,group-title="Newtv",Newtv 怡伴健康
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225673/index.m3u8
-#EXTINF:-1 ,group-title="Newtv",Newtv 金牌综艺
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8
-#EXTINF:-1 ,group-title="Newtv",Newtv 中国功夫
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8
-#EXTINF:-1 ,group-title="Newtv",Newtv 潮妈辣婆
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225685/index.m3u8
-#EXTINF:-1 ,group-title="Newtv",Newtv 军事评论
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8
-#EXTINF:-1 ,group-title="Newtv",Newtv 军旅剧场
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8
-#EXTINF:-1 ,group-title="Newtv",Newtv 农业致富
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225683/index.m3u8
-#EXTINF:-1 ,group-title="Newtv",Newtv 动作电影
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
-#EXTINF:-1 ,group-title="Newtv",Newtv 惊悚悬疑
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
-#EXTINF:-1 ,group-title="Newtv",Newtv 明星大片
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8
-#EXTINF:-1 ,group-title="Newtv",Newtv 武搏世界
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225680/index.m3u8
-#EXTINF:-1 ,group-title="Newtv",Newtv 海外剧场
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8
-#EXTINF:-1 ,group-title="Newtv",Newtv 爱情喜剧
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225669/index.m3u8
-#EXTINF:-1 ,group-title="Newtv",Newtv 精品大剧
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8
-#EXTINF:-1 ,group-title="Newtv",Newtv 精品纪录
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8
-#EXTINF:-1 ,group-title="Newtv",Newtv 古装剧场
-http://ottrrs.hl.chinamobile.com/PLYT/88888888/224/3221225663/index.m3u8
 
 #EXTINF:-1 ,group-title="咪咕直播",晴彩青少
 http://[2409:8087:2061:20:3100:0:df6e:f7d7]:6610/cntv/live1/HD-8000k-1080P-quanminrl/HD-8000k-1080P-quanminrl/1.m3u8
