@@ -259,6 +259,5 @@ http://[2409:8087:2061:20:3100:0:df6e:f7d7]:6610/gitv/live1/miguaoyun1-AVS/migua
 http://[2409:8087:2061:20:3100:0:df6e:f7c2]:6610/gitv/live1/miguaoyun01-AVS-4K01/miguaoyun01-AVS-4K01/1.m3u8
 #EXTINF:-1 ,group-title="咪咕直播",咪咕音乐
 http://ott.mobaibox.com/PLTV/3/224/3221228444/index.m3u8
-#EXTINF:-1 ,group-title="咪咕直播",咪咕视频
-http://ott.mobaibox.com/PLTV/3/224/3221228193/index.m3u8
+
 
