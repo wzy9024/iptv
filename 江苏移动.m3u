@@ -66,13 +66,13 @@ http://[2409:8087:2061:20:3100:0:df6e:f7e3]:6610/gitv/live1/G_DIANSHIZN-CQ/G_DIA
 #EXTINF:-1 ,group-title="央视",CGTN
 http://ott.mobaibox.com/PLTV/3/224/3221228811/index.m3u8
 #EXTINF:-1 ,group-title="央视",CETV-1
-http://223.110.241.139:6610/gitv/live1/G_CETV-1/G_CETV-1/
+http://ott.mobaibox.com/PLTV/3/224/3221227560/index.m3u8
 #EXTINF:-1 ,group-title="央视",CETV-2
-http://223.110.241.139:6610/gitv/live1/G_CETV-2/G_CETV-2/
+http://ott.mobaibox.com/PLTV/3/224/3221227607/index.m3u8
 #EXTINF:-1 ,group-title="央视",CETV-3
 http://223.110.241.139:6610/gitv/live1/G_CETV-3/G_CETV-3/
 #EXTINF:-1 ,group-title="央视",CETV-4
-http://223.110.241.139:6610/gitv/live1/G_CETV-4/G_CETV-4/
+http://ott.mobaibox.com/PLTV/3/224/http://ott.mobaibox.com/PLTV/3/224/3221227607/index.m3u8/index.m3u8
 
 
 
