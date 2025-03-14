@@ -250,5 +250,26 @@ http://[2409:8087:2061:20:3100:0:df6e:f7d7]:6610/gitv/live1/miguaoyun1-AVS/migua
 http://[2409:8087:2061:20:3100:0:df6e:f7c2]:6610/gitv/live1/miguaoyun01-AVS-4K01/miguaoyun01-AVS-4K01/1.m3u8
 #EXTINF:-1 ,group-title="咪咕直播",咪咕音乐
 http://ott.mobaibox.com/PLTV/3/224/3221228444/index.m3u8
-
+#EXTINF:-1 ,group-title="咪咕直播",黑莓电影
+http://ott.mobaibox.com/PLTV/3/224/3221227520/index.m3u8
+#EXTINF:-1 ,group-title="咪咕直播",潮妈辣婆
+http://ott.mobaibox.com/PLTV/3/224/3221227527/index.m3u8
+#EXTINF:-1 ,group-title="咪咕直播",中国功夫
+http://ott.mobaibox.com/PLTV/3/224/3221227530/index.m3u8
+#EXTINF:-1 ,group-title="咪咕直播",惊悚悬疑
+http://ott.mobaibox.com/PLTV/3/224/3221227536/index.m3u8
+#EXTINF:-1 ,group-title="咪咕直播",金牌综艺
+http://ott.mobaibox.com/PLTV/3/224/3221227541/index.m3u8
+#EXTINF:-1 ,group-title="咪咕直播",古装剧场
+http://ott.mobaibox.com/PLTV/3/224/3221227542/index.m3u8
+#EXTINF:-1 ,group-title="咪咕直播",劲爆体育
+http://ott.mobaibox.com/PLTV/3/224/3221227023/index.m3u8
+#EXTINF:-1 ,group-title="咪咕直播",动作电影
+http://ott.mobaibox.com/PLTV/3/224/3221227606/index.m3u8
+#EXTINF:-1 ,group-title="咪咕直播",精品体育
+http://ott.mobaibox.com/PLTV/3/224/3221227615/index.m3u8
+#EXTINF:-1 ,group-title="咪咕直播",精品大剧
+http://ott.mobaibox.com/PLTV/3/224/3221227618/index.m3u8
+#EXTINF:-1 ,group-title="咪咕直播",中华美食
+http://ott.mobaibox.com/PLTV/3/224/3221227647/index.m3u8
 
