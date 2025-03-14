@@ -65,6 +65,14 @@ http://[2409:8087:2061:20:3100:0:df6e:f7d7]:6610/gitv/live1/G_BINGQIKJ-CQ/G_BING
 http://[2409:8087:2061:20:3100:0:df6e:f7e3]:6610/gitv/live1/G_DIANSHIZN-CQ/G_DIANSHIZN-CQ/1.m3u8
 #EXTINF:-1 ,group-title="央视",CGTN
 http://ott.mobaibox.com/PLTV/3/224/3221228811/index.m3u8
+#EXTINF:-1 ,group-title="央视",CETV-1
+http://223.110.241.139:6610/gitv/live1/G_CETV-1/G_CETV-1/
+#EXTINF:-1 ,group-title="央视",CETV-2
+http://223.110.241.139:6610/gitv/live1/G_CETV-2/G_CETV-2/
+#EXTINF:-1 ,group-title="央视",CETV-3
+http://223.110.241.139:6610/gitv/live1/G_CETV-3/G_CETV-3/
+#EXTINF:-1 ,group-title="央视",CETV-4
+http://223.110.241.139:6610/gitv/live1/G_CETV-4/G_CETV-4/
 
 
 
@@ -150,6 +158,8 @@ http://ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
 #EXTINF:-1 ,group-title="地方卫视",北京卫视
 http://[2409:8087:2061:20:3000:0:df6e:f79f]:6610/gitv/live1/G_BEIJING-HD-265-8M/G_BEIJING-HD-265-8M/1.m3u8
+#EXTINF:-1 ,group-title="地方卫视",北京纪实科教
+http://ott.mobaibox.com/PLTV/3/224/3221227699/index.m3u8
 #EXTINF:-1 ,group-title="地方卫视",东方卫视
 http://[2409:8087:2061:20:3000:0:df6e:f7a1]:6610/gitv/live1/G_DONGFANG-HD-265-8M/G_DONGFANG-HD-265-8M/1.m3u8
 #EXTINF:-1 ,group-title="地方卫视",重庆卫视
@@ -186,6 +196,8 @@ http://[2409:8087:2061:20:3100:0:df6e:f7d7]:6610/gitv/live1/G_HENAN-CQ/G_HENAN-C
 http://[2409:8087:2061:20:3100:0:df6e:f7c8]:6610/gitv/live1/G_HUBEI-HD-265-8M/G_HUBEI-HD-265-8M/1.m3u8
 #EXTINF:-1 ,group-title="地方卫视",广东卫视
 http://[2409:8087:2061:20:3000:0:df6e:f786]:6610/gitv/live1/G_GUANGDONG-HD-265-8M/G_GUANGDONG-HD-265-8M/1.m3u8
+#EXTINF:-1 ,group-title="地方卫视",三沙卫视
+http://ott.mobaibox.com/PLTV/3/224/3221228626/index.m3u8
 #EXTINF:-1 ,group-title="地方卫视",海南卫视
 http://[2409:8087:2061:20:3000:0:df6e:f79f]:6610/cntv/live1/SD-4000k-576P-lvyoustv/SD-4000k-576P-lvyoustv/1.m3u8
 #EXTINF:-1 ,group-title="地方卫视",四川卫视
@@ -272,4 +284,7 @@ http://ott.mobaibox.com/PLTV/3/224/3221227615/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221227618/index.m3u8
 #EXTINF:-1 ,group-title="咪咕直播",中华美食
 http://ott.mobaibox.com/PLTV/3/224/3221227647/index.m3u8
-
+#EXTINF:-1 ,group-title="咪咕直播",家庭剧场
+http://ott.mobaibox.com/PLTV/3/224/3221227600/index.m3u8
+#EXTINF:-1 ,group-title="咪咕直播",军旅剧场
+http://ott.mobaibox.com/PLTV/3/224/3221227603/index.m3u8
