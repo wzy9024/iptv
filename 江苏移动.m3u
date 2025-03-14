@@ -70,9 +70,9 @@ http://ott.mobaibox.com/PLTV/3/224/3221227560/index.m3u8
 #EXTINF:-1 ,group-title="央视",CETV-2
 http://ott.mobaibox.com/PLTV/3/224/3221227607/index.m3u8
 #EXTINF:-1 ,group-title="央视",CETV-3
-http://223.110.241.139:6610/gitv/live1/G_CETV-3/G_CETV-3/
+http://ott.mobaibox.com/PLTV/3/224/3221227018/index.m3u8
 #EXTINF:-1 ,group-title="央视",CETV-4
-http://ott.mobaibox.com/PLTV/3/224/http://ott.mobaibox.com/PLTV/3/224/3221227607/index.m3u8/index.m3u8
+http://ott.mobaibox.com/PLTV/3/224/3221227028/index.m3u8
 
 
 
