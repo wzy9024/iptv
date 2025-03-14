@@ -37,6 +37,8 @@ http://[2409:8087:2061:20:3100:0:df6e:f7d8]:6610/gitv/live1/G_CCTV-16-4K/G_CCTV-
 http://[2409:8087:2061:20:3100:0:df6e:f7e4]:6610/cntv/live1/H265-5500k-1080P-cctv17/H265-5500k-1080P-cctv17/1.m3u8
 #EXTINF:-1 ,group-title="央视",CCTV4K 
 http://ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8
+#EXTINF:-1 ,group-title="央视",CCTV8K 
+http://ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8
 #EXTINF:-1 ,group-title="央视",CCTV高尔夫网球
 http://[2409:8087:2061:20:3100:0:df6e:f7de]:6610/gitv/live1/G_CCTV-GOLF-CQ/G_CCTV-GOLF-CQ/1.m3u8
 #EXTINF:-1 ,group-title="央视",CCTV世界地理
@@ -61,8 +63,8 @@ http://[2409:8087:2061:20:3000:0:df6e:f79f]:6610/gitv/live1/G_TAIQIU-CQ/G_TAIQIU
 http://[2409:8087:2061:20:3100:0:df6e:f7d7]:6610/gitv/live1/G_BINGQIKJ-CQ/G_BINGQIKJ-CQ/1.m3u8
 #EXTINF:-1 ,group-title="央视",CCTV电视指南
 http://[2409:8087:2061:20:3100:0:df6e:f7e3]:6610/gitv/live1/G_DIANSHIZN-CQ/G_DIANSHIZN-CQ/1.m3u8
-
-
+#EXTINF:-1 ,group-title="央视",CGTN
+http://ott.mobaibox.com/PLTV/3/224/3221228811/index.m3u8
 
 
 
