@@ -154,14 +154,14 @@ http://ott.mobaibox.com/PLTV/3/224/3221228155/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221228205/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/扬州3.png" group-title="江苏地方",扬州3
 http://ott.mobaibox.com/PLTV/3/224/3221227867/index.m3u8
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/徐州1.png" group-title="江苏地方",徐州1
-http://ott.mobaibox.com/PLTV/2/224/3221225945/index.m3u8
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/徐州2.png" group-title="江苏地方",徐州2
-http://ott.mobaibox.com/PLTV/2/224/3221225947/index.m3u8
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/徐州3.png" group-title="江苏地方",徐州3
-http://ott.mobaibox.com/PLTV/2/224/3221225949/index.m3u8
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/徐州4.png" group-title="江苏地方",徐州4
-http://ott.mobaibox.com/PLTV/2/224/3221225951/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/徐州1.png"
+http://ott.mobaibox.com/PLTV/3/224/3221225945/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/徐州2.png"
+http://ott.mobaibox.com/PLTV/3/224/3221225947/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/徐州3.png"
+http://ott.mobaibox.com/PLTV/3/224/3221225949/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/徐州4.png"
+http://ott.mobaibox.com/PLTV/3/224/3221225951/index.m3u8
 #EXTINF:-1 ,group-title="地方卫视",凤凰香港
 http://ott.mobaibox.com/PLTV/3/224/3221228530/index.m3u8
 #EXTINF:-1 ,group-title="地方卫视",凤凰中文
