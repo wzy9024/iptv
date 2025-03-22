@@ -155,7 +155,7 @@ http://ott.mobaibox.com/PLTV/3/224/3221228205/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/扬州3.png" group-title="江苏地方",扬州3
 http://ott.mobaibox.com/PLTV/3/224/3221227867/index.m3u8
 
-#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_3 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/537.36
 #EXTINF:-1 ,group-title="江苏地方",连云港新闻综合
 http://ott.mobaibox.com/PLTV/4/224/3221227758/index.m3u8
 #EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
