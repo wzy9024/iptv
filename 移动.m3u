@@ -154,18 +154,26 @@ http://ott.mobaibox.com/PLTV/3/224/3221228155/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221228205/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/扬州3.png" group-title="江苏地方",扬州3
 http://ott.mobaibox.com/PLTV/3/224/3221227867/index.m3u8
+
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
 #EXTINF:-1 ,group-title="江苏地方",连云港新闻综合
 http://ott.mobaibox.com/PLTV/4/224/3221227758/index.m3u8
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
 #EXTINF:-1 ,group-title="江苏地方",连云港生活频道
 http://ott.mobaibox.com/PLTV/4/224/3221227819/index.m3u8
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
 #EXTINF:-1 ,group-title="江苏地方",徐州1
 http://ott.mobaibox.com/PLTV/3/224/3221225945/index.m3u8
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
 #EXTINF:-1 ,group-title="江苏地方",徐州2
 http://ott.mobaibox.com/PLTV/3/224/3221225947/index.m3u8
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
 #EXTINF:-1 ,group-title="江苏地方",徐州3
 http://ott.mobaibox.com/PLTV/3/224/3221225949/index.m3u8
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
 #EXTINF:-1 ,group-title="江苏地方",徐州4
 http://ott.mobaibox.com/PLTV/3/224/3221225951/index.m3u8
+
 #EXTINF:-1 ,group-title="江苏地方",宿迁综合
 http://ott.mobaibox.com/PLTV/3/224/3221226944/index.m3u8
 #EXTINF:-1 ,group-title="江苏地方",宿迁公共
