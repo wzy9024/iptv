@@ -96,11 +96,11 @@ http://[2409:8087:2061:20:3100:0:df6e:f7c8]:6610/cntv/live1/jsntyitao/jsntyitao/
 http://[2409:8087:2061:20:3100:0:df6e:f7c3]:6610/cntv/live1/jsntertao/jsntertao/1.m3u8
 #EXTINF:-1 ,group-title="江苏地方",南通公共
 http://[2409:8087:2061:20:3100:0:df6e:f7c3]:6610/cntv/live1/jsntsantao/jsntsantao/1.m3u8
-#EXTINF:-1 ,group-title="江苏地方",盐城1
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/盐城1.png" group-title="江苏地方",盐城1
 http://ott.mobaibox.com/PLTV/3/224/3221228435/index.m3u8
-#EXTINF:-1 ,group-title="江苏地方",盐城2
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/盐城2.png" group-title="江苏地方",盐城2
 http://ott.mobaibox.com/PLTV/3/224/3221228433/index.m3u8
-#EXTINF:-1 ,group-title="江苏地方",盐城3
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/盐城3.png" group-title="江苏地方",盐城3
 http://ott.mobaibox.com/PLTV/3/224/3221228436/index.m3u8
 #EXTINF:-1 ,group-title="江苏地方",苏州新闻综合
 https://live-auth.51kandianshi.com/szgd/csztv1.m3u8
@@ -123,8 +123,7 @@ http://ott.mobaibox.com/PLTV/3/224/3221227194/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221227719/index.m3u8
 #EXTINF:-1 ,group-title="江苏地方",南京文旅记录
 http://ott.mobaibox.com/PLTV/3/224/3221227722/index.m3u8
-#EXTINF:-1 ,group-title="江苏地方",南京少儿
-http://ott.mobaibox.com/PLTV/3/224/3221227733/index.m3u8
+
 #EXTINF:-1 ,group-title="江苏地方",镇江1
 http://ott.mobaibox.com/PLTV/3/224/3221228246/index.m3u8
 #EXTINF:-1 ,group-title="江苏地方",镇江2
@@ -260,7 +259,8 @@ http://223.110.247.198:6610/gitv/live1/GITV-JS-25/GITV-JS-25/1.m3u8
 http://223.110.247.161:6610/gitv/live1/GITV-JS-12/GITV-JS-12/1.m3u8
 #EXTINF:-1 ,group-title="少儿频道",汪汪立大功
 http://223.110.247.229:6610/gitv/live1/GITV-JS-13/GITV-JS-13/1.m3u8
-
+#EXTINF:-1 ,group-title="少儿频道",南京少儿
+http://ott.mobaibox.com/PLTV/3/224/3221227733/index.m3u8
 
 
 #EXTINF:-1 ,group-title="咪咕直播",晴彩青少
