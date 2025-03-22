@@ -154,6 +154,8 @@ http://ott.mobaibox.com/PLTV/3/224/3221228155/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221228205/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/扬州3.png" group-title="江苏地方",扬州3
 http://ott.mobaibox.com/PLTV/3/224/3221227867/index.m3u8
+#EXTINF:-1 ,group-title="江苏地方",淮安新闻综合,tvg-logo="https://epg.112114.xyz/logo/淮安新闻综合.png"
+http://ott.mobaibox.com/PLTV/3/224/3221228215/index.m3u8
 
 #EXTINF:-1 ,group-title="地方卫视",凤凰香港
 http://ott.mobaibox.com/PLTV/3/224/3221228530/index.m3u8
