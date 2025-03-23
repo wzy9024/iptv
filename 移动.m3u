@@ -301,8 +301,10 @@ http://[2409:8087:2061:20:3000:0:df6e:f78c]:6610/gitv/live1/GITV-JS-17/GITV-JS-1
 http://[2409:8087:2061:20:3100:0:df6e:f7d8]:6610/gitv/live1/GITV-JS-14/GITV-JS-14/1.m3u8
 #EXTINF:-1 ,group-title="咪咕直播",动作大电影
 http://[2409:8087:2061:20:3000:0:df6e:f78f]:6610/gitv/live1/GITV-JS-52/GITV-JS-52/1.m3u8
-#EXTINF:-1 ,group-title="咪咕直播",咪咕音乐
-http://ott.mobaibox.com/PLTV/3/224/3221228444/index.m3u8
+#EXTINF:-1 ,group-title="咪咕直播",抖音热歌
+http://[2409:8087:2061:20:3000:0:df6e:f7a0]:6610/gitv/live1/GITV-JS-6/GITV-JS-6/1.m3u8
+#EXTINF:-1 ,group-title="咪咕直播",流行音乐
+http://[2409:8087:2061:20:3100:0:df6e:f7d6]:6610/gitv/live1/GITV-JS-5/GITV-JS-5/1.m3u8
 #EXTINF:-1 ,group-title="咪咕直播",黑莓电影
 http://ott.mobaibox.com/PLTV/3/224/3221227520/index.m3u8
 #EXTINF:-1 ,group-title="咪咕直播",潮妈辣婆
