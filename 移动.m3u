@@ -198,6 +198,8 @@ http://[2409:8087:2061:20:3000:0:df6e:f782]:6610/gitv/live1/G_SHENZHEN-HD-265-8M
 http://[2409:8087:2061:20:3100:0:df6e:f7d7]:6610/gitv/live1/G_TIANJIN-HD-265-8M/G_TIANJIN-HD-265-8M/1.m3u8
 #EXTINF:-1 ,group-title="地方卫视",湖南卫视
 http://[2409:8087:2061:20:3100:0:df6e:f7e2]:6610/gitv/live1/G_HUNAN-HD-265-8M/G_HUNAN-HD-265-8M/1.m3u8
+#EXTINF:-1 ,group-title="地方卫视",金鹰纪实
+http://[2409:8087:2061:20:3100:0:df6e:f7e2]:6610/cntv/live1/SD-4000k-576P-jinyingjs/SD-4000k-576P-jinyingjs/1.m3u8
 #EXTINF:-1 ,group-title="地方卫视",浙江卫视
 http://[2409:8087:2061:20:3000:0:df6e:f78f]:6610/gitv/live1/G_ZHEJIANG-HD-265-8M/G_ZHEJIANG-HD-265-8M/1.m3u8
 #EXTINF:-1 ,group-title="地方卫视",安徽卫视
@@ -262,6 +264,8 @@ http://[2409:8087:2061:20:3100:0:df6e:f7e4]:6610/cntv/live1/anduostv/anduostv/1.
 http://223.110.247.200:6610/cntv/live1/SD-4000k-576P-yanbianstv/SD-4000k-576P-yanbianstv/1.m3u8
 #EXTINF:-1 ,group-title="地方卫视",新疆·兵团卫视
 http://223.110.247.198:6610/cntv/live1/SD-4000k-576P-bingtuanstv/SD-4000k-576P-bingtuanstv/1.m3u8
+#EXTINF:-1 ,group-title="地方卫视",农林卫视
+http://[2409:8087:2061:20:3000:0:df6e:f7a1]:6610/cntv/live1/SD-4000k-576P-nonglinstv/SD-4000k-576P-nonglinstv/1.m3u8
 
 #EXTINF:-1 ,group-title="少儿频道",金鹰卡通
 http://223.110.247.214:6610/cntv/live1/n-jinyingkaton/n-jinyingkaton/1.m3u8
@@ -290,6 +294,14 @@ http://[2409:8087:2061:20:3100:0:df6e:f7d7]:6610/cntv/live1/HD-8000k-1080P-quanm
 http://[2409:8087:2061:20:3100:0:df6e:f7d7]:6610/gitv/live1/miguaoyun1-AVS/miguaoyun1-AVS/1.m3u8
 #EXTINF:-1 ,group-title="咪咕直播",晴彩篮球
 http://[2409:8087:2061:20:3100:0:df6e:f7c2]:6610/gitv/live1/miguaoyun01-AVS-4K01/miguaoyun01-AVS-4K01/1.m3u8
+#EXTINF:-1 ,group-title="咪咕直播",一元财经
+http://ott.mobaibox.com/2/16/20241106/293821193/1.m3u8
+#EXTINF:-1 ,group-title="咪咕直播",美食美味
+http://[2409:8087:2061:20:3000:0:df6e:f78c]:6610/gitv/live1/GITV-JS-17/GITV-JS-17/1.m3u8
+#EXTINF:-1 ,group-title="咪咕直播",高分电影
+http://[2409:8087:2061:20:3100:0:df6e:f7d8]:6610/gitv/live1/GITV-JS-14/GITV-JS-14/1.m3u8
+#EXTINF:-1 ,group-title="咪咕直播",动作大电影
+http://[2409:8087:2061:20:3000:0:df6e:f78f]:6610/gitv/live1/GITV-JS-52/GITV-JS-52/1.m3u8
 #EXTINF:-1 ,group-title="咪咕直播",咪咕音乐
 http://ott.mobaibox.com/PLTV/3/224/3221228444/index.m3u8
 #EXTINF:-1 ,group-title="咪咕直播",黑莓电影
