@@ -10,7 +10,7 @@ http://[2409:8087:2061:20:3000:0:df6e:f7a4]:6610/gitv/live1/G_CCTV-4-MD/G_CCTV-4
 #EXTINF:-1 ,group-title="央视",CCTV-5
 http://[2409:8087:2061:20:3000:0:df6e:f7a2]:6610/gitv/live1/G_CCTV-5-AVS-4K264/G_CCTV-5-AVS-4K264/1.m3u8
 #EXTINF:-1 ,group-title="央视",CCTV-5+
-http://[2409:8087:2061:20:3100:0:df6e:f7e2]:6610/gitv/live1/G_CCTV-5PLUS-HD-265-8M/G_CCTV-5PLUS-HD-265-8M/1.m3u8
+http://[2409:8087:2061:20:3100:0:df6e:f7e2]:6610/gitv/live1/G_CCTV-5PLUS-MD/G_CCTV-5PLUS-MD/1.m3u8
 #EXTINF:-1 ,group-title="央视",CCTV-6
 http://[2409:8087:2061:20:3100:0:df6e:f7c3]:6610/gitv/live1/G_CCTV-6-AVS-4K264/G_CCTV-6-AVS-4K264/1.m3u8
 #EXTINF:-1 ,group-title="央视",CCTV-7
