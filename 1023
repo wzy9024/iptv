@@ -144,7 +144,7 @@
             "ext": {
                 "danmu": true
             }
-        },
+        },		
         {
             "key": "雷鲸",
             "name": "🐋┃雷鲸┃天意",
@@ -951,6 +951,26 @@
             ]
         }
     ],
+    "doh": [
+        {
+            "name": "Cloudflare",
+            "url": "https://cloudflare-dns.com/dns-query",
+            "ips": [
+                "1.1.1.1",
+                "1.0.0.1",
+                "2606:4700:4700::1111",
+                "2606:4700:4700::1001"
+            ]
+        }
+    ],
+    "hosts": [
+        "cache.ott.*.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com",
+        "cache.ott.ystenlive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com",
+        "cache.ott.bestlive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com",
+        "cache.ott.wasulive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com",
+        "cache.ott.fifalive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com",
+        "cache.ott.hnbblive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com"
+    ],
     "flags": [
         "youku",
         "优酷",
@@ -1147,5 +1167,8 @@
                 }
             ]
         }
+    ],
+    "ads": [
+        "static-mozai.4gtv.tv"
     ]
 }
