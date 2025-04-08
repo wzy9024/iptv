@@ -298,8 +298,7 @@ http://223.110.247.229:6610/gitv/live1/GITV-JS-13/GITV-JS-13/1.m3u8
 http://[2409:8087:2061:20:3000:0:df6e:f78e]:6610/gitv/live1/G_CETV-ZQJY-CQ/G_CETV-ZQJY-CQ/1.m3u8
 #EXTINF:-1 ,group-title="少儿频道",南京少儿
 http://ott.mobaibox.com/PLTV/3/224/3221227733/index.m3u8
-#EXTINF:-1 ,group-title="少儿频道",黑龙江少儿
-http://39.135.135.10/PLTV/88888888/224/3221225979/.m3u8
+
 
 #EXTINF:-1 ,group-title="咪咕直播",晴彩青少
 http://[2409:8087:2061:20:3100:0:df6e:f7d7]:6610/cntv/live1/HD-8000k-1080P-quanminrl/HD-8000k-1080P-quanminrl/1.m3u8
