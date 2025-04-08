@@ -124,14 +124,12 @@ http://ott.mobaibox.com/PLTV/3/224/3221227194/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221227719/index.m3u8
 #EXTINF:-1 ,group-title="江苏地方",南京文旅记录
 http://ott.mobaibox.com/PLTV/3/224/3221227722/index.m3u8
-
 #EXTINF:-1 ,group-title="江苏地方",镇江1
 http://ott.mobaibox.com/PLTV/3/224/3221228246/index.m3u8
 #EXTINF:-1 ,group-title="江苏地方",镇江2
 http://ott.mobaibox.com/PLTV/3/224/3221227325/index.m3u8
 #EXTINF:-1 ,group-title="江苏地方",镇江3
 http://ott.mobaibox.com/PLTV/3/224/3221228208/index.m3u8
-
 #EXTINF:-1 ,group-title="江苏地方",泰州1
 http://ott.mobaibox.com/PLTV/3/224/3221228209/index.m3u8
 #EXTINF:-1 ,group-title="江苏地方",泰州2
@@ -148,14 +146,12 @@ http://ott.mobaibox.com/PLTV/3/224/3221227905/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221227755/index.m3u8
 #EXTINF:-1 ,group-title="江苏地方",无锡新闻
 http://ott.mobaibox.com/PLTV/3/224/3221228103/index.m3u8
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/扬州1.png" group-title="江苏地方",扬州1
+#EXTINF:-1 ,group-title="江苏地方",扬州1
 http://ott.mobaibox.com/PLTV/3/224/3221228155/index.m3u8
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/扬州2.png" group-title="江苏地方",扬州2
+#EXTINF:-1 ,group-title="江苏地方",扬州2
 http://ott.mobaibox.com/PLTV/3/224/3221228205/index.m3u8
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/扬州3.png" group-title="江苏地方",扬州3
+#EXTINF:-1 ,group-title="江苏地方",扬州3
 http://ott.mobaibox.com/PLTV/3/224/3221227867/index.m3u8
-
-
 #EXTINF:-1 ,group-title="江苏地方",连云港新闻综合
 http://ott.mobaibox.com/PLTV/4/224/3221227758/index.m3u8
 #EXTINF:-1 ,group-title="江苏地方",连云港生活频道
@@ -168,45 +164,12 @@ http://ott.mobaibox.com/PLTV/3/224/3221225947/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221225949/index.m3u8
 #EXTINF:-1 ,group-title="江苏地方",徐州4
 http://[2409:8087:2001:20:2800:0:df6e:eb1a]/wh7f454c46tw646564841_-1162201747/ott.mobaibox.com/PLTV/3/224/3221225951/index.m3u8
-
 #EXTINF:-1 ,group-title="江苏地方",宿迁综合
 http://ott.mobaibox.com/PLTV/3/224/3221226944/index.m3u8
 #EXTINF:-1 ,group-title="江苏地方",宿迁公共
 http://ott.mobaibox.com/PLTV/3/224/3221226939/index.m3u8
 #EXTINF:-1 ,group-title="江苏地方",淮安新闻综合
 http://ott.mobaibox.com/PLTV/3/224/3221228215/index.m3u8
-
-
-#EXTINF:-1 ,group-title="北京卫视",北京卫视
-http://[2409:8087:2061:20:3000:0:df6e:f79f]:6610/gitv/live1/G_BEIJING-HD-265-8M/G_BEIJING-HD-265-8M/1.m3u8
-#EXTINF:-1 ,group-title="北京卫视",北京纪实科教
-http://ott.mobaibox.com/PLTV/3/224/3221227699/index.m3u8
-#EXTINF:-1 ,group-title="北京卫视",北京4K超清
-http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/1.m3u8?GuardEncType=2&accountinfo=~~V2.0~e2qS8h6u-xp3gd50vNr1sw~_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPPFD3HVWEytEVyliOxehfe%2CEND
-#EXTINF:-1 ,group-title="北京卫视",北京国际
-http://[2409:8087:1:20:20::2a]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226510/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EIfgL7tTUNqHAIdgvKuwj8A%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPr9j5nfyiWS_jEXD6m401A%2CEND
-#EXTINF:-1 ,group-title="北京卫视",北京新闻
-http://[2409:8087:1:20:20::2a]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226437/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EncK5uEAdYwWMsf8WJWI1mQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNO_LSIQh_h2P54Cz-MqgJqC%2CEND
-#EXTINF:-1 ,group-title="北京卫视",北京文艺
-http://[2409:8087:1:20:20::29]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226440/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EWrJcgMpdGPvZavpf4dmmrQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNhmwDsUZnvQgU5E5wiGA2g%2CEND
-#EXTINF:-1 ,group-title="北京卫视",北京体育休闲
-http://[2409:8087:1:20:20::29]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226438/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EeVAybrHg955d_IRT9e_uHQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNMLCKqkSfuGOusJwBMwlCbz%2CEND
-#EXTINF:-1 ,group-title="北京卫视",北京影视
-http://[2409:8087:1:20:20::2a]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226433/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EygquRbh9L0wUPRY53fsZWw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNO62IynDcU1yYDL1b4Xte8T%2CEND
-#EXTINF:-1 ,group-title="北京卫视",北京生活
-http://[2409:8087:1:20:20::2a]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226514/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Es-PVNcPJsjr_oBdcXGT40g%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNMWvZ0r6eMXcXJOGrCpJiq1%2CEND
-#EXTINF:-1 ,group-title="北京卫视",北京财经
-http://[2409:8087:1:20:20::2a]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226516/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Eh9_SEkmWeMdS1TMnIILZgg%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPIiicEW7OIvk1s-X-PXHqO%2CEND
-#EXTINF:-1 ,group-title="北京卫视",淘电影
-http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EXOsrWMA-UCdUl1hQSR9EKw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNg3bzRax0E9tLmO9xgXVx8%2CEND
-#EXTINF:-1 ,group-title="北京卫视",淘剧场
-http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226553/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EQaJ92NID2SpQlY6_VJVogg%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNOuQYJeiYEeFWTkFfE86Vq-%2CEND
-#EXTINF:-1 ,group-title="北京卫视",淘娱乐
-http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226551/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Ex0efg9fpenP8E8lWJUb5Lg%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNg3bzRax0E9tLmO9xgXVx8%2CEND
-#EXTINF:-1 ,group-title="北京卫视",淘BABY
-http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226554/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EN0sbBMpQv4sLsW5foy3YfA%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNg3bzRax0E9tLmO9xgXVx8%2CEND
-#EXTINF:-1 ,group-title="北京卫视",萌宠TV
-http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226555/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E_PpxWPtvSZRFtu_Ged_-vQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNO0istnBuoA2R9ODSCqyIyS%2CEND
 
 
 #EXTINF:-1 ,group-title="地方卫视",凤凰香港
@@ -217,6 +180,24 @@ http://ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
 #EXTINF:-1 ,group-title="地方卫视",东方卫视
 http://[2409:8087:2061:20:3000:0:df6e:f7a1]:6610/gitv/live1/G_DONGFANG-HD-265-8M/G_DONGFANG-HD-265-8M/1.m3u8
+#EXTINF:-1 ,group-title="地方卫视",北京卫视
+http://[2409:8087:2061:20:3000:0:df6e:f79f]:6610/gitv/live1/G_BEIJING-HD-265-8M/G_BEIJING-HD-265-8M/1.m3u8
+#EXTINF:-1 ,group-title="地方卫视",北京纪实科教
+http://ott.mobaibox.com/PLTV/3/224/3221227699/index.m3u8
+#EXTINF:-1 ,group-title="地方卫视",北京国际
+http://[2409:8087:1:20:20::2a]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226510/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EIfgL7tTUNqHAIdgvKuwj8A%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPr9j5nfyiWS_jEXD6m401A%2CEND
+#EXTINF:-1 ,group-title="地方卫视",北京新闻
+http://[2409:8087:1:20:20::2a]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226437/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EncK5uEAdYwWMsf8WJWI1mQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNO_LSIQh_h2P54Cz-MqgJqC%2CEND
+#EXTINF:-1 ,group-title="地方卫视",北京文艺
+http://[2409:8087:1:20:20::29]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226440/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EWrJcgMpdGPvZavpf4dmmrQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNhmwDsUZnvQgU5E5wiGA2g%2CEND
+#EXTINF:-1 ,group-title="地方卫视",北京体育休闲
+http://[2409:8087:1:20:20::29]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226438/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EeVAybrHg955d_IRT9e_uHQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNMLCKqkSfuGOusJwBMwlCbz%2CEND
+#EXTINF:-1 ,group-title="地方卫视",北京影视
+http://[2409:8087:1:20:20::2a]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226433/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EygquRbh9L0wUPRY53fsZWw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNO62IynDcU1yYDL1b4Xte8T%2CEND
+#EXTINF:-1 ,group-title="地方卫视",北京生活
+http://[2409:8087:1:20:20::2a]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226514/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Es-PVNcPJsjr_oBdcXGT40g%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNMWvZ0r6eMXcXJOGrCpJiq1%2CEND
+#EXTINF:-1 ,group-title="地方卫视",北京财经
+http://[2409:8087:1:20:20::2a]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226516/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Eh9_SEkmWeMdS1TMnIILZgg%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPIiicEW7OIvk1s-X-PXHqO%2CEND
 #EXTINF:-1 ,group-title="地方卫视",重庆卫视
 http://[2409:8087:2061:20:3000:0:df6e:f782]:6610/cntv/live1/H265-5500k-1080P-chongqingstv/H265-5500k-1080P-chongqingstv/1.m3u8
 #EXTINF:-1 ,group-title="地方卫视",深圳卫视
@@ -272,7 +253,7 @@ http://[2409:8087:2061:20:3000:0:df6e:f7a2]:6610/cntv/live1/n-gansustv/n-gansust
 #EXTINF:-1 ,group-title="地方卫视",青海卫视
 http://[2409:8087:2061:20:3000:0:df6e:f78b]:6610/cntv/live1/n-qinghaistv/n-qinghaistv/1.m3u8
 #EXTINF:-1 ,group-title="地方卫视",广西卫视
-http://[2409:8087:2061:20:3100:0:df6e:f7d6]:6610/cntv/live1/n-guangxistv/n-guangxistv/1.m3u8
+http://39.135.133.139/PLTV/88888888/224/3221226091/.m3u8
 #EXTINF:-1 ,group-title="地方卫视",西藏卫视
 http://[2409:8087:2061:20:3000:0:df6e:f7a0]:6610/cntv/live1/n-xizangstv/n-xizangstv/1.m3u8
 #EXTINF:-1 ,group-title="地方卫视",宁夏卫视
@@ -293,6 +274,7 @@ http://223.110.247.200:6610/cntv/live1/SD-4000k-576P-yanbianstv/SD-4000k-576P-ya
 http://223.110.247.198:6610/cntv/live1/SD-4000k-576P-bingtuanstv/SD-4000k-576P-bingtuanstv/1.m3u8
 #EXTINF:-1 ,group-title="地方卫视",农林卫视
 http://[2409:8087:2061:20:3000:0:df6e:f7a1]:6610/cntv/live1/SD-4000k-576P-nonglinstv/SD-4000k-576P-nonglinstv/1.m3u8
+
 
 #EXTINF:-1 ,group-title="少儿频道",金鹰卡通
 http://223.110.247.214:6610/cntv/live1/n-jinyingkaton/n-jinyingkaton/1.m3u8
@@ -316,6 +298,8 @@ http://223.110.247.229:6610/gitv/live1/GITV-JS-13/GITV-JS-13/1.m3u8
 http://[2409:8087:2061:20:3000:0:df6e:f78e]:6610/gitv/live1/G_CETV-ZQJY-CQ/G_CETV-ZQJY-CQ/1.m3u8
 #EXTINF:-1 ,group-title="少儿频道",南京少儿
 http://ott.mobaibox.com/PLTV/3/224/3221227733/index.m3u8
+#EXTINF:-1 ,group-title="少儿频道",黑龙江少儿
+http://39.135.135.10/PLTV/88888888/224/3221225979/.m3u8
 
 #EXTINF:-1 ,group-title="咪咕直播",晴彩青少
 http://[2409:8087:2061:20:3100:0:df6e:f7d7]:6610/cntv/live1/HD-8000k-1080P-quanminrl/HD-8000k-1080P-quanminrl/1.m3u8
@@ -377,3 +361,13 @@ http://ott.mobaibox.com/PLTV/3/224/3221227475/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221227612/index.m3u8
 #EXTINF:-1 ,group-title="咪咕直播",家庭理财
 http://ott.mobaibox.com/PLTV/3/224/3221227011/index.m3u8
+#EXTINF:-1 ,group-title="咪咕直播",淘电影
+http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EXOsrWMA-UCdUl1hQSR9EKw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNg3bzRax0E9tLmO9xgXVx8%2CEND
+#EXTINF:-1 ,group-title="咪咕直播",淘剧场
+http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226553/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EQaJ92NID2SpQlY6_VJVogg%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNOuQYJeiYEeFWTkFfE86Vq-%2CEND
+#EXTINF:-1 ,group-title="咪咕直播",淘娱乐
+http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226551/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Ex0efg9fpenP8E8lWJUb5Lg%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNg3bzRax0E9tLmO9xgXVx8%2CEND
+#EXTINF:-1 ,group-title="咪咕直播",淘BABY
+http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226554/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EN0sbBMpQv4sLsW5foy3YfA%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNg3bzRax0E9tLmO9xgXVx8%2CEND
+#EXTINF:-1 ,group-title="咪咕直播",萌宠TV
+http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226555/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E_PpxWPtvSZRFtu_Ged_-vQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNO0istnBuoA2R9ODSCqyIyS%2CEND
