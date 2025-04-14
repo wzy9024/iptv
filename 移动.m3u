@@ -296,8 +296,10 @@ http://[2409:8087:2061:20:3100:0:df6e:f7c2]:6610/gitv/live1/miguaoyun01-AVS-4K01
 http://[2409:8087:2061:20:3000:0:df6e:f78c]:6610/gitv/live1/GITV-JS-17/GITV-JS-17/1.m3u8
 #EXTINF:-1 ,group-title="咪咕直播",高分电影
 http://[2409:8087:2061:20:3100:0:df6e:f7d8]:6610/gitv/live1/GITV-JS-14/GITV-JS-14/1.m3u8
-#EXTINF:-1 ,group-title="咪咕直播",动作大电影
-http://[2409:8087:2061:20:3000:0:df6e:f78f]:6610/gitv/live1/GITV-JS-52/GITV-JS-52/1.m3u8
+#EXTINF:-1 ,group-title="咪咕直播",4k修复
+http://ott.mobaibox.com/PLTV/3/224/3221228141/index.m3u8
+#EXTINF:-1 ,group-title="咪咕直播",4kuhd
+http://ott.mobaibox.com/PLTV/3/224/3221227506/index.m3u8
 #EXTINF:-1 ,group-title="咪咕直播",抖音热歌
 http://[2409:8087:2061:20:3000:0:df6e:f7a0]:6610/gitv/live1/GITV-JS-6/GITV-JS-6/1.m3u8
 #EXTINF:-1 ,group-title="咪咕直播",流行音乐
