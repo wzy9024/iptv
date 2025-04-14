@@ -296,6 +296,10 @@ http://[2409:8087:2061:20:3100:0:df6e:f7d7]:6610/gitv/live1/miguaoyun1-AVS/migua
 http://[2409:8087:2061:20:3100:0:df6e:f7c2]:6610/gitv/live1/miguaoyun01-AVS-4K01/miguaoyun01-AVS-4K01/1.m3u8
 #EXTINF:-1 ,group-title="咪咕直播",美食美味
 http://[2409:8087:2061:20:3000:0:df6e:f78c]:6610/gitv/live1/GITV-JS-17/GITV-JS-17/1.m3u8
+#EXTINF:-1 ,group-title="咪咕直播",影视剧场
+http://[2409:8087:2061:20:3100:0:df6e:f7d8]:6610/gitv/live1/GITV-JS-1/GITV-JS-1/1.m3u8
+#EXTINF:-1 ,group-title="咪咕直播",第一院线
+http://[2409:8087:2061:20:3100:0:df6e:f7d8]:6610/gitv/live1/GITV-JS-2/GITV-JS-2/1.m3u8
 #EXTINF:-1 ,group-title="咪咕直播",高分电影
 http://[2409:8087:2061:20:3100:0:df6e:f7d8]:6610/gitv/live1/GITV-JS-14/GITV-JS-14/1.m3u8
 #EXTINF:-1 ,group-title="咪咕直播",4k修复
