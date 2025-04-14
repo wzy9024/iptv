@@ -308,45 +308,60 @@ http://[2409:8087:2061:20:3000:0:df6e:f7a0]:6610/gitv/live1/GITV-JS-6/GITV-JS-6/
 http://[2409:8087:2061:20:3100:0:df6e:f7d6]:6610/gitv/live1/GITV-JS-5/GITV-JS-5/1.m3u8
 #EXTINF:-1 ,group-title="咪咕直播",黑莓电影
 http://ott.mobaibox.com/PLTV/3/224/3221227520/index.m3u8
+
 #EXTINF:-1 ,group-title="咪咕直播",潮妈辣婆
 http://ott.mobaibox.com/PLTV/3/224/3221227527/index.m3u8
 #EXTINF:-1 ,group-title="咪咕直播",中国功夫
 http://ott.mobaibox.com/PLTV/3/224/3221227530/index.m3u8
-#EXTINF:-1 ,group-title="咪咕直播",惊悚悬疑
-http://ott.mobaibox.com/PLTV/3/224/3221227536/index.m3u8
-#EXTINF:-1 ,group-title="咪咕直播",金牌综艺
-http://ott.mobaibox.com/PLTV/3/224/3221227541/index.m3u8
-#EXTINF:-1 ,group-title="咪咕直播",古装剧场
-http://ott.mobaibox.com/PLTV/3/224/3221227542/index.m3u8
-#EXTINF:-1 ,group-title="咪咕直播",劲爆体育
-http://ott.mobaibox.com/PLTV/3/224/3221227023/index.m3u8
+#EXTINF:-1 ,group-title="咪咕直播",怡伴健康
+http://ott.mobaibox.com/PLTV/3/224/3221227612/index.m3u8
+#EXTINF:-1 ,group-title="咪咕直播",军事评论
+http://ott.mobaibox.com/PLTV/3/224/3221227544/index.m3u8
+#EXTINF:-1 ,group-title="咪咕直播",军旅剧场
+http://ott.mobaibox.com/PLTV/3/224/3221227603/index.m3u8
+#EXTINF:-1 ,group-title="咪咕直播",农业致富
+http://ott.mobaibox.com/PLTV/3/224/3221227588/index.m3u8
 #EXTINF:-1 ,group-title="咪咕直播",动作电影
 http://ott.mobaibox.com/PLTV/3/224/3221227606/index.m3u8
+#EXTINF:-1 ,group-title="咪咕直播",古装剧场
+http://ott.mobaibox.com/PLTV/3/224/3221227542/index.m3u8
+#EXTINF:-1 ,group-title="咪咕直播",家庭剧场
+http://ott.mobaibox.com/PLTV/3/224/3221227600/index.m3u8
+#EXTINF:-1 ,group-title="咪咕直播",惊悚悬疑
+http://ott.mobaibox.com/PLTV/3/224/3221227536/index.m3u8
+#EXTINF:-1 ,group-title="咪咕直播",武搏世界
+http://ott.mobaibox.com/PLTV/3/224/3221227533/index.m3u8
+#EXTINF:-1 ,group-title="咪咕直播",爱情喜剧
+http://ott.mobaibox.com/PLTV/3/224/3221227548/index.m3u8
 #EXTINF:-1 ,group-title="咪咕直播",精品体育
 http://ott.mobaibox.com/PLTV/3/224/3221227615/index.m3u8
 #EXTINF:-1 ,group-title="咪咕直播",精品大剧
 http://ott.mobaibox.com/PLTV/3/224/3221227618/index.m3u8
-#EXTINF:-1 ,group-title="咪咕直播",中华美食
-http://ott.mobaibox.com/PLTV/3/224/3221227647/index.m3u8
-#EXTINF:-1 ,group-title="咪咕直播",家庭剧场
-http://ott.mobaibox.com/PLTV/3/224/3221227600/index.m3u8
-#EXTINF:-1 ,group-title="咪咕直播",军旅剧场
-http://ott.mobaibox.com/PLTV/3/224/3221227603/index.m3u8
-#EXTINF:-1 ,group-title="咪咕直播",爱情喜剧
-http://ott.mobaibox.com/PLTV/3/224/3221227548/index.m3u8
 #EXTINF:-1 ,group-title="咪咕直播",精品纪录
 http://ott.mobaibox.com/PLTV/3/224/3221227547/index.m3u8
-#EXTINF:-1 ,group-title="咪咕直播",军事评论
-http://ott.mobaibox.com/PLTV/3/224/3221227544/index.m3u8
+#EXTINF:-1 ,group-title="咪咕直播",金牌综艺
+http://ott.mobaibox.com/PLTV/3/224/3221227541/index.m3u8
 #EXTINF:-1 ,group-title="咪咕直播",明星大片
 http://ott.mobaibox.com/PLTV/3/224/3221227594/index.m3u8
-#EXTINF:-1 ,group-title="咪咕直播",农业致富
-http://ott.mobaibox.com/PLTV/3/224/3221227588/index.m3u8
-#EXTINF:-1 ,group-title="咪咕直播",武搏世界
-http://ott.mobaibox.com/PLTV/3/224/3221227533/index.m3u8
+
+#EXTINF:-1 ,group-title="咪咕直播",劲爆体育
+http://ott.mobaibox.com/PLTV/3/224/3221227023/index.m3u8
+#EXTINF:-1 ,group-title="咪咕直播",中华美食
+http://ott.mobaibox.com/PLTV/3/224/3221227647/index.m3u8
 #EXTINF:-1 ,group-title="咪咕直播",炫舞未来
 http://ott.mobaibox.com/PLTV/3/224/3221227475/index.m3u8
-#EXTINF:-1 ,group-title="咪咕直播",怡伴健康
-http://ott.mobaibox.com/PLTV/3/224/3221227612/index.m3u8
 #EXTINF:-1 ,group-title="咪咕直播",家庭理财
 http://ott.mobaibox.com/PLTV/3/224/3221227011/index.m3u8
+
+#EXTINF:-1 ,group-title="咪咕直播",超级体育
+http://39.134.67.148/PLTV/88888888/224/3221225635/1.m3u8
+#EXTINF:-1 ,group-title="咪咕直播",超级电视剧
+http://39.134.67.148/PLTV/88888888/224/3221225637/1.m3u8
+#EXTINF:-1 ,group-title="咪咕直播",超级电影
+http://39.134.67.148/PLTV/88888888/224/3221225644/1.m3u8
+#EXTINF:-1 ,group-title="咪咕直播",超级综艺
+http://39.134.67.148/PLTV/88888888/224/3221225642/1.m3u8
+#EXTINF:-1 ,group-title="咪咕直播",东北热剧
+http://39.134.67.148/PLTV/88888888/224/3221225679/1.m3u8
+#EXTINF:-1 ,group-title="咪咕直播",欢乐剧场
+http://39.134.67.148/PLTV/88888888/224/3221225682/1.m3u8
