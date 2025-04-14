@@ -198,8 +198,6 @@ http://[2409:8087:2061:20:3000:0:df6e:f78f]:6610/gitv/live1/G_ZHEJIANG-HD-265-8M
 http://[2409:8087:2061:20:3000:0:df6e:f78c]:6610/gitv/live1/G_ANHUI-HD-265-8M/G_ANHUI-HD-265-8M/1.m3u8
 #EXTINF:-1 ,group-title="地方卫视",河北卫视
 http://[2409:8087:2061:20:3100:0:df6e:f7e5]:6610/gitv/live1/G_HEBEI-CQ/G_HEBEI-CQ/1.m3u8
-#EXTINF:-1 ,group-title="地方卫视",山西卫视
-http://[2409:8087:2061:20:3000:0:df6e:f7a0]:6610/cntv/live1/n-shanxistv/n-shanxistv/1.m3u8
 #EXTINF:-1 ,group-title="地方卫视",辽宁卫视
 http://[2409:8087:2061:20:3000:0:df6e:f79a]:6610/gitv/live1/G_LIAONING-HD-265-8M/G_LIAONING-HD-265-8M/1.m3u8
 #EXTINF:-1 ,group-title="地方卫视",吉林卫视
@@ -244,6 +242,8 @@ http://ott.mobaibox.com/PLTV/3/224/3221228183/index.m3u8
 http://[2409:8087:2061:20:3000:0:df6e:f78b]:6610/cntv/live1/n-qinghaistv/n-qinghaistv/1.m3u8
 #EXTINF:-1 ,group-title="地方卫视",陕西卫视
 http://[2409:8087:2061:20:3100:0:df6e:f7df]:6610/cntv/live1/n-shanxi1stv/n-shanxi1stv/1.m3u8
+#EXTINF:-1 ,group-title="地方卫视",山西卫视
+http://[2409:8087:2061:20:3000:0:df6e:f7a0]:6610/cntv/live1/n-shanxistv/n-shanxistv/1.m3u8
 #EXTINF:-1 ,group-title="地方卫视",西藏卫视
 http://[2409:8087:2061:20:3000:0:df6e:f7a0]:6610/cntv/live1/n-xizangstv/n-xizangstv/1.m3u8
 #EXTINF:-1 ,group-title="地方卫视",宁夏卫视
