@@ -117,8 +117,6 @@ https://live-auth.51kandianshi.com/szgd/csztv5.m3u8
 https://live-auth.51kandianshi.com/szgd/csztv4k_4k.m3u8
 #EXTINF:-1 ,group-title="江苏地方",无锡新闻
 http://ott.mobaibox.com/PLTV/3/224/3221228103/index.m3u8
-#EXTINF:-1 ,group-title="江苏地方",无锡都市资讯
-http://stream.thmz.com/wxtv3/playlist.m3u8
 #EXTINF:-1 ,group-title="江苏地方",无锡娱乐
 http://stream.thmz.com/wxtv2/playlist.m3u8
 #EXTINF:-1 ,group-title="江苏地方",无锡生活
