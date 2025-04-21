@@ -102,6 +102,7 @@ http://ott.mobaibox.com/PLTV/3/224/3221228435/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221228433/index.m3u8
 #EXTINF:-1 ,group-title="江苏地方",盐城3
 http://ott.mobaibox.com/PLTV/3/224/3221228436/index.m3u8
+
 #EXTINF:-1 ,group-title="江苏地方",苏州新闻综合
 https://live-auth.51kandianshi.com/szgd/csztv1.m3u8
 #EXTINF:-1 ,group-title="江苏地方",苏州社会经济
@@ -114,6 +115,17 @@ https://live-auth.51kandianshi.com/szgd/csztv4.m3u8
 https://live-auth.51kandianshi.com/szgd/csztv5.m3u8
 #EXTINF:-1 ,group-title="江苏地方",苏州4K
 https://live-auth.51kandianshi.com/szgd/csztv4k_4k.m3u8
+#EXTINF:-1 ,group-title="江苏地方",无锡新闻
+http://ott.mobaibox.com/PLTV/3/224/3221228103/index.m3u8
+#EXTINF:-1 ,group-title="江苏地方",无锡娱乐
+http://stream.thmz.com/wxtv2/playlist.m3u8
+#EXTINF:-1 ,group-title="江苏地方",无锡都市资讯
+http://stream.thmz.com/wxtv3/playlist.m3u8
+#EXTINF:-1 ,group-title="江苏地方",无锡生活
+http://stream.thmz.com/wxtv4/playlist.m3u8
+#EXTINF:-1 ,group-title="江苏地方",无锡经济
+http://stream.thmz.com/wxtv5/playlist.m3u8
+
 #EXTINF:-1 ,group-title="江苏地方",南京新闻综合
 http://ott.mobaibox.com/PLTV/3/224/3221227213/index.m3u8
 #EXTINF:-1 ,group-title="江苏地方",南京十八·生活频道
@@ -144,8 +156,7 @@ http://ott.mobaibox.com/PLTV/3/224/3221227902/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221227905/index.m3u8
 #EXTINF:-1 ,group-title="江苏地方",常州都市
 http://ott.mobaibox.com/PLTV/3/224/3221227755/index.m3u8
-#EXTINF:-1 ,group-title="江苏地方",无锡新闻
-http://ott.mobaibox.com/PLTV/3/224/3221228103/index.m3u8
+
 #EXTINF:-1 ,group-title="江苏地方",扬州1
 http://ott.mobaibox.com/PLTV/3/224/3221228155/index.m3u8
 #EXTINF:-1 ,group-title="江苏地方",扬州2
