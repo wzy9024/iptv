@@ -102,7 +102,8 @@ http://ott.mobaibox.com/PLTV/3/224/3221228435/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221228433/index.m3u8
 #EXTINF:-1 ,group-title="江苏地方",盐城3
 http://ott.mobaibox.com/PLTV/3/224/3221228436/index.m3u8
-
+#EXTINF:-1 ,group-title="江苏地方",无锡新闻
+http://ott.mobaibox.com/PLTV/3/224/3221228103/index.m3u8
 #EXTINF:-1 ,group-title="江苏地方",苏州新闻综合
 https://live-auth.51kandianshi.com/szgd/csztv1.m3u8
 #EXTINF:-1 ,group-title="江苏地方",苏州社会经济
@@ -115,8 +116,6 @@ https://live-auth.51kandianshi.com/szgd/csztv4.m3u8
 https://live-auth.51kandianshi.com/szgd/csztv5.m3u8
 #EXTINF:-1 ,group-title="江苏地方",苏州4K
 https://live-auth.51kandianshi.com/szgd/csztv4k_4k.m3u8
-#EXTINF:-1 ,group-title="江苏地方",无锡新闻
-http://ott.mobaibox.com/PLTV/3/224/3221228103/index.m3u8
 #EXTINF:-1 ,group-title="江苏地方",南京新闻综合
 http://ott.mobaibox.com/PLTV/3/224/3221227213/index.m3u8
 #EXTINF:-1 ,group-title="江苏地方",南京十八·生活频道
