@@ -39,29 +39,29 @@ http://ott.mobaibox.com/PLTV/3/224/3221227726/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8
 #EXTINF:-1 ,group-title="央视",CCTV8K 
 http://ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8
-#EXTINF:-1 ,group-title="央视",高尔夫网球
-http://[2409:8087:2061:20:3100:0:df6e:f7de]:6610/gitv/live1/G_CCTV-GOLF-CQ/G_CCTV-GOLF-CQ/1.m3u8
+#EXTINF:-1 ,group-title="央视",高尔夫·网球
+http://ott.mobaibox.com/PLTV/3/224/3221228138/index.m3u8
 #EXTINF:-1 ,group-title="央视",世界地理
 http://[2409:8087:2061:20:3000:0:df6e:f7a5]:6610/gitv/live1/G_SHIJIEDL-CQ/G_SHIJIEDL-CQ/1.m3u8
-#EXTINF:-1 ,group-title="央视",CCTV第一剧场
+#EXTINF:-1 ,group-title="央视",第一剧场
 http://[2409:8087:2061:20:3100:0:df6e:f7c3]:6610/gitv/live1/G_DIYIJC-CQ/G_DIYIJC-CQ/1.m3u8
-#EXTINF:-1 ,group-title="央视",CCTV风云剧场
+#EXTINF:-1 ,group-title="央视",风云剧场
 http://[2409:8087:2061:20:3000:0:df6e:f79a]:6610/gitv/live1/G_FENGYUNJC-CQ/G_FENGYUNJC-CQ/1.m3u8
-#EXTINF:-1 ,group-title="央视",CCTV风云音乐
+#EXTINF:-1 ,group-title="央视",风云音乐
 http://[2409:8087:2061:20:3000:0:df6e:f79f]:6610/gitv/live1/G_FENGYUNYY-CQ/G_FENGYUNYY-CQ/1.m3u8
-#EXTINF:-1 ,group-title="央视",CCTV风云足球
+#EXTINF:-1 ,group-title="央视",风云足球
 http://[2409:8087:2061:20:3100:0:df6e:f7d9]:6610/gitv/live1/G_FENGSHANGZQ-CQ/G_FENGSHANGZQ-CQ/1.m3u8
-#EXTINF:-1 ,group-title="央视",CCTV怀旧剧场
+#EXTINF:-1 ,group-title="央视",怀旧剧场
 http://[2409:8087:2061:20:3000:0:df6e:f7a3]:6610/gitv/live1/G_HUAIJIUJC-CQ/G_HUAIJIUJC-CQ/1.m3u8
-#EXTINF:-1 ,group-title="央视",CCTV女性时尚
+#EXTINF:-1 ,group-title="央视",女性时尚
 http://[2409:8087:2061:20:3000:0:df6e:f79b]:6610/gitv/live1/G_NVXINGSS-CQ/G_NVXINGSS-CQ/1.m3u8
-#EXTINF:-1 ,group-title="央视",CCTV文化精品
+#EXTINF:-1 ,group-title="央视",文化精品
 http://[2409:8087:2061:20:3100:0:df6e:f7e0]:6610/gitv/live1/G_CCTV-WENHUA-CQ/G_CCTV-WENHUA-CQ/1.m3u8
-#EXTINF:-1 ,group-title="央视",CCTV台球
+#EXTINF:-1 ,group-title="央视",台球
 http://[2409:8087:2061:20:3000:0:df6e:f79f]:6610/gitv/live1/G_TAIQIU-CQ/G_TAIQIU-CQ/1.m3u8
-#EXTINF:-1 ,group-title="央视",CCTV兵器科技
+#EXTINF:-1 ,group-title="央视",兵器科技
 http://[2409:8087:2061:20:3100:0:df6e:f7d7]:6610/gitv/live1/G_BINGQIKJ-CQ/G_BINGQIKJ-CQ/1.m3u8
-#EXTINF:-1 ,group-title="央视",CCTV电视指南
+#EXTINF:-1 ,group-title="央视",电视指南
 http://[2409:8087:2061:20:3100:0:df6e:f7e3]:6610/gitv/live1/G_DIANSHIZN-CQ/G_DIANSHIZN-CQ/1.m3u8
 #EXTINF:-1 ,group-title="央视",CGTN
 http://ott.mobaibox.com/PLTV/3/224/3221228811/index.m3u8
@@ -86,7 +86,7 @@ http://ott.mobaibox.com/PLTV/3/224/3221228734/index.m3u8
 #EXTINF:-1 ,group-title="江苏地方",江苏新闻
 http://ott.mobaibox.com/PLTV/3/224/3221228743/index.m3u8
 #EXTINF:-1 ,group-title="江苏地方",江苏教育
-http://[2409:8087:2061:20:3100:0:df6e:f7e2]:6610/gitv/live1/G_JSJY/G_JSJY/1.m3u8
+http://ott.mobaibox.com/PLTV/3/224/3221225923/index.m3u8
 #EXTINF:-1 ,group-title="江苏地方",江苏影视
 http://ott.mobaibox.com/PLTV/3/224/3221228728/index.m3u8
 #EXTINF:-1 ,group-title="江苏地方",南通新闻综合
