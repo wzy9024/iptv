@@ -60,7 +60,7 @@ http://ott.mobaibox.com/PLTV/3/224/3221228677/index.m3u8
 #EXTINF:-1 ,group-title="央视",台球
 http://ott.mobaibox.com/PLTV/3/224/3221228683/index.m3u8
 #EXTINF:-1 ,group-title="央视",兵器科技
-http://[2409:8087:2061:20:3100:0:df6e:f7d7]:6610/gitv/live1/G_BINGQIKJ-CQ/G_BINGQIKJ-CQ/1.m3u8
+http://ott.mobaibox.com/PLTV/3/224/3221228686/index.m3u8
 #EXTINF:-1 ,group-title="央视",电视指南
 http://ott.mobaibox.com/PLTV/3/224/3221228689/index.m3u8
 #EXTINF:-1 ,group-title="央视",CGTN
