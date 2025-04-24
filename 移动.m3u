@@ -65,13 +65,13 @@ http://ott.mobaibox.com/PLTV/3/224/3221228686/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221228689/index.m3u8
 #EXTINF:-1 ,group-title="央视",CGTN
 http://ott.mobaibox.com/PLTV/3/224/3221228811/index.m3u8
-#EXTINF:-1 ,group-title="央视",CETV-1
+#EXTINF:-1 ,group-title="央视",CETV1
 http://ott.mobaibox.com/PLTV/3/224/3221227560/index.m3u8
-#EXTINF:-1 ,group-title="央视",CETV-2
+#EXTINF:-1 ,group-title="央视",CETV2
 http://ott.mobaibox.com/PLTV/3/224/3221227607/index.m3u8
-#EXTINF:-1 ,group-title="央视",CETV-3
+#EXTINF:-1 ,group-title="央视",CETV3
 http://ott.mobaibox.com/PLTV/3/224/3221227018/index.m3u8
-#EXTINF:-1 ,group-title="央视",CETV-4
+#EXTINF:-1 ,group-title="央视",CETV4
 http://ott.mobaibox.com/PLTV/3/224/3221227028/index.m3u8
 
 
@@ -181,7 +181,7 @@ http://ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221227511/index.m3u8
 #EXTINF:-1 ,group-title="地方卫视",北京卫视
 http://ott.mobaibox.com/PLTV/4/224/3221228890/index.m3u8
-#EXTINF:-1 ,group-title="地方卫视",北京纪实科教
+#EXTINF:-1 ,group-title="地方卫视",北京纪实
 http://ott.mobaibox.com/PLTV/3/224/3221227699/index.m3u8
 #EXTINF:-1 ,group-title="地方卫视",重庆卫视
 http://ott.mobaibox.com/PLTV/3/224/3221228133/index.m3u8
@@ -207,7 +207,7 @@ http://ott.mobaibox.com/PLTV/3/224/3221227670/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221228109/index.m3u8
 #EXTINF:-1 ,group-title="地方卫视",山东卫视
 http://ott.mobaibox.com/PLTV/3/224/3221227517/index.m3u8
-#EXTINF:-1 ,group-title="地方卫视",山东·教育卫视
+#EXTINF:-1 ,group-title="地方卫视",山东教育
 http://[2409:8087:2061:20:3000:0:df6e:f7a1]:6610/cntv/live1/n-shandongjy/n-shandongjy/1.m3u8
 #EXTINF:-1 ,group-title="地方卫视",河南卫视
 http://ott.mobaibox.com/PLTV/3/224/3221228221/index.m3u8
@@ -251,15 +251,15 @@ http://[2409:8087:2061:20:3100:0:df6e:f7c8]:6610/cntv/live1/n-ningxiastv/n-ningx
 http://[2409:8087:2061:20:3100:0:df6e:f7e0]:6610/cntv/live1/n-neimenggustv/n-neimenggustv/1.m3u8
 #EXTINF:-1 ,group-title="地方卫视",厦门卫视
 http://ott.mobaibox.com/PLTV/3/224/3221227604/index.m3u8
-#EXTINF:-1 ,group-title="地方卫视",四川·康巴卫视
+#EXTINF:-1 ,group-title="地方卫视",康巴卫视
 http://[2409:8087:2061:20:3100:0:df6e:f7e2]:6610/cntv/live1/SD-4000k-576P-kambatv/SD-4000k-576P-kambatv/1.m3u8
-#EXTINF:-1 ,group-title="地方卫视",青海·安多卫视
+#EXTINF:-1 ,group-title="地方卫视",安多卫视
 http://[2409:8087:2061:20:3100:0:df6e:f7e4]:6610/cntv/live1/anduostv/anduostv/1.m3u8
-#EXTINF:-1 ,group-title="地方卫视",吉林·延边卫视
+#EXTINF:-1 ,group-title="地方卫视",延边卫视
 http://223.110.247.200:6610/cntv/live1/SD-4000k-576P-yanbianstv/SD-4000k-576P-yanbianstv/1.m3u8
-#EXTINF:-1 ,group-title="地方卫视",新疆·兵团卫视
+#EXTINF:-1 ,group-title="地方卫视",兵团卫视
 http://223.110.247.198:6610/cntv/live1/SD-4000k-576P-bingtuanstv/SD-4000k-576P-bingtuanstv/1.m3u8
-#EXTINF:-1 ,group-title="地方卫视",陕西·农林卫视
+#EXTINF:-1 ,group-title="地方卫视",农林卫视
 http://[2409:8087:2061:20:3000:0:df6e:f7a1]:6610/cntv/live1/SD-4000k-576P-nonglinstv/SD-4000k-576P-nonglinstv/1.m3u8
 
 
