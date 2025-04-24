@@ -1,40 +1,40 @@
 #EXTM3U
 #EXTINF:-1 ,group-title="央视",CCTV-1
-http://[2409:8087:2061:20:3000:0:df6e:f78c]:6610/gitv/live1/G_CCTV-1-AVS-4K264/G_CCTV-1-AVS-4K264/1.m3u8
+http://ott.mobaibox.com/PLTV/4/224/3221228581/index.m3u8
 #EXTINF:-1 ,group-title="央视",CCTV-2
-http://[2409:8087:2061:20:3100:0:df6e:f7c9]:6610/gitv/live1/G_CCTV-2-MD/G_CCTV-2-MD/1.m3u8
+http://ott.mobaibox.com/PLTV/3/224/3221228094/index.m3u8
 #EXTINF:-1 ,group-title="央视",CCTV-3
-http://[2409:8087:2061:20:3100:0:df6e:f7df]:6610/gitv/live1/G_CCTV-3-AVS-4K264/G_CCTV-3-AVS-4K264/1.m3u8
+http://ott.mobaibox.com/PLTV/4/224/3221228499/index.m3u8
 #EXTINF:-1 ,group-title="央视",CCTV-4
-http://[2409:8087:2061:20:3000:0:df6e:f7a4]:6610/gitv/live1/G_CCTV-4-MD/G_CCTV-4-MD/1.m3u8
+http://ott.mobaibox.com/PLTV/3/224/3221228091/index.m3u8
 #EXTINF:-1 ,group-title="央视",CCTV-5
-http://[2409:8087:2061:20:3000:0:df6e:f7a2]:6610/gitv/live1/G_CCTV-5-AVS-4K264/G_CCTV-5-AVS-4K264/1.m3u8
+http://ott.mobaibox.com/PLTV/4/224/3221228502/index.m3u8
 #EXTINF:-1 ,group-title="央视",CCTV-5+
-http://[2409:8087:2061:20:3100:0:df6e:f7e2]:6610/gitv/live1/G_CCTV-5PLUS-MD/G_CCTV-5PLUS-MD/1.m3u8
+http://ott.mobaibox.com/PLTV/3/224/3221228176/index.m3u8
 #EXTINF:-1 ,group-title="央视",CCTV-6
-http://[2409:8087:2061:20:3100:0:df6e:f7c3]:6610/gitv/live1/G_CCTV-6-AVS-4K264/G_CCTV-6-AVS-4K264/1.m3u8
+http://ott.mobaibox.com/PLTV/4/224/3221228516/index.m3u8
 #EXTINF:-1 ,group-title="央视",CCTV-7
-http://[2409:8087:2061:20:3000:0:df6e:f786]:6610/cntv/live1/H265-12000k-1080P-cctv7/H265-12000k-1080P-cctv7/1.m3u8
+http://ott.mobaibox.com/PLTV/3/224/3221227626/index.m3u8
 #EXTINF:-1 ,group-title="央视",CCTV-8
-http://[2409:8087:2061:20:3000:0:df6e:f79e]:6610/gitv/live1/G_CCTV-8-AVS-4K264/G_CCTV-8-AVS-4K264/1.m3u8
+http://ott.mobaibox.com/PLTV/4/224/3221228578/index.m3u8
 #EXTINF:-1 ,group-title="央视",CCTV-9
-http://[2409:8087:2061:20:3100:0:df6e:f7c8]:6610/gitv/live1/G_CCTV-9-HD-265-5M/G_CCTV-9-HD-265-5M/1.m3u8
+http://ott.mobaibox.com/PLTV/3/224/3221227614/index.m3u8
 #EXTINF:-1 ,group-title="央视",CCTV-10
-http://[2409:8087:2061:20:3000:0:df6e:f786]:6610/cntv/live1/H265-5500k-1080P-cctv10/H265-5500k-1080P-cctv10/1.m3u8
+http://ott.mobaibox.com/PLTV/3/224/3221228078/index.m3u8
 #EXTINF:-1 ,group-title="央视",CCTV-11
-http://[2409:8087:2061:20:3000:0:df6e:f782]:6610/cntv/live1/H265-5500k-1080P-cctv11/H265-5500k-1080P-cctv11/1.m3u8
+http://ott.mobaibox.com/PLTV/3/224/3221227720/index.m3u8
 #EXTINF:-1 ,group-title="央视",CCTV-12
-http://[2409:8087:2061:20:3000:0:df6e:f78f]:6610/cntv/live1/H265-5500k-1080P-cctv12/H265-5500k-1080P-cctv12/1.m3u8
+http://ott.mobaibox.com/PLTV/3/224/3221227637/index.m3u8
 #EXTINF:-1 ,group-title="央视",CCTV-13
-http://[2409:8087:2061:20:3100:0:df6e:f7e0]:6610/gitv/live1/G_CCTV-13-HQ/G_CCTV-13-HQ/1.m3u8
+http://ott.mobaibox.com/PLTV/3/224/3221228224/index.m3u8
 #EXTINF:-1 ,group-title="央视",CCTV-14
-http://[2409:8087:2061:20:3000:0:df6e:f79b]:6610/cntv/live1/H265-5500k-1080P-cctv14/H265-5500k-1080P-cctv14/1.m3u8
+http://ott.mobaibox.com/PLTV/3/224/3221227693/index.m3u8
 #EXTINF:-1 ,group-title="央视",CCTV-15
-http://[2409:8087:2061:20:3100:0:df6e:f7e0]:6610/cntv/live1/H265-5500k-1080P-cctv15/H265-5500k-1080P-cctv15/1.m3u8
+http://ott.mobaibox.com/PLTV/3/224/3221228404/index.m3u8
 #EXTINF:-1 ,group-title="央视",CCTV-16
-http://[2409:8087:2061:20:3100:0:df6e:f7d8]:6610/gitv/live1/G_CCTV-16-4K/G_CCTV-16-4K/1.m3u8
+http://ott.mobaibox.com/PLTV/3/224/3221228168/index.m3u8
 #EXTINF:-1 ,group-title="央视",CCTV-17
-http://[2409:8087:2061:20:3100:0:df6e:f7e4]:6610/cntv/live1/H265-5500k-1080P-cctv17/H265-5500k-1080P-cctv17/1.m3u8
+http://ott.mobaibox.com/PLTV/3/224/3221228407/index.m3u8
 #EXTINF:-1 ,group-title="央视",CCTV4K 
 http://ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8
 #EXTINF:-1 ,group-title="央视",CCTV8K 
