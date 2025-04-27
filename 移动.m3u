@@ -170,7 +170,6 @@ http://ott.mobaibox.com/PLTV/3/224/3221226939/index.m3u8
 #EXTINF:-1 ,group-title="江苏地方",淮安新闻综合
 http://ott.mobaibox.com/PLTV/3/224/3221228215/index.m3u8
 
-
 #EXTINF:-1 ,group-title="地方卫视",凤凰香港
 http://ott.mobaibox.com/PLTV/3/224/3221228530/index.m3u8
 #EXTINF:-1 ,group-title="地方卫视",凤凰中文
@@ -183,6 +182,18 @@ http://ott.mobaibox.com/PLTV/3/224/3221227511/index.m3u8
 http://ott.mobaibox.com/PLTV/4/224/3221228890/index.m3u8
 #EXTINF:-1 ,group-title="地方卫视",北京纪实
 http://ott.mobaibox.com/PLTV/3/224/3221227699/index.m3u8
+#EXTINF:-1 ,group-title="地方卫视",北京IPTV4K
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/index.m3u8?
+#EXTINF:-1 ,group-title="地方卫视",北京IPTV萌宠
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226555/index.m3u8?
+#EXTINF:-1 ,group-title="地方卫视",北京IPTV淘BABY
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226554/index.m3u8?
+#EXTINF:-1 ,group-title="地方卫视",北京IPTV淘电影
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/index.m3u8?
+#EXTINF:-1 ,group-title="地方卫视",北京IPTV淘剧场
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226553/index.m3u8?
+#EXTINF:-1 ,group-title="地方卫视",北京IPTV淘娱乐
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226551/index.m3u8?
 #EXTINF:-1 ,group-title="地方卫视",重庆卫视
 http://ott.mobaibox.com/PLTV/3/224/3221228133/index.m3u8
 #EXTINF:-1 ,group-title="地方卫视",天津卫视
