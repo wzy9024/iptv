@@ -310,7 +310,8 @@ http://[2409:8087:2061:20:3000:0:df6e:f7a0]:6610/gitv/live1/GITV-JS-6/GITV-JS-6/
 http://[2409:8087:2061:20:3100:0:df6e:f7d6]:6610/gitv/live1/GITV-JS-5/GITV-JS-5/1.m3u8
 #EXTINF:-1 ,group-title="咪咕直播",黑莓电影
 http://ott.mobaibox.com/PLTV/3/224/3221227520/index.m3u8
-
+#EXTINF:-1 ,group-title="咪咕直播",QQ音乐
+http://ott.mobaibox.com/PLTV/4/224/3221228641/index.m3u8
 #EXTINF:-1 ,group-title="NewTV",潮妈辣婆
 http://ott.mobaibox.com/PLTV/3/224/3221227527/index.m3u8
 #EXTINF:-1 ,group-title="NewTV",中国功夫
