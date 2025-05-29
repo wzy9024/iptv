@@ -208,7 +208,7 @@ http://ott.mobaibox.com/PLTV/3/224/3221228109/index.m3u8
 #EXTINF:-1 ,group-title="地方卫视",山东卫视
 http://ott.mobaibox.com/PLTV/3/224/3221227517/index.m3u8
 #EXTINF:-1 ,group-title="地方卫视",山东教育
-http://[2409:8087:2061:20:3000:0:df6e:f7a1]:6610/cntv/live1/n-shandongjy/n-shandongjy/1.m3u8
+http://ott.mobaibox.com/PLTV/4/224/3221228875/index.m3u8
 #EXTINF:-1 ,group-title="地方卫视",河南卫视
 http://ott.mobaibox.com/PLTV/3/224/3221228221/index.m3u8
 #EXTINF:-1 ,group-title="地方卫视",湖北卫视
@@ -248,7 +248,7 @@ http://[2409:8087:2061:20:3000:0:df6e:f7a0]:6610/cntv/live1/n-xizangstv/n-xizang
 #EXTINF:-1 ,group-title="地方卫视",宁夏卫视
 http://[2409:8087:2061:20:3100:0:df6e:f7c8]:6610/cntv/live1/n-ningxiastv/n-ningxiastv/1.m3u8
 #EXTINF:-1 ,group-title="地方卫视",内蒙古卫视
-http://[2409:8087:2061:20:3100:0:df6e:f7e0]:6610/cntv/live1/n-neimenggustv/n-neimenggustv/1.m3u8
+http://ott.mobaibox.com/PLTV/4/224/3221228878/index.m3u8
 #EXTINF:-1 ,group-title="地方卫视",厦门卫视
 http://ott.mobaibox.com/PLTV/3/224/3221227604/index.m3u8
 #EXTINF:-1 ,group-title="地方卫视",康巴卫视
@@ -268,7 +268,7 @@ http://223.110.247.214:6610/cntv/live1/n-jinyingkaton/n-jinyingkaton/1.m3u8
 #EXTINF:-1 ,group-title="少儿频道",优漫卡通
 http://223.110.247.140:6610/cntv/live1/n-youmankaton/n-youmankaton/1.m3u8
 #EXTINF:-1 ,group-title="少儿频道",卡酷少儿
-http://223.110.247.225:6610/cntv/live1/n-kakukaton/n-kakukaton/1.m3u8
+http://ott.mobaibox.com/PLTV/4/224/3221228884/index.m3u8
 #EXTINF:-1 ,group-title="少儿频道",黑莓动画
 http://223.110.247.134:6610/cntv/live1/donghuawg/donghuawg/1.m3u8
 #EXTINF:-1 ,group-title="少儿频道",哈哈炫动
