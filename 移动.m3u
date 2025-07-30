@@ -350,15 +350,4 @@ http://ott.mobaibox.com/PLTV/3/224/3221227023/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221227475/index.m3u8
 #EXTINF:-1 ,group-title="NewTV",家庭理财
 http://ott.mobaibox.com/PLTV/3/224/3221227011/index.m3u8
-#EXTINF:-1 ,group-title="NewTV",超级体育
-http://39.134.67.148/PLTV/88888888/224/3221225635/1.m3u8
-#EXTINF:-1 ,group-title="NewTV",超级电视剧
-http://39.134.67.148/PLTV/88888888/224/3221225637/1.m3u8
-#EXTINF:-1 ,group-title="NewTV",超级电影
-http://39.134.67.148/PLTV/88888888/224/3221225644/1.m3u8
-#EXTINF:-1 ,group-title="NewTV",超级综艺
-http://39.134.67.148/PLTV/88888888/224/3221225642/1.m3u8
-#EXTINF:-1 ,group-title="NewTV",东北热剧
-http://39.134.67.148/PLTV/88888888/224/3221225679/1.m3u8
-#EXTINF:-1 ,group-title="NewTV",欢乐剧场
-http://39.134.67.148/PLTV/88888888/224/3221225682/1.m3u8
+
