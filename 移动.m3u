@@ -244,13 +244,13 @@ http://[2409:8087:2061:20:3100:0:df6e:f7df]:6610/cntv/live1/n-shanxi1stv/n-shanx
 #EXTINF:-1 ,group-title="地方卫视",山西卫视
 http://ott.mobaibox.com/PLTV/4/224/3221225786/index.m3u8
 #EXTINF:-1 ,group-title="地方卫视",西藏卫视
-http://[2409:8087:2061:20:3000:0:df6e:f7a0]:6610/cntv/live1/n-xizangstv/n-xizangstv/1.m3u8
+http://223.110.241.139:6610/gitv/live1/G_XIZANG/G_XIZANG/
 #EXTINF:-1 ,group-title="地方卫视",宁夏卫视
-http://[2409:8087:2061:20:3100:0:df6e:f7c8]:6610/cntv/live1/n-ningxiastv/n-ningxiastv/1.m3u8
+http://223.110.241.139:6610/gitv/live1/G_NINGXIA/G_NINGXIA/
 #EXTINF:-1 ,group-title="地方卫视",内蒙古卫视
-http://ott.mobaibox.com/PLTV/3/224/3221227557/index.m3u8
+http://223.110.241.139:6610/gitv/live1/G_NEIMENGGU/G_NEIMENGGU/
 #EXTINF:-1 ,group-title="地方卫视",厦门卫视
-http://ott.mobaibox.com/PLTV/3/224/3221227604/index.m3u8
+http://223.110.241.139:6610/gitv/live1/G_XIAMEN/G_XIAMEN/
 #EXTINF:-1 ,group-title="地方卫视",康巴卫视
 http://[2409:8087:2061:20:3100:0:df6e:f7e2]:6610/cntv/live1/SD-4000k-576P-kambatv/SD-4000k-576P-kambatv/1.m3u8
 #EXTINF:-1 ,group-title="地方卫视",安多卫视
@@ -258,7 +258,7 @@ http://[2409:8087:2061:20:3100:0:df6e:f7e4]:6610/cntv/live1/anduostv/anduostv/1.
 #EXTINF:-1 ,group-title="地方卫视",延边卫视
 http://223.110.247.200:6610/cntv/live1/SD-4000k-576P-yanbianstv/SD-4000k-576P-yanbianstv/1.m3u8
 #EXTINF:-1 ,group-title="地方卫视",兵团卫视
-http://223.110.247.198:6610/cntv/live1/SD-4000k-576P-bingtuanstv/SD-4000k-576P-bingtuanstv/1.m3u8
+http://223.110.241.139:6610/gitv/live1/G_BINGTUAN/G_BINGTUAN/
 #EXTINF:-1 ,group-title="地方卫视",农林卫视
 http://[2409:8087:2061:20:3000:0:df6e:f7a1]:6610/cntv/live1/SD-4000k-576P-nonglinstv/SD-4000k-576P-nonglinstv/1.m3u8
 
