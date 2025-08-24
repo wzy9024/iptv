@@ -244,7 +244,7 @@ http://[2409:8087:2061:20:3100:0:df6e:f7df]:6610/cntv/live1/n-shanxi1stv/n-shanx
 #EXTINF:-1 ,group-title="地方卫视",山西卫视
 http://ott.mobaibox.com/PLTV/4/224/3221225786/index.m3u8
 #EXTINF:-1 ,group-title="地方卫视",西藏卫视
-http://223.110.241.139:6610/gitv/live1/G_XIZANG/G_XIZANG/
+http://zv6.ott.mobaibox.com:6060/gitv/live1/G_XIZANG/G_XIZANG/
 #EXTINF:-1 ,group-title="地方卫视",宁夏卫视
 http://223.110.241.139:6610/gitv/live1/G_NINGXIA/G_NINGXIA/
 #EXTINF:-1 ,group-title="地方卫视",内蒙古卫视
