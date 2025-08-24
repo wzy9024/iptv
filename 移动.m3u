@@ -264,7 +264,7 @@ http://[2409:8087:2061:20:3000:0:df6e:f7a1]:6610/cntv/live1/SD-4000k-576P-nongli
 
 #EXTINF:-1 ,group-title="上海移动ipv6",东方财经
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226134/1.m3u8
-#EXTINF:-1 ,group-title="上海移动ipv6",新闻综合
+#EXTINF:-1 ,group-title="上海移动ipv6",上海新闻
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226136/1.m3u8
 #EXTINF:-1 ,group-title="上海移动ipv6",第一财经
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225737/1.m3u8
