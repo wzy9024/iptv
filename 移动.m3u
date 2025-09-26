@@ -314,9 +314,9 @@ http://ott.mobaibox.com/PLTV/3/224/3221227733/index.m3u8
 #EXTINF:-1 ,group-title="咪咕直播",晴彩青少
 http://[2409:8087:2061:20:3100:0:df6e:f7d7]:6610/cntv/live1/HD-8000k-1080P-quanminrl/HD-8000k-1080P-quanminrl/1.m3u8
 #EXTINF:-1 ,group-title="咪咕直播",晴彩竞技
-http://[2409:8087:2061:20:3100:0:df6e:f7d7]:6610/gitv/live1/miguaoyun1-AVS/miguaoyun1-AVS/1.m3u8
+http://ott.mobaibox.com/PLTV/3/224/3221228679/index.m3u8
 #EXTINF:-1 ,group-title="咪咕直播",晴彩篮球
-http://[2409:8087:2061:20:3100:0:df6e:f7c2]:6610/gitv/live1/miguaoyun01-AVS-4K01/miguaoyun01-AVS-4K01/1.m3u8
+http://ott.mobaibox.com/PLTV/3/224/3221228682/index.m3u8
 #EXTINF:-1 ,group-title="咪咕直播",美食美味
 http://[2409:8087:2061:20:3000:0:df6e:f78c]:6610/gitv/live1/GITV-JS-17/GITV-JS-17/1.m3u8
 #EXTINF:-1 ,group-title="咪咕直播",影视剧场
