@@ -156,7 +156,7 @@ http://ott.mobaibox.com/PLTV/3/224/3221228205/index.m3u8
 #EXTINF:-1 ,group-title="江苏地方",扬州3
 http://ott.mobaibox.com/PLTV/3/224/3221227867/index.m3u8
 #EXTINF:-1 ,group-title="江苏地方",连云港新闻综合
-http://ott.mobaibox.com/PLTV/4/224/3221227758/index.m3u8
+http://ott.mobaibox.com/PLTV/4/224/3221228820/index.m3u8
 #EXTINF:-1 ,group-title="江苏地方",连云港生活频道
 http://ott.mobaibox.com/PLTV/4/224/3221227819/index.m3u8
 #EXTINF:-1 ,group-title="江苏地方",徐州1
@@ -171,10 +171,12 @@ http://ott.mobaibox.com/PLTV/3/224/3221225951/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221226944/index.m3u8
 #EXTINF:-1 ,group-title="江苏地方",宿迁公共
 http://ott.mobaibox.com/PLTV/3/224/3221226939/index.m3u8
-#EXTINF:-1 ,group-title="江苏地方",淮安新闻综合
+#EXTINF:-1 ,group-title="江苏地方",淮安综合
 http://ott.mobaibox.com/PLTV/3/224/3221228215/index.m3u8
-#EXTINF:-1 ,group-title="江苏地方",淮安生活
+#EXTINF:-1 ,group-title="江苏地方",淮安公共
 http://ott.mobaibox.com/PLTV/3/224/3221228840/index.m3u8
+#EXTINF:-1 ,group-title="江苏地方",淮安影视娱乐
+http://ott.mobaibox.com/PLTV/3/224/3221228837/index.m3u8
 
 #EXTINF:-1 ,group-title="地方卫视",凤凰香港
 http://ott.mobaibox.com/PLTV/3/224/3221228530/index.m3u8
