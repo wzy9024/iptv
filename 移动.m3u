@@ -248,15 +248,15 @@ http://ott.mobaibox.com/PLTV/3/224/3221228183/index.m3u8
 #EXTINF:-1 ,group-title="地方卫视",青海卫视
 http://ott.mobaibox.com/PLTV/3/224/3221227554/index.m3u8
 #EXTINF:-1 ,group-title="地方卫视",陕西卫视
-http://zv6.ott.mobaibox.com:6060/gitv/live1/G_SHANXI/G_SHANXI
+http://ott.mobaibox.com/PLTV/4/224/3221227022/index.m3u8
 #EXTINF:-1 ,group-title="地方卫视",山西卫视
 http://ott.mobaibox.com/PLTV/4/224/3221225786/index.m3u8
 #EXTINF:-1 ,group-title="地方卫视",西藏卫视
-http://zv6.ott.mobaibox.com:6060/gitv/live1/G_XIZANG/G_XIZANG/
+http://ott.mobaibox.com/PLTV/4/224/3221226376/index.m3u8
 #EXTINF:-1 ,group-title="地方卫视",宁夏卫视
-http://zv6.ott.mobaibox.com:6060/gitv/live1/G_NINGXIA/G_NINGXIA/
+http://ott.mobaibox.com/PLTV/4/224/3221225842/index.m3u8
 #EXTINF:-1 ,group-title="地方卫视",内蒙古卫视
-http://zv6.ott.mobaibox.com:6060/gitv/live1/G_NEIMENGGU/G_NEIMENGGU/
+http://ott.mobaibox.com/PLTV/4/224/3221225836/index.m3u8
 #EXTINF:-1 ,group-title="地方卫视",厦门卫视
 http://zv6.ott.mobaibox.com:6060/gitv/live1/G_XIAMEN/G_XIAMEN/
 #EXTINF:-1 ,group-title="地方卫视",康巴卫视
@@ -266,7 +266,7 @@ http://[2409:8087:2061:20:3100:0:df6e:f7e4]:6610/cntv/live1/anduostv/anduostv/1.
 #EXTINF:-1 ,group-title="地方卫视",延边卫视
 http://223.110.247.200:6610/cntv/live1/SD-4000k-576P-yanbianstv/SD-4000k-576P-yanbianstv/1.m3u8
 #EXTINF:-1 ,group-title="地方卫视",兵团卫视
-http://223.110.241.139:6610/gitv/live1/G_BINGTUAN/G_BINGTUAN/
+http://ott.mobaibox.com/PLTV/4/224/3221227025/index.m3u8
 #EXTINF:-1 ,group-title="地方卫视",农林卫视
 http://[2409:8087:2061:20:3000:0:df6e:f7a1]:6610/cntv/live1/SD-4000k-576P-nonglinstv/SD-4000k-576P-nonglinstv/1.m3u8
 
