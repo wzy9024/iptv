@@ -369,6 +369,8 @@ http://ott.mobaibox.com/PLTV/3/224/3221227536/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221227548/index.m3u8
 #EXTINF:-1 ,group-title="NewTV",精品体育
 http://ott.mobaibox.com/PLTV/3/224/3221227615/index.m3u8
+#EXTINF:-1 ,group-title="NewTV",精品萌宠
+http://ott.mobaibox.com/PLTV/3/224/3221228430/index.m3u8
 #EXTINF:-1 ,group-title="NewTV",精品大剧
 http://ott.mobaibox.com/PLTV/3/224/3221227618/index.m3u8
 #EXTINF:-1 ,group-title="NewTV",精品纪录
