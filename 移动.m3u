@@ -198,7 +198,7 @@ http://ott.mobaibox.com/PLTV/3/224/3221227488/index.m3u8
 #EXTINF:-1 ,group-title="地方卫视",湖南卫视
 http://ott.mobaibox.com/PLTV/3/224/3221227482/index.m3u8
 #EXTINF:-1 ,group-title="地方卫视",金鹰纪实
-http://[2409:8087:2061:20:3100:0:df6e:f7e2]:6610/cntv/live1/SD-4000k-576P-jinyingjs/SD-4000k-576P-jinyingjs/1.m3u8
+http://ott.mobaibox.com/PLTV/3/224/3221228110/index.m3u8
 #EXTINF:-1 ,group-title="地方卫视",浙江卫视
 http://ott.mobaibox.com/PLTV/3/224/3221227491/index.m3u8
 #EXTINF:-1 ,group-title="地方卫视",安徽卫视
@@ -216,7 +216,7 @@ http://ott.mobaibox.com/PLTV/3/224/3221228109/index.m3u8
 #EXTINF:-1 ,group-title="地方卫视",山东卫视
 http://ott.mobaibox.com/PLTV/3/224/3221227517/index.m3u8
 #EXTINF:-1 ,group-title="地方卫视",山东教育
-http://[2409:8087:2061:20:3000:0:df6e:f7a1]:6610/cntv/live1/n-shandongjy/n-shandongjy/1.m3u8
+http://ott.mobaibox.com/PLTV/3/224/3221227580/index.m3u8
 #EXTINF:-1 ,group-title="地方卫视",河南卫视
 http://ott.mobaibox.com/PLTV/3/224/3221228221/index.m3u8
 #EXTINF:-1 ,group-title="地方卫视",湖北卫视
@@ -260,15 +260,15 @@ http://ott.mobaibox.com/PLTV/4/224/3221225836/index.m3u8
 #EXTINF:-1 ,group-title="地方卫视",厦门卫视
 http://ott.mobaibox.com/PLTV/4/224/3221226996/index.m3u8
 #EXTINF:-1 ,group-title="地方卫视",康巴卫视
-http://[2409:8087:2061:20:3100:0:df6e:f7e2]:6610/cntv/live1/SD-4000k-576P-kambatv/SD-4000k-576P-kambatv/1.m3u8
+http://ott.mobaibox.com/PLTV/3/224/3221227645/index.m3u8
 #EXTINF:-1 ,group-title="地方卫视",安多卫视
-http://[2409:8087:2061:20:3100:0:df6e:f7e4]:6610/cntv/live1/anduostv/anduostv/1.m3u8
+http://ott.mobaibox.com/PLTV/3/224/3221227651/index.m3u8
 #EXTINF:-1 ,group-title="地方卫视",延边卫视
-http://223.110.247.200:6610/cntv/live1/SD-4000k-576P-yanbianstv/SD-4000k-576P-yanbianstv/1.m3u8
+http://ott.mobaibox.com/PLTV/3/224/3221227590/index.m3u8
 #EXTINF:-1 ,group-title="地方卫视",兵团卫视
 http://ott.mobaibox.com/PLTV/4/224/3221227025/index.m3u8
 #EXTINF:-1 ,group-title="地方卫视",农林卫视
-http://[2409:8087:2061:20:3000:0:df6e:f7a1]:6610/cntv/live1/SD-4000k-576P-nonglinstv/SD-4000k-576P-nonglinstv/1.m3u8
+http://ott.mobaibox.com/PLTV/3/224/3221227648/index.m3u8
 
 #EXTINF:-1 ,group-title="上海移动ipv6",东方财经
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226134/1.m3u8
@@ -298,16 +298,16 @@ http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225994/1.m3u8
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226117/1.m3u8
 
 #EXTINF:-1 ,group-title="少儿频道",金鹰卡通
-http://223.110.247.214:6610/cntv/live1/n-jinyingkaton/n-jinyingkaton/1.m3u8
+http://ott.mobaibox.com/PLTV/3/224/3221227630/index.m3u8
 #EXTINF:-1 ,group-title="少儿频道",优漫卡通
-http://223.110.247.140:6610/cntv/live1/n-youmankaton/n-youmankaton/1.m3u8
+http://ott.mobaibox.com/PLTV/3/224/3221227577/index.m3u8
 #EXTINF:-1 ,group-title="少儿频道",卡酷少儿
-http://223.110.247.225:6610/cntv/live1/n-kakukaton/n-kakukaton/1.m3u8
+http://ott.mobaibox.com/PLTV/3/224/3221227566/index.m3u8
 #EXTINF:-1 ,group-title="少儿频道",黑莓动画
-http://223.110.247.134:6610/cntv/live1/donghuawg/donghuawg/1.m3u8
+http://ott.mobaibox.com/PLTV/3/224/3221225555/index.m3u8
 
 #EXTINF:-1 ,group-title="少儿频道",嘉佳卡通
-http://223.110.247.134:6610/cntv/live1/SD-4000k-576P-jiajiakaton/SD-4000k-576P-jiajiakaton/1.m3u8
+http://ott.mobaibox.com/PLTV/3/224/3221227598/index.m3u8
 #EXTINF:-1 ,group-title="少儿频道",动漫星空
 http://223.110.247.198:6610/gitv/live1/GITV-JS-25/GITV-JS-25/1.m3u8
 #EXTINF:-1 ,group-title="少儿频道",小猪佩奇
@@ -320,7 +320,7 @@ http://ott.mobaibox.com/PLTV/3/224/3221228692/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221227733/index.m3u8
 
 #EXTINF:-1 ,group-title="咪咕直播",晴彩青少
-http://[2409:8087:2061:20:3100:0:df6e:f7d7]:6610/cntv/live1/HD-8000k-1080P-quanminrl/HD-8000k-1080P-quanminrl/1.m3u8
+http://ott.mobaibox.com/PLTV/3/224/3221228427/index.m3u8
 #EXTINF:-1 ,group-title="咪咕直播",晴彩竞技
 http://ott.mobaibox.com/PLTV/3/224/3221228679/index.m3u8
 #EXTINF:-1 ,group-title="咪咕直播",晴彩篮球
@@ -328,7 +328,7 @@ http://ott.mobaibox.com/PLTV/3/224/3221228682/index.m3u8
 #EXTINF:-1 ,group-title="咪咕直播",美食美味
 http://[2409:8087:2061:20:3000:0:df6e:f78c]:6610/gitv/live1/GITV-JS-17/GITV-JS-17/1.m3u8
 #EXTINF:-1 ,group-title="咪咕直播",影视剧场
-http://[2409:8087:2061:20:3100:0:df6e:f7d8]:6610/gitv/live1/GITV-JS-1/GITV-JS-1/1.m3u8
+http://ott.mobaibox.com/PLTV/4/224/3221227512/index.m3u8
 #EXTINF:-1 ,group-title="咪咕直播",第一院线
 http://[2409:8087:2061:20:3100:0:df6e:f7d8]:6610/gitv/live1/GITV-JS-2/GITV-JS-2/1.m3u8
 #EXTINF:-1 ,group-title="咪咕直播",高分电影
