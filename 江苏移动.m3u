@@ -253,7 +253,32 @@ http://223.110.247.200:6610/cntv/live1/SD-4000k-576P-yanbianstv/SD-4000k-576P-ya
 http://223.110.247.198:6610/cntv/live1/SD-4000k-576P-bingtuanstv/SD-4000k-576P-bingtuanstv/1.m3u8
 #EXTINF:-1 ,group-title="地方卫视",农林卫视
 http://[2409:8087:2061:20:3000:0:df6e:f7a1]:6610/cntv/live1/SD-4000k-576P-nonglinstv/SD-4000k-576P-nonglinstv/1.m3u8
-
+#EXTINF:-1 ,group-title="上海移动ipv6",东方财经
+http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226134/1.m3u8
+#EXTINF:-1 ,group-title="上海移动ipv6",上海新闻
+http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226136/1.m3u8
+#EXTINF:-1 ,group-title="上海移动ipv6",第一财经
+http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225737/1.m3u8
+#EXTINF:-1 ,group-title="上海移动ipv6",五星体育
+http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225732/1.m3u8
+#EXTINF:-1 ,group-title="上海移动ipv6",东方影视
+http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225744/1.m3u8
+#EXTINF:-1 ,group-title="上海移动ipv6",上海都市
+http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225749/1.m3u8
+#EXTINF:-1 ,group-title="上海移动ipv6",金色学堂
+http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225748/1.m3u8
+#EXTINF:-1 ,group-title="上海移动ipv6",都市剧场
+http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225762/1.m3u8
+#EXTINF:-1 ,group-title="上海移动ipv6",动漫秀场
+http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225764/1.m3u8
+#EXTINF:-1 ,group-title="上海移动ipv6",生活时尚
+http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225768/1.m3u8
+#EXTINF:-1 ,group-title="上海移动ipv6",欢笑剧场
+http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225771/1.m3u8
+#EXTINF:-1 ,group-title="上海移动ipv6",法治天地
+http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225994/1.m3u8
+#EXTINF:-1 ,group-title="上海移动ipv6",游戏风云
+http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226117/1.m3u8
 #EXTINF:-1 ,group-title="少儿频道",金鹰卡通
 http://223.110.247.214:6610/cntv/live1/n-jinyingkaton/n-jinyingkaton/1.m3u8
 #EXTINF:-1 ,group-title="少儿频道",优漫卡通
@@ -337,3 +362,4 @@ http://ott.mobaibox.com/PLTV/3/224/3221227475/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221227612/index.m3u8
 #EXTINF:-1 ,group-title="咪咕直播",家庭理财
 http://ott.mobaibox.com/PLTV/3/224/3221227011/index.m3u8
+
