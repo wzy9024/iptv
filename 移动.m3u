@@ -149,12 +149,6 @@ http://ott.mobaibox.com/PLTV/3/224/3221227902/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221227905/index.m3u8
 #EXTINF:-1 ,group-title="江苏地方",常州都市
 http://ott.mobaibox.com/PLTV/3/224/3221227755/index.m3u8
-#EXTINF:-1 ,group-title="江苏地方",扬州1
-http://ott.mobaibox.com/PLTV/3/224/3221228155/index.m3u8
-#EXTINF:-1 ,group-title="江苏地方",扬州2
-http://ott.mobaibox.com/PLTV/3/224/3221228205/index.m3u8
-#EXTINF:-1 ,group-title="江苏地方",扬州3
-http://ott.mobaibox.com/PLTV/3/224/3221227867/index.m3u8
 #EXTINF:-1 ,group-title="江苏地方",连云港新闻综合
 http://ott.mobaibox.com/PLTV/4/224/3221228820/index.m3u8
 #EXTINF:-1 ,group-title="江苏地方",连云港生活频道
@@ -177,6 +171,13 @@ http://ott.mobaibox.com/PLTV/3/224/3221228215/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221228840/index.m3u8
 #EXTINF:-1 ,group-title="江苏地方",淮安影视娱乐
 http://ott.mobaibox.com/PLTV/3/224/3221228837/index.m3u8
+#EXTINF:-1 ,group-title="江苏地方",扬州1
+http://ott.mobaibox.com/PLTV/3/224/3221228155/index.m3u8
+#EXTINF:-1 ,group-title="江苏地方",扬州2
+http://ott.mobaibox.com/PLTV/3/224/3221228205/index.m3u8
+#EXTINF:-1 ,group-title="江苏地方",扬州3
+http://ott.mobaibox.com/PLTV/3/224/3221227867/index.m3u8
+
 
 #EXTINF:-1 ,group-title="地方卫视",凤凰香港
 http://ott.mobaibox.com/PLTV/3/224/3221228530/index.m3u8
@@ -190,7 +191,14 @@ http://ott.mobaibox.com/PLTV/3/224/3221227511/index.m3u8
 http://ott.mobaibox.com/PLTV/4/224/3221228890/index.m3u8
 #EXTINF:-1 ,group-title="地方卫视",纪实科教
 http://ott.mobaibox.com/PLTV/3/224/3221227699/index.m3u8
-
+#EXTINF:-1 ,group-title="地方卫视",广东卫视
+http://ott.mobaibox.com/PLTV/3/224/3221228838/index.m3u8
+#EXTINF:-1 ,group-title="地方卫视",深圳卫视
+http://ott.mobaibox.com/PLTV/3/224/3221228835/index.m3u8
+#EXTINF:-1 ,group-title="地方卫视",三沙卫视
+http://ott.mobaibox.com/PLTV/3/224/3221228626/index.m3u8
+#EXTINF:-1 ,group-title="地方卫视",大湾区卫视
+http://ott.mobaibox.com/PLTV/3/224/3221228326/index.m3u8
 #EXTINF:-1 ,group-title="地方卫视",重庆卫视
 http://ott.mobaibox.com/PLTV/3/224/3221228133/index.m3u8
 #EXTINF:-1 ,group-title="地方卫视",天津卫视
@@ -211,6 +219,8 @@ http://ott.mobaibox.com/PLTV/3/224/3221227485/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221228130/index.m3u8
 #EXTINF:-1 ,group-title="地方卫视",东南卫视
 http://ott.mobaibox.com/PLTV/3/224/3221227670/index.m3u8
+#EXTINF:-1 ,group-title="地方卫视",厦门卫视
+http://ott.mobaibox.com/PLTV/4/224/3221226996/index.m3u8
 #EXTINF:-1 ,group-title="地方卫视",江西卫视
 http://ott.mobaibox.com/PLTV/3/224/3221228109/index.m3u8
 #EXTINF:-1 ,group-title="地方卫视",山东卫视
@@ -221,14 +231,6 @@ http://ott.mobaibox.com/PLTV/3/224/3221227580/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221228221/index.m3u8
 #EXTINF:-1 ,group-title="地方卫视",湖北卫视
 http://ott.mobaibox.com/PLTV/3/224/3221227479/index.m3u8
-#EXTINF:-1 ,group-title="地方卫视",广东卫视
-http://ott.mobaibox.com/PLTV/3/224/3221228838/index.m3u8
-#EXTINF:-1 ,group-title="地方卫视",三沙卫视
-http://ott.mobaibox.com/PLTV/3/224/3221228626/index.m3u8
-#EXTINF:-1 ,group-title="地方卫视",大湾区卫视
-http://ott.mobaibox.com/PLTV/3/224/3221228326/index.m3u8
-#EXTINF:-1 ,group-title="地方卫视",深圳卫视
-http://ott.mobaibox.com/PLTV/3/224/3221228835/index.m3u8
 #EXTINF:-1 ,group-title="地方卫视",海南卫视
 http://ott.mobaibox.com/PLTV/3/224/3221228139/index.m3u8
 #EXTINF:-1 ,group-title="地方卫视",四川卫视
@@ -241,6 +243,8 @@ http://ott.mobaibox.com/PLTV/3/224/3221228169/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221228166/index.m3u8
 #EXTINF:-1 ,group-title="地方卫视",新疆卫视
 http://ott.mobaibox.com/PLTV/3/224/3221228290/index.m3u8
+#EXTINF:-1 ,group-title="地方卫视",兵团卫视
+http://ott.mobaibox.com/PLTV/4/224/3221227025/index.m3u8
 #EXTINF:-1 ,group-title="地方卫视",黑龙江卫视
 http://ott.mobaibox.com/PLTV/3/224/3221227514/index.m3u8
 #EXTINF:-1 ,group-title="地方卫视",广西卫视
@@ -257,16 +261,12 @@ http://ott.mobaibox.com/PLTV/4/224/3221226376/index.m3u8
 http://ott.mobaibox.com/PLTV/4/224/3221225842/index.m3u8
 #EXTINF:-1 ,group-title="地方卫视",内蒙古卫视
 http://ott.mobaibox.com/PLTV/4/224/3221225836/index.m3u8
-#EXTINF:-1 ,group-title="地方卫视",厦门卫视
-http://ott.mobaibox.com/PLTV/4/224/3221226996/index.m3u8
 #EXTINF:-1 ,group-title="地方卫视",康巴卫视
 http://ott.mobaibox.com/PLTV/3/224/3221227645/index.m3u8
 #EXTINF:-1 ,group-title="地方卫视",安多卫视
 http://ott.mobaibox.com/PLTV/3/224/3221227651/index.m3u8
 #EXTINF:-1 ,group-title="地方卫视",延边卫视
 http://ott.mobaibox.com/PLTV/3/224/3221227590/index.m3u8
-#EXTINF:-1 ,group-title="地方卫视",兵团卫视
-http://ott.mobaibox.com/PLTV/4/224/3221227025/index.m3u8
 #EXTINF:-1 ,group-title="地方卫视",农林卫视
 http://ott.mobaibox.com/PLTV/3/224/3221227648/index.m3u8
 
@@ -297,15 +297,18 @@ http://[2409:8087:1e01:20::19]:80/PLTV/11/224/3221225994/1.m3u8
 #EXTINF:-1 ,group-title="上海移动ipv6",游戏风云
 http://[2409:8087:1e01:20::19]:80/PLTV/11/224/3221226117/1.m3u8
 
+#EXTINF:-1 ,group-title="少儿频道",黑莓动画
+http://ott.mobaibox.com/PLTV/3/224/3221225555/index.m3u8
+#EXTINF:-1 ,group-title="少儿频道",CETV早期教育
+http://ott.mobaibox.com/PLTV/3/224/3221228692/index.m3u8
+#EXTINF:-1 ,group-title="少儿频道",南京少儿
+http://ott.mobaibox.com/PLTV/3/224/3221227733/index.m3u8
 #EXTINF:-1 ,group-title="少儿频道",金鹰卡通
 http://ott.mobaibox.com/PLTV/3/224/3221227630/index.m3u8
 #EXTINF:-1 ,group-title="少儿频道",优漫卡通
 http://ott.mobaibox.com/PLTV/3/224/3221227577/index.m3u8
 #EXTINF:-1 ,group-title="少儿频道",卡酷少儿
 http://ott.mobaibox.com/PLTV/3/224/3221227566/index.m3u8
-#EXTINF:-1 ,group-title="少儿频道",黑莓动画
-http://ott.mobaibox.com/PLTV/3/224/3221225555/index.m3u8
-
 #EXTINF:-1 ,group-title="少儿频道",嘉佳卡通
 http://ott.mobaibox.com/PLTV/3/224/3221227598/index.m3u8
 #EXTINF:-1 ,group-title="少儿频道",动漫星空
@@ -314,11 +317,11 @@ http://ott.mobaibox.com/PLTV/4/224/3221228579/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221228460/index.m3u8
 #EXTINF:-1 ,group-title="少儿频道",汪汪立大功
 http://ott.mobaibox.com/PLTV/4/224/3221228463/index.m3u8
-#EXTINF:-1 ,group-title="少儿频道",CETV早期教育
-http://ott.mobaibox.com/PLTV/3/224/3221228692/index.m3u8
-#EXTINF:-1 ,group-title="少儿频道",南京少儿
-http://ott.mobaibox.com/PLTV/3/224/3221227733/index.m3u8
 
+#EXTINF:-1 ,group-title="咪咕直播",4k修复
+http://ott.mobaibox.com/PLTV/3/224/3221228141/index.m3u8
+#EXTINF:-1 ,group-title="咪咕直播",4kuhd
+http://ott.mobaibox.com/PLTV/3/224/3221227506/index.m3u8
 #EXTINF:-1 ,group-title="咪咕直播",晴彩青少
 http://ott.mobaibox.com/PLTV/3/224/3221228427/index.m3u8
 #EXTINF:-1 ,group-title="咪咕直播",晴彩竞技
@@ -327,24 +330,20 @@ http://ott.mobaibox.com/PLTV/3/224/3221228679/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221228682/index.m3u8
 #EXTINF:-1 ,group-title="咪咕直播",美食美味
 http://ott.mobaibox.com/PLTV/4/224/3221228562/index.m3u8
+#EXTINF:-1 ,group-title="咪咕直播",抖音热歌
+http://ott.mobaibox.com/PLTV/4/224/3221228444/index.m3u8
+#EXTINF:-1 ,group-title="咪咕直播",流行音乐
+http://ott.mobaibox.com/PLTV/4/224/3221228794/index.m3u8
+#EXTINF:-1 ,group-title="咪咕直播",QQ音乐
+http://ott.mobaibox.com/PLTV/4/224/3221228641/index.m3u8
+#EXTINF:-1 ,group-title="咪咕直播",黑莓电影
+http://ott.mobaibox.com/PLTV/3/224/3221227520/index.m3u8
 #EXTINF:-1 ,group-title="咪咕直播",影视剧场
 http://ott.mobaibox.com/PLTV/4/224/3221227512/index.m3u8
 #EXTINF:-1 ,group-title="咪咕直播",第一院线
 http://ott.mobaibox.com/PLTV/4/224/3221227579/index.m3u8
 #EXTINF:-1 ,group-title="咪咕直播",高分电影
 http://ott.mobaibox.com/PLTV/4/224/3221228644/index.m3u8
-#EXTINF:-1 ,group-title="咪咕直播",4k修复
-http://ott.mobaibox.com/PLTV/3/224/3221228141/index.m3u8
-#EXTINF:-1 ,group-title="咪咕直播",4kuhd
-http://ott.mobaibox.com/PLTV/3/224/3221227506/index.m3u8
-#EXTINF:-1 ,group-title="咪咕直播",抖音热歌
-http://ott.mobaibox.com/PLTV/4/224/3221228444/index.m3u8
-#EXTINF:-1 ,group-title="咪咕直播",流行音乐
-http://ott.mobaibox.com/PLTV/4/224/3221228794/index.m3u8
-#EXTINF:-1 ,group-title="咪咕直播",黑莓电影
-http://ott.mobaibox.com/PLTV/3/224/3221227520/index.m3u8
-#EXTINF:-1 ,group-title="咪咕直播",QQ音乐
-http://ott.mobaibox.com/PLTV/4/224/3221228641/index.m3u8
 #EXTINF:-1 ,group-title="NewTV",潮妈辣婆
 http://ott.mobaibox.com/PLTV/3/224/3221227527/index.m3u8
 #EXTINF:-1 ,group-title="NewTV",中国功夫
