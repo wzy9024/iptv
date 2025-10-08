@@ -346,6 +346,13 @@ http://ott.mobaibox.com/PLTV/4/224/3221227512/index.m3u8
 http://ott.mobaibox.com/PLTV/4/224/3221227579/index.m3u8
 #EXTINF:-1 ,group-title="咪咕直播",高分电影
 http://ott.mobaibox.com/PLTV/4/224/3221228644/index.m3u8
+#EXTINF:-1 ,group-title="咪咕直播",热门综艺
+http://ott.mobaibox.com/PLTV/4/224/3221228591/index.m3u8
+#EXTINF:-1 ,group-title="咪咕直播",精品记录
+http://ott.mobaibox.com/PLTV/4/224/3221228723/index.m3u8
+#EXTINF:-1 ,group-title="咪咕直播",古装剧场
+http://ott.mobaibox.com/PLTV/4/224/3221228797/index.m3u8
+
 #EXTINF:-1 ,group-title="NewTV",潮妈辣婆
 http://ott.mobaibox.com/PLTV/3/224/3221227527/index.m3u8
 #EXTINF:-1 ,group-title="NewTV",中国功夫
