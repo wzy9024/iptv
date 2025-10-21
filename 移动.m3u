@@ -189,8 +189,6 @@ http://ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
 #EXTINF:-1 ,group-title="地方卫视",北京卫视
 http://ott.mobaibox.com/PLTV/4/224/3221228890/index.m3u8
-#EXTINF:-1 ,group-title="地方卫视",纪实科教
-http://ott.mobaibox.com/PLTV/3/224/3221227699/index.m3u8
 #EXTINF:-1 ,group-title="地方卫视",广东卫视
 http://ott.mobaibox.com/PLTV/3/224/3221228838/index.m3u8
 #EXTINF:-1 ,group-title="地方卫视",深圳卫视
@@ -205,6 +203,8 @@ http://ott.mobaibox.com/PLTV/4/224/3221228880/index.m3u8
 http://ott.mobaibox.com/PLTV/4/224/3221228900/index.m3u8
 #EXTINF:-1 ,group-title="地方卫视",四川卫视
 http://ott.mobaibox.com/PLTV/4/224/3221228877/index.m3u8
+#EXTINF:-1 ,group-title="地方卫视",纪实科教
+http://ott.mobaibox.com/PLTV/3/224/3221227699/index.m3u8
 #EXTINF:-1 ,group-title="地方卫视",三沙卫视
 http://ott.mobaibox.com/PLTV/3/224/3221228626/index.m3u8
 #EXTINF:-1 ,group-title="地方卫视",大湾区卫视
