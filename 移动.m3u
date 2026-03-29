@@ -101,8 +101,7 @@ http://ott.mobaibox.com/PLTV/3/224/3221228451/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221229085/index.m3u8
 #EXTINF:-1 ,group-title="江苏地方",盐城2
 http://ott.mobaibox.com/PLTV/3/224/3221228433/index.m3u8
-#EXTINF:-1 ,group-title="江苏地方",盐城3
-http://ott.mobaibox.com/PLTV/3/224/3221228436/index.m3u8
+
 #EXTINF:-1 ,group-title="江苏地方",苏州新闻综合
 https://live-auth.51kandianshi.com/szgd/csztv1.m3u8
 #EXTINF:-1 ,group-title="江苏地方",苏州社会经济
@@ -145,8 +144,7 @@ http://ott.mobaibox.com/PLTV/3/224/3221229002/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221227899/index.m3u8
 #EXTINF:-1 ,group-title="江苏地方",常州生活
 http://ott.mobaibox.com/PLTV/3/224/3221229067/index.m3u8
-#EXTINF:-1 ,group-title="江苏地方",常州公共
-http://ott.mobaibox.com/PLTV/3/224/3221227905/index.m3u8
+
 #EXTINF:-1 ,group-title="江苏地方",常州都市
 http://ott.mobaibox.com/PLTV/3/224/3221229064/index.m3u8
 #EXTINF:-1 ,group-title="江苏地方",连云港新闻综合
@@ -159,8 +157,7 @@ http://ott.mobaibox.com/PLTV/3/224/3221228990/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221225947/index.m3u8
 #EXTINF:-1 ,group-title="江苏地方",徐州3
 http://ott.mobaibox.com/PLTV/3/224/3221225949/index.m3u8
-#EXTINF:-1 ,group-title="江苏地方",徐州4
-http://ott.mobaibox.com/PLTV/3/224/3221225951/index.m3u8
+
 #EXTINF:-1 ,group-title="江苏地方",宿迁综合
 http://ott.mobaibox.com/PLTV/3/224/3221229008/index.m3u8
 #EXTINF:-1 ,group-title="江苏地方",宿迁公共
