@@ -88,7 +88,7 @@ http://ott.mobaibox.com/PLTV/3/224/3221225929/index.m3u8
 #EXTINF:-1 ,group-title="江苏地方",江苏新闻
 http://ott.mobaibox.com/PLTV/3/224/3221225925/index.m3u8
 #EXTINF:-1 ,group-title="江苏地方",江苏教育
-http://ott.mobaibox.com/PLTV/3/224/3221228613/index.m3u8
+http://ott.mobaibox.com/PLTV/3/224/3221229034/index.m3u8
 #EXTINF:-1 ,group-title="江苏地方",江苏影视
 http://ott.mobaibox.com/PLTV/3/224/3221228728/index.m3u8
 #EXTINF:-1 ,group-title="江苏地方",南通新闻综合
@@ -119,11 +119,11 @@ http://ott.mobaibox.com/PLTV/3/224/3221228103/index.m3u8
 #EXTINF:-1 ,group-title="江苏地方",无锡都市资讯
 http://ott.mobaibox.com/PLTV/3/224/3221228914/index.m3u8
 #EXTINF:-1 ,group-title="江苏地方",南京新闻综合
-http://ott.mobaibox.com/PLTV/3/224/3221227213/index.m3u8
+http://ott.mobaibox.com/PLTV/3/224/3221229032/index.m3u8
 #EXTINF:-1 ,group-title="江苏地方",南京十八·生活频道
 http://ott.mobaibox.com/PLTV/3/224/3221227178/index.m3u8
 #EXTINF:-1 ,group-title="江苏地方",南京科教
-http://ott.mobaibox.com/PLTV/3/224/3221227194/index.m3u8
+http://ott.mobaibox.com/PLTV/3/224/3221229012/index.m3u8
 #EXTINF:-1 ,group-title="江苏地方",南京影视
 http://ott.mobaibox.com/PLTV/3/224/3221227719/index.m3u8
 #EXTINF:-1 ,group-title="江苏地方",南京文旅记录
@@ -205,7 +205,7 @@ http://ott.mobaibox.com/PLTV/3/224/3221228626/index.m3u8
 #EXTINF:-1 ,group-title="地方卫视",大湾区卫视
 http://ott.mobaibox.com/PLTV/3/224/3221228326/index.m3u8
 #EXTINF:-1 ,group-title="地方卫视",重庆卫视
-http://ott.mobaibox.com/PLTV/3/224/3221228133/index.m3u8
+http://ott.mobaibox.com/PLTV/3/224/3221229016/index.m3u8
 #EXTINF:-1 ,group-title="地方卫视",天津卫视
 http://ott.mobaibox.com/PLTV/3/224/3221227488/index.m3u8
 #EXTINF:-1 ,group-title="地方卫视",安徽卫视
@@ -266,13 +266,15 @@ http://ott.mobaibox.com/PLTV/3/224/3221227648/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221228110/index.m3u8
 #EXTINF:-1 ,group-title="地方卫视",山东教育
 http://ott.mobaibox.com/PLTV/3/224/3221228998/index.m3u8
+#EXTINF:-1 ,group-title="地方卫视",山东齐鲁
+http://ott.mobaibox.com/PLTV/3/224/3221228706/index.m3u8
 
 #EXTINF:-1 ,group-title="少儿频道",黑莓动画
 http://ott.mobaibox.com/PLTV/3/224/3221225555/index.m3u8
 #EXTINF:-1 ,group-title="少儿频道",CETV早期教育
 http://ott.mobaibox.com/PLTV/3/224/3221228692/index.m3u8
 #EXTINF:-1 ,group-title="少儿频道",南京少儿
-http://ott.mobaibox.com/PLTV/3/224/3221227733/index.m3u8
+http://ott.mobaibox.com/PLTV/3/224/3221229040/index.m3u8
 #EXTINF:-1 ,group-title="少儿频道",金鹰卡通
 http://ott.mobaibox.com/PLTV/3/224/3221229001/index.m3u8
 #EXTINF:-1 ,group-title="少儿频道",优漫卡通
