@@ -301,6 +301,8 @@ http://ott.mobaibox.com/PLTV/3/224/3221228729/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221228679/index.m3u8
 #EXTINF:-1 ,group-title="咪咕直播",晴彩篮球
 http://ott.mobaibox.com/PLTV/3/224/3221228682/index.m3u8
+#EXTINF:-1 ,group-title="咪咕直播",芒果TV
+http://ott.mobaibox.com/PLTV/4/224/3221227896/index.m3u8
 #EXTINF:-1 ,group-title="咪咕直播",美食美味
 http://ott.mobaibox.com/PLTV/4/224/3221228562/index.m3u8
 #EXTINF:-1 ,group-title="咪咕直播",抖音热歌
