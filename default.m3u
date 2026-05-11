@@ -1,12 +1,386 @@
-#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://live.fanmingming.com/tv/CGTN.png" group-title="其它频道",CGTN
-http://ott.mobaibox.com/PLTV/4/224/3221227574/index.m3u8
-#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://live.fanmingming.com/tv/CGTN.png" group-title="其它频道",CGTN
-http://ott.mobaibox.com/PLTV/4/224/3221228811/index.m3u8
-#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://live.fanmingming.com/tv/CGTN.png" group-title="其它频道",CGTN
-http://ott.mobaibox.com/PLTV/4/224/3221228550/index.m3u8
-#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://live.fanmingming.com/tv/CGTN.png" group-title="其它频道",CGTN
-http://ott.mobaibox.com/PLTV/4/224/3221228553/index.m3u8
-#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://live.fanmingming.com/tv/CGTN.png" group-title="其它频道",CGTN
-http://ott.mobaibox.com/PLTV/4/224/3221228573/index.m3u8
-#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://live.fanmingming.com/tv/CGTN.png" group-title="其它频道",CGTN
-http://ott.mobaibox.com/PLTV/4/224/3221228629/index.m3u8
+#EXTM3U
+#EXTINF:-1 ,group-title="央视",CCTV-1
+http://ott.mobaibox.com/PLTV/6/224/3221228581/index.m3u8
+#EXTINF:-1 ,group-title="央视",CCTV-2
+http://ott.mobaibox.com/PLTV/6/224/3221228844/index.m3u8
+#EXTINF:-1 ,group-title="央视",CCTV-3
+http://ott.mobaibox.com/PLTV/6/224/3221228499/index.m3u8
+#EXTINF:-1 ,group-title="央视",CCTV-4
+http://ott.mobaibox.com/PLTV/6/224/3221228091/index.m3u8
+#EXTINF:-1 ,group-title="央视",CCTV-5
+http://ott.mobaibox.com/PLTV/4/224/3221228502/index.m3u8
+#EXTINF:-1 ,group-title="央视",CCTV-5+
+http://ott.mobaibox.com/PLTV/3/224/3221228176/index.m3u8
+#EXTINF:-1 ,group-title="央视",CCTV-6
+http://ott.mobaibox.com/PLTV/4/224/3221228516/index.m3u8
+#EXTINF:-1 ,group-title="央视",CCTV-7
+http://ott.mobaibox.com/PLTV/3/224/3221227626/index.m3u8
+#EXTINF:-1 ,group-title="央视",CCTV-8
+http://ott.mobaibox.com/PLTV/4/224/3221228578/index.m3u8
+#EXTINF:-1 ,group-title="央视",CCTV-9
+http://ott.mobaibox.com/PLTV/3/224/3221228962/index.m3u8
+#EXTINF:-1 ,group-title="央视",CCTV-10
+http://ott.mobaibox.com/PLTV/3/224/3221227620/index.m3u8
+#EXTINF:-1 ,group-title="央视",CCTV-11
+http://ott.mobaibox.com/PLTV/3/224/3221228918/index.m3u8
+#EXTINF:-1 ,group-title="央视",CCTV-12
+http://ott.mobaibox.com/PLTV/3/224/3221227637/index.m3u8
+#EXTINF:-1 ,group-title="央视",CCTV-13
+http://ott.mobaibox.com/PLTV/3/224/3221228224/index.m3u8
+#EXTINF:-1 ,group-title="央视",CCTV-14
+http://ott.mobaibox.com/PLTV/3/224/3221227693/index.m3u8
+#EXTINF:-1 ,group-title="央视",CCTV-15
+http://ott.mobaibox.com/PLTV/3/224/3221228910/index.m3u8
+#EXTINF:-1 ,group-title="央视",CCTV-16
+http://ott.mobaibox.com/PLTV/3/224/3221228959/index.m3u8
+#EXTINF:-1 ,group-title="央视",CCTV-17
+http://ott.mobaibox.com/PLTV/3/224/3221228977/index.m3u8
+#EXTINF:-1 ,group-title="央视",CCTV4K 
+http://ott.mobaibox.com/PLTV/3/224/3221228472/index.m3u8
+
+#EXTINF:-1 ,group-title="央视",CCTV8K 
+http://ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8
+#EXTINF:-1 ,group-title="央视",高尔夫网球
+http://ott.mobaibox.com/PLTV/3/224/3221228138/index.m3u8
+#EXTINF:-1 ,group-title="央视",世界地理
+http://ott.mobaibox.com/PLTV/3/224/3221228680/index.m3u8
+#EXTINF:-1 ,group-title="央视",第一剧场
+http://ott.mobaibox.com/PLTV/3/224/3221228659/index.m3u8
+#EXTINF:-1 ,group-title="央视",风云剧场
+http://ott.mobaibox.com/PLTV/3/224/3221228662/index.m3u8
+#EXTINF:-1 ,group-title="央视",风云音乐
+http://ott.mobaibox.com/PLTV/3/224/3221228665/index.m3u8
+#EXTINF:-1 ,group-title="央视",风云足球
+http://ott.mobaibox.com/PLTV/3/224/3221228668/index.m3u8
+#EXTINF:-1 ,group-title="央视",怀旧剧场
+http://ott.mobaibox.com/PLTV/3/224/3221228671/index.m3u8
+#EXTINF:-1 ,group-title="央视",女性时尚
+http://ott.mobaibox.com/PLTV/3/224/3221228674/index.m3u8
+#EXTINF:-1 ,group-title="央视",文化精品
+http://ott.mobaibox.com/PLTV/3/224/3221228677/index.m3u8
+#EXTINF:-1 ,group-title="央视",央视台球
+http://ott.mobaibox.com/PLTV/3/224/3221228683/index.m3u8
+#EXTINF:-1 ,group-title="央视",兵器科技
+http://ott.mobaibox.com/PLTV/3/224/3221228686/index.m3u8
+#EXTINF:-1 ,group-title="央视",电视指南
+http://ott.mobaibox.com/PLTV/3/224/3221228689/index.m3u8
+#EXTINF:-1 ,group-title="央视",央广4K
+http://ott.mobaibox.com/PLTV/3/224/3221228873/index.m3u8
+#EXTINF:-1 ,group-title="央视",CGTN
+http://ott.mobaibox.com/PLTV/3/224/3221228811/index.m3u8
+#EXTINF:-1 ,group-title="央视",CETV1
+http://ott.mobaibox.com/PLTV/3/224/3221228931/index.m3u8
+#EXTINF:-1 ,group-title="央视",CETV2
+http://ott.mobaibox.com/PLTV/3/224/3221227607/index.m3u8
+#EXTINF:-1 ,group-title="央视",CETV3
+http://ott.mobaibox.com/PLTV/3/224/3221227018/index.m3u8
+#EXTINF:-1 ,group-title="央视",CETV4
+http://ott.mobaibox.com/PLTV/3/224/3221227028/index.m3u8
+
+
+#EXTINF:-1 ,group-title="江苏地方",江苏卫视
+http://ott.mobaibox.com/PLTV/3/224/3221228897/index.m3u8
+#EXTINF:-1 ,group-title="江苏地方",江苏综艺
+http://ott.mobaibox.com/PLTV/3/224/3221225931/index.m3u8
+#EXTINF:-1 ,group-title="江苏地方",江苏体育休闲
+http://ott.mobaibox.com/PLTV/3/224/3221225935/index.m3u8
+#EXTINF:-1 ,group-title="江苏地方",江苏城市
+http://ott.mobaibox.com/PLTV/3/224/3221225929/index.m3u8
+#EXTINF:-1 ,group-title="江苏地方",江苏新闻
+http://ott.mobaibox.com/PLTV/3/224/3221225925/index.m3u8
+#EXTINF:-1 ,group-title="江苏地方",江苏教育
+http://ott.mobaibox.com/PLTV/3/224/3221229034/index.m3u8
+#EXTINF:-1 ,group-title="江苏地方",江苏影视
+http://ott.mobaibox.com/PLTV/3/224/3221228728/index.m3u8
+#EXTINF:-1 ,group-title="江苏地方",江苏国际
+http://112.86.202.37:8112/JSBC_iptv/C10000470@JSBC
+#EXTINF:-1 ,group-title="江苏地方",南通新闻综合
+http://ott.mobaibox.com/PLTV/3/224/3221229055/index.m3u8
+#EXTINF:-1 ,group-title="江苏地方",南通2
+http://ott.mobaibox.com/PLTV/3/224/3221229005/index.m3u8
+#EXTINF:-1 ,group-title="江苏地方",南通公共
+http://ott.mobaibox.com/PLTV/3/224/3221228451/index.m3u8
+#EXTINF:-1 ,group-title="江苏地方",盐城1
+http://ott.mobaibox.com/PLTV/3/224/3221229085/index.m3u8
+#EXTINF:-1 ,group-title="江苏地方",盐城2
+http://ott.mobaibox.com/PLTV/3/224/3221228433/index.m3u8
+
+#EXTINF:-1 ,group-title="江苏地方",苏州新闻综合
+https://live-auth.51kandianshi.com/szgd/csztv1.m3u8
+#EXTINF:-1 ,group-title="江苏地方",苏州社会经济
+https://live-auth.51kandianshi.com/szgd/csztv2.m3u8
+#EXTINF:-1 ,group-title="江苏地方",苏州文化生活
+https://live-auth.51kandianshi.com/szgd/csztv3.m3u8
+#EXTINF:-1 ,group-title="江苏地方",苏州电影娱乐信息
+https://live-auth.51kandianshi.com/szgd/csztv4.m3u8
+#EXTINF:-1 ,group-title="江苏地方",苏州生活资讯
+https://live-auth.51kandianshi.com/szgd/csztv5.m3u8
+#EXTINF:-1 ,group-title="江苏地方",苏州4K
+https://live-auth.51kandianshi.com/szgd/csztv4k_4k.m3u8
+#EXTINF:-1 ,group-title="江苏地方",无锡新闻
+http://ott.mobaibox.com/PLTV/3/224/3221228103/index.m3u8
+#EXTINF:-1 ,group-title="江苏地方",无锡都市资讯
+http://ott.mobaibox.com/PLTV/3/224/3221228914/index.m3u8
+#EXTINF:-1 ,group-title="江苏地方",南京新闻综合
+http://ott.mobaibox.com/PLTV/3/224/3221229032/index.m3u8
+#EXTINF:-1 ,group-title="江苏地方",南京十八·生活频道
+http://ott.mobaibox.com/PLTV/3/224/3221227178/index.m3u8
+#EXTINF:-1 ,group-title="江苏地方",南京科教
+http://ott.mobaibox.com/PLTV/3/224/3221229012/index.m3u8
+#EXTINF:-1 ,group-title="江苏地方",南京影视
+http://ott.mobaibox.com/PLTV/3/224/3221227719/index.m3u8
+#EXTINF:-1 ,group-title="江苏地方",南京文旅记录
+http://ott.mobaibox.com/PLTV/3/224/3221227722/index.m3u8
+#EXTINF:-1 ,group-title="江苏地方",镇江1
+http://ott.mobaibox.com/PLTV/3/224/3221229058/index.m3u8
+#EXTINF:-1 ,group-title="江苏地方",镇江2
+http://ott.mobaibox.com/PLTV/3/224/3221227325/index.m3u8
+#EXTINF:-1 ,group-title="江苏地方",泰州1
+http://ott.mobaibox.com/PLTV/3/224/3221228973/index.m3u8
+#EXTINF:-1 ,group-title="江苏地方",泰州2
+http://ott.mobaibox.com/PLTV/3/224/3221228976/index.m3u8
+#EXTINF:-1 ,group-title="江苏地方",泰州3
+http://ott.mobaibox.com/PLTV/3/224/3221229002/index.m3u8
+#EXTINF:-1 ,group-title="江苏地方",常州新闻综合
+http://ott.mobaibox.com/PLTV/3/224/3221228997/index.m3u8
+#EXTINF:-1 ,group-title="江苏地方",常州生活
+http://ott.mobaibox.com/PLTV/3/224/3221229067/index.m3u8
+
+#EXTINF:-1 ,group-title="江苏地方",常州都市
+http://ott.mobaibox.com/PLTV/3/224/3221229064/index.m3u8
+#EXTINF:-1 ,group-title="江苏地方",连云港新闻综合
+http://ott.mobaibox.com/PLTV/4/224/3221229070/index.m3u8
+#EXTINF:-1 ,group-title="江苏地方",连云港生活频道
+http://ott.mobaibox.com/PLTV/4/224/3221229000/index.m3u8
+#EXTINF:-1 ,group-title="江苏地方",徐州1
+http://ott.mobaibox.com/PLTV/3/224/3221228990/index.m3u8
+#EXTINF:-1 ,group-title="江苏地方",徐州2
+http://ott.mobaibox.com/PLTV/3/224/3221225947/index.m3u8
+#EXTINF:-1 ,group-title="江苏地方",徐州3
+http://ott.mobaibox.com/PLTV/3/224/3221225949/index.m3u8
+
+#EXTINF:-1 ,group-title="江苏地方",宿迁综合
+http://ott.mobaibox.com/PLTV/3/224/3221229008/index.m3u8
+#EXTINF:-1 ,group-title="江苏地方",宿迁公共
+http://ott.mobaibox.com/PLTV/3/224/3221229061/index.m3u8
+#EXTINF:-1 ,group-title="江苏地方",淮安综合
+http://ott.mobaibox.com/PLTV/3/224/3221229041/index.m3u8
+#EXTINF:-1 ,group-title="江苏地方",淮安公共
+http://ott.mobaibox.com/PLTV/3/224/3221229088/index.m3u8
+#EXTINF:-1 ,group-title="江苏地方",淮安影视娱乐
+http://ott.mobaibox.com/PLTV/3/224/3221229091/index.m3u8
+#EXTINF:-1 ,group-title="江苏地方",扬州新闻
+http://ott.mobaibox.com/PLTV/3/224/3221228155/index.m3u8
+#EXTINF:-1 ,group-title="江苏地方",扬州民生
+http://ott.mobaibox.com/PLTV/3/224/3221229043/index.m3u8
+#EXTINF:-1 ,group-title="江苏地方",扬州邗江
+http://ott.mobaibox.com/PLTV/3/224/3221227867/index.m3u8
+#EXTINF:-1 ,group-title="江苏地方",扬州江都
+http://ott.mobaibox.com/PLTV/3/224/3221229046/index.m3u8
+
+
+#EXTINF:-1 ,group-title="地方卫视",凤凰香港
+http://ott.mobaibox.com/PLTV/3/224/3221228530/index.m3u8
+#EXTINF:-1 ,group-title="地方卫视",凤凰中文
+http://ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
+#EXTINF:-1 ,group-title="地方卫视",凤凰资讯
+http://ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
+#EXTINF:-1 ,group-title="地方卫视",北京卫视
+http://ott.mobaibox.com/PLTV/4/224/3221228890/index.m3u8
+#EXTINF:-1 ,group-title="地方卫视",广东卫视
+http://ott.mobaibox.com/PLTV/3/224/3221228838/index.m3u8
+#EXTINF:-1 ,group-title="地方卫视",深圳卫视
+http://ott.mobaibox.com/PLTV/3/224/3221228835/index.m3u8
+#EXTINF:-1 ,group-title="地方卫视",东方卫视
+http://ott.mobaibox.com/PLTV/4/224/3221228956/index.m3u8
+#EXTINF:-1 ,group-title="地方卫视",湖南卫视
+http://ott.mobaibox.com/PLTV/4/224/3221228883/index.m3u8
+#EXTINF:-1 ,group-title="地方卫视",山东卫视
+http://ott.mobaibox.com/PLTV/4/224/3221228880/index.m3u8
+#EXTINF:-1 ,group-title="地方卫视",浙江卫视
+http://ott.mobaibox.com/PLTV/4/224/3221228900/index.m3u8
+#EXTINF:-1 ,group-title="地方卫视",四川卫视
+http://ott.mobaibox.com/PLTV/4/224/3221228877/index.m3u8
+#EXTINF:-1 ,group-title="地方卫视",纪实科教
+http://ott.mobaibox.com/PLTV/3/224/3221227699/index.m3u8
+#EXTINF:-1 ,group-title="地方卫视",三沙卫视
+http://ott.mobaibox.com/PLTV/3/224/3221228626/index.m3u8
+#EXTINF:-1 ,group-title="地方卫视",大湾区卫视
+http://ott.mobaibox.com/PLTV/3/224/3221228326/index.m3u8
+#EXTINF:-1 ,group-title="地方卫视",重庆卫视
+http://ott.mobaibox.com/PLTV/3/224/3221229016/index.m3u8
+#EXTINF:-1 ,group-title="地方卫视",天津卫视
+http://ott.mobaibox.com/PLTV/3/224/3221227488/index.m3u8
+#EXTINF:-1 ,group-title="地方卫视",安徽卫视
+http://ott.mobaibox.com/PLTV/3/224/3221227558/index.m3u8
+#EXTINF:-1 ,group-title="地方卫视",河北卫视
+http://ott.mobaibox.com/PLTV/3/224/3221228106/index.m3u8
+#EXTINF:-1 ,group-title="地方卫视",辽宁卫视
+http://ott.mobaibox.com/PLTV/3/224/3221227485/index.m3u8
+#EXTINF:-1 ,group-title="地方卫视",吉林卫视
+http://ott.mobaibox.com/PLTV/3/224/3221228130/index.m3u8
+#EXTINF:-1 ,group-title="地方卫视",东南卫视
+http://ott.mobaibox.com/PLTV/3/224/3221228972/index.m3u8
+#EXTINF:-1 ,group-title="地方卫视",厦门卫视
+http://ott.mobaibox.com/PLTV/4/224/3221226996/index.m3u8
+#EXTINF:-1 ,group-title="地方卫视",江西卫视
+http://ott.mobaibox.com/PLTV/3/224/3221228109/index.m3u8
+#EXTINF:-1 ,group-title="地方卫视",河南卫视
+http://ott.mobaibox.com/PLTV/3/224/3221228221/index.m3u8
+#EXTINF:-1 ,group-title="地方卫视",湖北卫视
+http://ott.mobaibox.com/PLTV/3/224/3221227479/index.m3u8
+#EXTINF:-1 ,group-title="地方卫视",海南卫视
+http://ott.mobaibox.com/PLTV/3/224/3221228946/index.m3u8
+#EXTINF:-1 ,group-title="地方卫视",贵州卫视
+http://ott.mobaibox.com/PLTV/3/224/3221228136/index.m3u8
+#EXTINF:-1 ,group-title="地方卫视",云南卫视
+http://ott.mobaibox.com/PLTV/3/224/3221228966/index.m3u8
+#EXTINF:-1 ,group-title="地方卫视",甘肃卫视
+http://ott.mobaibox.com/PLTV/3/224/3221228961/index.m3u8
+#EXTINF:-1 ,group-title="地方卫视",新疆卫视
+http://ott.mobaibox.com/PLTV/3/224/3221228934/index.m3u8
+#EXTINF:-1 ,group-title="地方卫视",兵团卫视
+http://ott.mobaibox.com/PLTV/4/224/3221228925/index.m3u8
+#EXTINF:-1 ,group-title="地方卫视",黑龙江卫视
+http://ott.mobaibox.com/PLTV/3/224/3221227514/index.m3u8
+#EXTINF:-1 ,group-title="地方卫视",广西卫视
+http://ott.mobaibox.com/PLTV/3/224/3221229028/index.m3u8
+#EXTINF:-1 ,group-title="地方卫视",青海卫视
+http://ott.mobaibox.com/PLTV/3/224/3221228955/index.m3u8
+#EXTINF:-1 ,group-title="地方卫视",陕西卫视
+http://ott.mobaibox.com/PLTV/4/224/3221228952/index.m3u8
+#EXTINF:-1 ,group-title="地方卫视",山西卫视
+http://ott.mobaibox.com/PLTV/4/224/3221225786/index.m3u8
+#EXTINF:-1 ,group-title="地方卫视",西藏卫视
+http://ott.mobaibox.com/PLTV/4/224/3221229007/index.m3u8
+#EXTINF:-1 ,group-title="地方卫视",宁夏卫视
+http://ott.mobaibox.com/PLTV/4/224/3221228958/index.m3u8
+#EXTINF:-1 ,group-title="地方卫视",内蒙古卫视
+http://ott.mobaibox.com/PLTV/4/224/3221229010/index.m3u8
+#EXTINF:-1 ,group-title="地方卫视",康巴卫视
+http://ott.mobaibox.com/PLTV/3/224/3221227645/index.m3u8
+#EXTINF:-1 ,group-title="地方卫视",安多卫视
+http://ott.mobaibox.com/PLTV/3/224/3221227651/index.m3u8
+#EXTINF:-1 ,group-title="地方卫视",延边卫视
+http://ott.mobaibox.com/PLTV/3/224/3221227590/index.m3u8
+#EXTINF:-1 ,group-title="地方卫视",农林卫视
+http://ott.mobaibox.com/PLTV/3/224/3221227648/index.m3u8
+#EXTINF:-1 ,group-title="地方卫视",金鹰纪实
+http://ott.mobaibox.com/PLTV/3/224/3221228110/index.m3u8
+#EXTINF:-1 ,group-title="地方卫视",山东教育
+http://ott.mobaibox.com/PLTV/3/224/3221228998/index.m3u8
+#EXTINF:-1 ,group-title="地方卫视",山东齐鲁
+http://ott.mobaibox.com/PLTV/3/224/3221228706/index.m3u8
+
+#EXTINF:-1 ,group-title="少儿频道",黑莓动画
+http://ott.mobaibox.com/PLTV/3/224/3221225555/index.m3u8
+#EXTINF:-1 ,group-title="少儿频道",CETV早期教育
+http://ott.mobaibox.com/PLTV/3/224/3221228692/index.m3u8
+#EXTINF:-1 ,group-title="少儿频道",南京少儿
+http://ott.mobaibox.com/PLTV/3/224/3221229040/index.m3u8
+#EXTINF:-1 ,group-title="少儿频道",金鹰卡通
+http://ott.mobaibox.com/PLTV/3/224/3221229001/index.m3u8
+#EXTINF:-1 ,group-title="少儿频道",优漫卡通
+http://ott.mobaibox.com/PLTV/3/224/3221227577/index.m3u8
+#EXTINF:-1 ,group-title="少儿频道",卡酷少儿
+http://ott.mobaibox.com/PLTV/3/224/3221228928/index.m3u8
+#EXTINF:-1 ,group-title="少儿频道",嘉佳卡通
+http://ott.mobaibox.com/PLTV/3/224/3221227598/index.m3u8
+#EXTINF:-1 ,group-title="少儿频道",动漫星空
+http://ott.mobaibox.com/PLTV/4/224/3221228579/index.m3u8
+#EXTINF:-1 ,group-title="少儿频道",小猪佩奇
+http://ott.mobaibox.com/PLTV/3/224/3221228460/index.m3u8
+#EXTINF:-1 ,group-title="少儿频道",汪汪立大功
+http://ott.mobaibox.com/PLTV/4/224/3221228463/index.m3u8
+
+#EXTINF:-1 ,group-title="咪咕直播",4k修复
+http://ott.mobaibox.com/PLTV/3/224/3221228141/index.m3u8
+#EXTINF:-1 ,group-title="咪咕直播",4kuhd
+http://ott.mobaibox.com/PLTV/3/224/3221227506/index.m3u8
+#EXTINF:-1 ,group-title="咪咕直播",晴彩青少
+http://ott.mobaibox.com/PLTV/3/224/3221228729/index.m3u8
+#EXTINF:-1 ,group-title="咪咕直播",晴彩竞技
+http://ott.mobaibox.com/PLTV/3/224/3221228679/index.m3u8
+#EXTINF:-1 ,group-title="咪咕直播",晴彩篮球
+http://ott.mobaibox.com/PLTV/3/224/3221228682/index.m3u8
+
+#EXTINF:-1 ,group-title="咪咕直播",美食美味
+http://ott.mobaibox.com/PLTV/4/224/3221228562/index.m3u8
+#EXTINF:-1 ,group-title="咪咕直播",抖音热歌
+http://ott.mobaibox.com/PLTV/4/224/3221228444/index.m3u8
+#EXTINF:-1 ,group-title="咪咕直播",流行音乐
+http://ott.mobaibox.com/PLTV/4/224/3221228794/index.m3u8
+#EXTINF:-1 ,group-title="咪咕直播",QQ音乐
+http://ott.mobaibox.com/PLTV/4/224/3221228641/index.m3u8
+#EXTINF:-1 ,group-title="咪咕直播",黑莓电影
+http://ott.mobaibox.com/PLTV/3/224/3221227520/index.m3u8
+#EXTINF:-1 ,group-title="咪咕直播",影视剧场
+http://ott.mobaibox.com/PLTV/4/224/3221227512/index.m3u8
+#EXTINF:-1 ,group-title="咪咕直播",第一院线
+http://ott.mobaibox.com/PLTV/4/224/3221227579/index.m3u8
+#EXTINF:-1 ,group-title="咪咕直播",高分电影
+http://ott.mobaibox.com/PLTV/4/224/3221228644/index.m3u8
+#EXTINF:-1 ,group-title="咪咕直播",热门综艺
+http://ott.mobaibox.com/PLTV/4/224/3221228591/index.m3u8
+#EXTINF:-1 ,group-title="咪咕直播",精品记录
+http://ott.mobaibox.com/PLTV/4/224/3221228723/index.m3u8
+#EXTINF:-1 ,group-title="咪咕直播",古装剧场
+http://ott.mobaibox.com/PLTV/4/224/3221228797/index.m3u8
+
+#EXTINF:-1 ,group-title="NewTV",潮妈辣婆
+http://ott.mobaibox.com/PLTV/3/224/3221227527/index.m3u8
+#EXTINF:-1 ,group-title="NewTV",中国功夫
+http://ott.mobaibox.com/PLTV/3/224/3221227530/index.m3u8
+#EXTINF:-1 ,group-title="NewTV",怡伴健康
+http://ott.mobaibox.com/PLTV/3/224/3221227612/index.m3u8
+#EXTINF:-1 ,group-title="NewTV",军事评论
+http://ott.mobaibox.com/PLTV/3/224/3221227544/index.m3u8
+#EXTINF:-1 ,group-title="NewTV",军旅剧场
+http://ott.mobaibox.com/PLTV/3/224/3221227603/index.m3u8
+#EXTINF:-1 ,group-title="NewTV",农业致富
+http://ott.mobaibox.com/PLTV/3/224/3221227588/index.m3u8
+#EXTINF:-1 ,group-title="NewTV",动作电影
+http://ott.mobaibox.com/PLTV/3/224/3221227606/index.m3u8
+#EXTINF:-1 ,group-title="NewTV",古装剧场
+http://ott.mobaibox.com/PLTV/3/224/3221227542/index.m3u8
+#EXTINF:-1 ,group-title="NewTV",家庭剧场
+http://ott.mobaibox.com/PLTV/3/224/3221227600/index.m3u8
+#EXTINF:-1 ,group-title="NewTV",惊悚悬疑
+http://ott.mobaibox.com/PLTV/3/224/3221227536/index.m3u8
+#EXTINF:-1 ,group-title="NewTV",爱情喜剧
+http://ott.mobaibox.com/PLTV/3/224/3221227548/index.m3u8
+#EXTINF:-1 ,group-title="NewTV",精品体育
+http://ott.mobaibox.com/PLTV/3/224/3221227615/index.m3u8
+#EXTINF:-1 ,group-title="NewTV",精品萌宠
+http://ott.mobaibox.com/PLTV/3/224/3221228430/index.m3u8
+#EXTINF:-1 ,group-title="NewTV",精品大剧
+http://ott.mobaibox.com/PLTV/3/224/3221227618/index.m3u8
+#EXTINF:-1 ,group-title="NewTV",精品纪录
+http://ott.mobaibox.com/PLTV/3/224/3221227547/index.m3u8
+#EXTINF:-1 ,group-title="NewTV",金牌综艺
+http://ott.mobaibox.com/PLTV/3/224/3221227541/index.m3u8
+#EXTINF:-1 ,group-title="NewTV",明星大片
+http://ott.mobaibox.com/PLTV/3/224/3221227594/index.m3u8
+#EXTINF:-1 ,group-title="NewTV",炫舞未来
+http://ott.mobaibox.com/PLTV/3/224/3221227475/index.m3u8
+
+#EXTINF:-1 group-title="其他",快乐垂钓
+http://112.86.202.37:8112/JSBC_iptv/C10000142@JSBC
+#EXTINF:-1 group-title="其他",梨园频道
+http://112.86.202.37:8112/JSBC_iptv/C10000235@JSBC
+#EXTINF:-1 group-title="其他",武术世界
+http://112.86.202.37:8112/JSBC_iptv/C10000236@JSBC
+#EXTINF:-1 group-title="其他",文物宝库
+http://112.86.202.37:8112/JSBC_iptv/C10000237@JSBC
+#EXTINF:-1 group-title="其他",东方财经
+http://112.86.202.37:8112/JSBC_iptv/C10000420@JSBC
+#EXTINF:-1 group-title="其他",中国天气
+http://112.86.202.37:8112/JSBC_iptv/C10000419@JSBC
+#EXTINF:-1 group-title="其他",法制天地
+http://112.86.202.37:8112/JSBC_iptv/C10000237@JSBC
+#EXTINF:-1 group-title="其他",生活时尚
+http://112.86.202.37:8112/JSBC_iptv/C10000420@JSBC
+#EXTINF:-1 group-title="其他",都市剧场
+http://112.86.202.37:8112/JSBC_iptv/C10000424@JSBC
+#EXTINF:-1 group-title="其他",财富天下
+http://112.86.202.37:8112/JSBC_iptv/C10000467@JSBC
