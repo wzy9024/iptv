@@ -18,7 +18,7 @@ http://ott.mobaibox.com/PLTV/3/224/3221227626/index.m3u8
 #EXTINF:-1 ,group-title="央视",CCTV-8
 http://ott.mobaibox.com/PLTV/4/224/3221228578/index.m3u8
 #EXTINF:-1 ,group-title="央视",CCTV-9
-http://ott.mobaibox.com/PLTV/3/224/3221228962/index.m3u8
+http://112.86.202.37:8112/JSBC_iptv/C10000042@JSBC
 #EXTINF:-1 ,group-title="央视",CCTV-10
 http://ott.mobaibox.com/PLTV/3/224/3221227620/index.m3u8
 #EXTINF:-1 ,group-title="央视",CCTV-11
@@ -75,7 +75,7 @@ http://ott.mobaibox.com/PLTV/3/224/3221227607/index.m3u8
 #EXTINF:-1 ,group-title="央视",CETV3
 http://ott.mobaibox.com/PLTV/3/224/3221227018/index.m3u8
 #EXTINF:-1 ,group-title="央视",CETV4
-http://ott.mobaibox.com/PLTV/3/224/3221227028/index.m3u8
+http://112.86.202.37:8112/JSBC_iptv/C10000405@JSBC
 
 
 #EXTINF:-1 ,group-title="江苏地方",江苏卫视
@@ -281,7 +281,7 @@ http://ott.mobaibox.com/PLTV/3/224/3221229040/index.m3u8
 #EXTINF:-1 ,group-title="少儿频道",金鹰卡通
 http://ott.mobaibox.com/PLTV/3/224/3221229001/index.m3u8
 #EXTINF:-1 ,group-title="少儿频道",优漫卡通
-http://ott.mobaibox.com/PLTV/3/224/3221227577/index.m3u8
+http://112.86.202.37:8112/JSBC_iptv/C10000228@JSBC
 #EXTINF:-1 ,group-title="少儿频道",卡酷少儿
 http://ott.mobaibox.com/PLTV/3/224/3221228928/index.m3u8
 #EXTINF:-1 ,group-title="少儿频道",嘉佳卡通
