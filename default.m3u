@@ -125,10 +125,9 @@ http://ott.mobaibox.com/PLTV/3/224/3221228914/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221229032/index.m3u8
 #EXTINF:-1 ,group-title="江苏地方",南京十八·生活频道
 http://ott.mobaibox.com/PLTV/3/224/3221227178/index.m3u8
-#EXTINF:-1 ,group-title="江苏地方",南京科教
+#EXTINF:-1 ,group-title="江苏地方",南京教科
 http://ott.mobaibox.com/PLTV/3/224/3221229012/index.m3u8
-#EXTINF:-1 ,group-title="江苏地方",南京影视
-http://ott.mobaibox.com/PLTV/3/224/3221227719/index.m3u8
+
 #EXTINF:-1 ,group-title="江苏地方",南京文旅记录
 http://ott.mobaibox.com/PLTV/3/224/3221227722/index.m3u8
 #EXTINF:-1 ,group-title="江苏地方",镇江1
@@ -276,8 +275,7 @@ http://ott.mobaibox.com/PLTV/3/224/3221228706/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221225555/index.m3u8
 #EXTINF:-1 ,group-title="少儿频道",CETV早期教育
 http://ott.mobaibox.com/PLTV/3/224/3221228692/index.m3u8
-#EXTINF:-1 ,group-title="少儿频道",南京少儿
-http://ott.mobaibox.com/PLTV/3/224/3221229040/index.m3u8
+
 #EXTINF:-1 ,group-title="少儿频道",金鹰卡通
 http://ott.mobaibox.com/PLTV/3/224/3221229001/index.m3u8
 #EXTINF:-1 ,group-title="少儿频道",优漫卡通
