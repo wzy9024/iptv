@@ -204,8 +204,7 @@ http://ott.mobaibox.com/PLTV/4/224/3221228877/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221227699/index.m3u8
 #EXTINF:-1 ,group-title="地方卫视",三沙卫视
 http://ott.mobaibox.com/PLTV/3/224/3221228626/index.m3u8
-#EXTINF:-1 ,group-title="地方卫视",大湾区卫视
-http://ott.mobaibox.com/PLTV/3/224/3221228326/index.m3u8
+
 #EXTINF:-1 ,group-title="地方卫视",重庆卫视
 http://ott.mobaibox.com/PLTV/3/224/3221229016/index.m3u8
 #EXTINF:-1 ,group-title="地方卫视",天津卫视
@@ -291,7 +290,7 @@ http://ott.mobaibox.com/PLTV/3/224/3221228460/index.m3u8
 #EXTINF:-1 ,group-title="少儿频道",汪汪立大功
 http://ott.mobaibox.com/PLTV/4/224/3221228463/index.m3u8
 
-#EXTINF:-1 ,group-title="咪咕直播",4k修复
+#EXTINF:-1 ,group-title="咪咕直播",真4K
 http://ott.mobaibox.com/PLTV/3/224/3221228141/index.m3u8
 
 #EXTINF:-1 ,group-title="咪咕直播",晴彩青少
@@ -383,3 +382,5 @@ http://112.86.202.37:8112/JSBC_iptv/C10000424@JSBC
 http://112.86.202.37:8112/JSBC_iptv/C10000467@JSBC
 #EXTINF:-1 group-title="其他",第一财经
 http://ott.mobaibox.com/PLTV/3/224/3221229065/index.m3u8
+#EXTINF:-1 group-title="其他",掌上财金
+http://ott.mobaibox.com/PLTV/3/224/3221229068/index.m3u8
