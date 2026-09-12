@@ -121,6 +121,12 @@ https://live-auth.51kandianshi.com/szgd/csztv4k_4k.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221228103/index.m3u8
 #EXTINF:-1 ,group-title="江苏地方",无锡都市资讯
 http://ott.mobaibox.com/PLTV/3/224/3221228914/index.m3u8
+#EXTINF:-1 ,group-title="江苏地方",无锡娱乐
+https://stream.thmz.com/wxtv2/playlist.m3u8
+#EXTINF:-1 ,group-title="江苏地方",无锡生活
+https://stream.thmz.com/wxtv4/playlist.m3u8
+#EXTINF:-1 ,group-title="江苏地方",无锡经济
+https://stream.thmz.com/wxtv5/playlist.m3u8
 #EXTINF:-1 ,group-title="江苏地方",南京新闻综合
 http://ott.mobaibox.com/PLTV/3/224/3221229032/index.m3u8
 #EXTINF:-1 ,group-title="江苏地方",南京十八·生活频道
