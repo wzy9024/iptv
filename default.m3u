@@ -165,7 +165,7 @@ http://ott.mobaibox.com/PLTV/3/224/3221228155/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221229043/index.m3u8
 #EXTINF:-1 ,group-title="江苏地方",扬州邗江
 http://ott.mobaibox.com/PLTV/3/224/3221227867/index.m3u8
-#EXTINF:-1 ,group-title="江苏地方", tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/扬州江都.png"扬州江都
+#EXTINF:-1 ,group-title="江苏地方" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/扬州江都.png"扬州江都
 http://ott.mobaibox.com/PLTV/3/224/3221229046/index.m3u8
 #EXTINF:-1 ,group-title="江苏地方" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/镇江新闻综合.png,镇江1
 http://ott.mobaibox.com/PLTV/3/224/3221229058/index.m3u8
