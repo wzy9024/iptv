@@ -114,13 +114,17 @@ http://ott.mobaibox.com/PLTV/3/224/3221227722/index.m3u8
 #EXTINF:-1 ,group-title="江苏地方" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/无锡新闻综合.png",无锡新闻
 http://ott.mobaibox.com/PLTV/3/224/3221228103/index.m3u8
 #EXTINF:-1 ,group-title="江苏地方",无锡娱乐
-https://stream.thmz.com/wxtv2/playlist.m3u8|Referer=https://v2.thmz.com/
+#EXTVLCOPT:http-referrer=https://v2.thmz.com/
+https://stream.thmz.com/wxtv2/playlist.m3u8
 #EXTINF:-1 ,group-title="江苏地方" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/无锡都市资讯.png",无锡都市资讯
 http://ott.mobaibox.com/PLTV/3/224/3221228914/index.m3u8
 #EXTINF:-1 ,group-title="江苏地方",无锡生活
-https://stream.thmz.com/wxtv4/playlist.m3u8|Referer=https://v2.thmz.com/
+#EXTVLCOPT:http-referrer=https://v2.thmz.com/
+https://stream.thmz.com/wxtv4/playlist.m3u8
 #EXTINF:-1 ,group-title="江苏地方",无锡经济
-https://stream.thmz.com/wxtv5/playlist.m3u8|Referer=https://v2.thmz.com/
+#EXTVLCOPT:http-referrer=https://v2.thmz.com/
+https://stream.thmz.com/wxtv5/playlist.m3u8
+
 #EXTINF:-1 ,group-title="江苏地方" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/徐州新闻综合.png",徐州1
 http://ott.mobaibox.com/PLTV/3/224/3221228990/index.m3u8
 #EXTINF:-1 ,group-title="江苏地方" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/徐州经济生活.png",徐州2
