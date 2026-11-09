@@ -37,7 +37,7 @@ http://ott.mobaibox.com/PLTV/3/224/3221228959/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221228977/index.m3u8
 #EXTINF:-1 ,group-title="央视" tvg-logo="https://raw.githubusercontent.com/wzy9024/jsyd-iptv/main/logo/CCTV4K.png",CCTV4K 
 http://ott.mobaibox.com/PLTV/3/224/3221228472/index.m3u8
-#EXTINF:-1 ,group-title="央视" tvg-logo="https://raw.githubusercontent.com/wzy9024/jsyd-iptv/main/logo/中国天气.png",中国天气
+#EXTINF:-1 ,group-title="央视" tvg-logo="https://raw.githubusercontent.com/wzy9024/jsyd-iptv/main/logo/zgtq.png",中国天气
 http://112.86.202.37:8112/JSBC_iptv/C10000419@JSBC
 #EXTINF:-1 ,group-title="央视" tvg-logo="https://raw.githubusercontent.com/wzy9024/jsyd-iptv/main/logo/CCTV8K.png",CCTV8K 
 http://ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8
