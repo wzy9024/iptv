@@ -1,69 +1,69 @@
 #EXTM3U
-#EXTINF:-1 ,group-title="央视",CCTV-1
+#EXTINF:-1 ,group-title="央视" tvg-logo="https://raw.githubusercontent.com/wzy9024/jsyd-iptv/main/logo/CCTV1.png",CCTV-1
 http://ott.mobaibox.com/PLTV/6/224/3221228581/index.m3u8
-#EXTINF:-1 ,group-title="央视",CCTV-2
+#EXTINF:-1 ,group-title="央视" tvg-logo="https://raw.githubusercontent.com/wzy9024/jsyd-iptv/main/logo/CCTV2.png",CCTV-2
 http://ott.mobaibox.com/PLTV/6/224/3221228844/index.m3u8
-#EXTINF:-1 ,group-title="央视",CCTV-3
+#EXTINF:-1 ,group-title="央视" tvg-logo="https://raw.githubusercontent.com/wzy9024/jsyd-iptv/main/logo/CCTV3.png",CCTV-3
 http://ott.mobaibox.com/PLTV/6/224/3221228499/index.m3u8
-#EXTINF:-1 ,group-title="央视",CCTV-4
+#EXTINF:-1 ,group-title="央视" tvg-logo="https://raw.githubusercontent.com/wzy9024/jsyd-iptv/main/logo/CCTV4.png",CCTV-4
 http://ott.mobaibox.com/PLTV/6/224/3221228091/index.m3u8
-#EXTINF:-1 ,group-title="央视",CCTV-5
+#EXTINF:-1 ,group-title="央视" tvg-logo="https://raw.githubusercontent.com/wzy9024/jsyd-iptv/main/logo/CCTV5.png",CCTV-5
 http://ott.mobaibox.com/PLTV/4/224/3221228502/index.m3u8
-#EXTINF:-1 ,group-title="央视",CCTV-5+
+#EXTINF:-1 ,group-title="央视" tvg-logo="https://raw.githubusercontent.com/wzy9024/jsyd-iptv/main/logo/CCTV5+.png",CCTV-5+
 http://ott.mobaibox.com/PLTV/3/224/3221228962/index.m3u8
-#EXTINF:-1 ,group-title="央视",CCTV-6
+#EXTINF:-1 ,group-title="央视" tvg-logo="https://raw.githubusercontent.com/wzy9024/jsyd-iptv/main/logo/CCTV6.png",CCTV-6
 http://ott.mobaibox.com/PLTV/4/224/3221228516/index.m3u8
-#EXTINF:-1 ,group-title="央视",CCTV-7
+#EXTINF:-1 ,group-title="央视" tvg-logo="https://raw.githubusercontent.com/wzy9024/jsyd-iptv/main/logo/CCTV7.png",CCTV-7
 http://ott.mobaibox.com/PLTV/3/224/3221227626/index.m3u8
-#EXTINF:-1 ,group-title="央视",CCTV-8
+#EXTINF:-1 ,group-title="央视" tvg-logo="https://raw.githubusercontent.com/wzy9024/jsyd-iptv/main/logo/CCTV8.png",CCTV-8
 http://ott.mobaibox.com/PLTV/4/224/3221228578/index.m3u8
-#EXTINF:-1 ,group-title="央视",CCTV-9
+#EXTINF:-1 ,group-title="央视" tvg-logo="https://raw.githubusercontent.com/wzy9024/jsyd-iptv/main/logo/CCTV9.png",CCTV-9
 http://ott.mobaibox.com/PLTV/4/224/3221227614/index.m3u8
-#EXTINF:-1 ,group-title="央视",CCTV-10
+#EXTINF:-1 ,group-title="央视" tvg-logo="https://raw.githubusercontent.com/wzy9024/jsyd-iptv/main/logo/CCTV10.png",CCTV-10
 http://ott.mobaibox.com/PLTV/3/224/3221227620/index.m3u8
-#EXTINF:-1 ,group-title="央视",CCTV-11
+#EXTINF:-1 ,group-title="央视" tvg-logo="https://raw.githubusercontent.com/wzy9024/jsyd-iptv/main/logo/CCTV11.png",CCTV-11
 http://ott.mobaibox.com/PLTV/3/224/3221228918/index.m3u8
-#EXTINF:-1 ,group-title="央视",CCTV-12
+#EXTINF:-1 ,group-title="央视" tvg-logo="https://raw.githubusercontent.com/wzy9024/jsyd-iptv/main/logo/CCTV12.png",CCTV-12
 http://ott.mobaibox.com/PLTV/3/224/3221227637/index.m3u8
-#EXTINF:-1 ,group-title="央视",CCTV-13
+#EXTINF:-1 ,group-title="央视" tvg-logo="https://raw.githubusercontent.com/wzy9024/jsyd-iptv/main/logo/CCTV13.png",CCTV-13
 http://ott.mobaibox.com/PLTV/3/224/3221228224/index.m3u8
-#EXTINF:-1 ,group-title="央视",CCTV-14
+#EXTINF:-1 ,group-title="央视" tvg-logo="https://raw.githubusercontent.com/wzy9024/jsyd-iptv/main/logo/CCTV14.png",CCTV-14
 http://ott.mobaibox.com/PLTV/3/224/3221227693/index.m3u8
-#EXTINF:-1 ,group-title="央视",CCTV-15
+#EXTINF:-1 ,group-title="央视" tvg-logo="https://raw.githubusercontent.com/wzy9024/jsyd-iptv/main/logo/CCTV15.png",CCTV-15
 http://ott.mobaibox.com/PLTV/3/224/3221228910/index.m3u8
-#EXTINF:-1 ,group-title="央视",CCTV-16
+#EXTINF:-1 ,group-title="央视" tvg-logo="https://raw.githubusercontent.com/wzy9024/jsyd-iptv/main/logo/CCTV16.png",CCTV-16
 http://ott.mobaibox.com/PLTV/3/224/3221228959/index.m3u8
-#EXTINF:-1 ,group-title="央视",CCTV-17
+#EXTINF:-1 ,group-title="央视" tvg-logo="https://raw.githubusercontent.com/wzy9024/jsyd-iptv/main/logo/CCTV17.png",CCTV-17
 http://ott.mobaibox.com/PLTV/3/224/3221228977/index.m3u8
-#EXTINF:-1 ,group-title="央视",CCTV4K 
+#EXTINF:-1 ,group-title="央视" tvg-logo="https://raw.githubusercontent.com/wzy9024/jsyd-iptv/main/logo/CCTV4K.png",CCTV4K 
 http://ott.mobaibox.com/PLTV/3/224/3221228472/index.m3u8
 #EXTINF:-1 ,group-title="央视",中国天气
 http://112.86.202.37:8112/JSBC_iptv/C10000419@JSBC
-#EXTINF:-1 ,group-title="央视",CCTV8K 
+#EXTINF:-1 ,group-title="央视" tvg-logo="https://raw.githubusercontent.com/wzy9024/jsyd-iptv/main/logo/CCTV8K.png",CCTV8K 
 http://ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8
-#EXTINF:-1 ,group-title="央视",高尔夫网球
+#EXTINF:-1 ,group-title="央视" tvg-logo="https://raw.githubusercontent.com/wzy9024/jsyd-iptv/main/logo/高尔夫网球.png",高尔夫网球
 http://ott.mobaibox.com/PLTV/3/224/3221228138/index.m3u8
-#EXTINF:-1 ,group-title="央视",世界地理
+#EXTINF:-1 ,group-title="央视" tvg-logo="https://raw.githubusercontent.com/wzy9024/jsyd-iptv/main/logo/世界地理.png",世界地理
 http://ott.mobaibox.com/PLTV/3/224/3221228680/index.m3u8
-#EXTINF:-1 ,group-title="央视",第一剧场
+#EXTINF:-1 ,group-title="央视" tvg-logo="https://raw.githubusercontent.com/wzy9024/jsyd-iptv/main/logo/第一剧场.png",第一剧场
 http://ott.mobaibox.com/PLTV/3/224/3221228659/index.m3u8
-#EXTINF:-1 ,group-title="央视",风云剧场
+#EXTINF:-1 ,group-title="央视" tvg-logo="https://raw.githubusercontent.com/wzy9024/jsyd-iptv/main/logo/风云剧场.png",风云剧场
 http://ott.mobaibox.com/PLTV/3/224/3221228662/index.m3u8
-#EXTINF:-1 ,group-title="央视",风云音乐
+#EXTINF:-1 ,group-title="央视" tvg-logo="https://raw.githubusercontent.com/wzy9024/jsyd-iptv/main/logo/风云音乐.png",风云音乐
 http://ott.mobaibox.com/PLTV/3/224/3221228665/index.m3u8
-#EXTINF:-1 ,group-title="央视",风云足球
+#EXTINF:-1 ,group-title="央视" tvg-logo="https://raw.githubusercontent.com/wzy9024/jsyd-iptv/main/logo/风云足球.png",风云足球
 http://ott.mobaibox.com/PLTV/3/224/3221228668/index.m3u8
-#EXTINF:-1 ,group-title="央视",怀旧剧场
+#EXTINF:-1 ,group-title="央视" tvg-logo="https://raw.githubusercontent.com/wzy9024/jsyd-iptv/main/logo/怀旧剧场.png",怀旧剧场
 http://ott.mobaibox.com/PLTV/3/224/3221228671/index.m3u8
-#EXTINF:-1 ,group-title="央视",女性时尚
+#EXTINF:-1 ,group-title="央视" tvg-logo="https://raw.githubusercontent.com/wzy9024/jsyd-iptv/main/logo/女性时尚.png",女性时尚
 http://ott.mobaibox.com/PLTV/3/224/3221228674/index.m3u8
-#EXTINF:-1 ,group-title="央视",文化精品
+#EXTINF:-1 ,group-title="央视" tvg-logo="https://raw.githubusercontent.com/wzy9024/jsyd-iptv/main/logo/文化精品.png",文化精品
 http://ott.mobaibox.com/PLTV/3/224/3221228677/index.m3u8
-#EXTINF:-1 ,group-title="央视",央视台球
+#EXTINF:-1 ,group-title="央视" tvg-logo="https://raw.githubusercontent.com/wzy9024/jsyd-iptv/main/logo/央视台球.png",央视台球
 http://ott.mobaibox.com/PLTV/3/224/3221228683/index.m3u8
-#EXTINF:-1 ,group-title="央视",兵器科技
+#EXTINF:-1 ,group-title="央视" tvg-logo="https://raw.githubusercontent.com/wzy9024/jsyd-iptv/main/logo/兵器科技.png",兵器科技
 http://ott.mobaibox.com/PLTV/3/224/3221228686/index.m3u8
-#EXTINF:-1 ,group-title="央视",电视指南
+#EXTINF:-1 ,group-title="央视" tvg-logo="https://raw.githubusercontent.com/wzy9024/jsyd-iptv/main/logo/电视指南.png",电视指南
 http://ott.mobaibox.com/PLTV/3/224/3221228689/index.m3u8
 #EXTINF:-1 ,group-title="央视",CGTN
 http://ott.mobaibox.com/PLTV/3/224/3221228811/index.m3u8
