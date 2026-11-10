@@ -67,19 +67,19 @@ http://ott.mobaibox.com/PLTV/3/224/3221228686/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221228689/index.m3u8
 #EXTINF:-1 ,group-title="央视" tvg-logo="https://raw.githubusercontent.com/wzy9024/jsyd-iptv/main/logo/CGTN.png",CGTN
 http://ott.mobaibox.com/PLTV/3/224/3221228811/index.m3u8
-#EXTINF:-1 ,group-title="央视" tvg-logo=https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/CGTNey.png",CGTN-俄语
+#EXTINF:-1 ,group-title="央视" tvg-logo="https://raw.githubusercontent.com/wzy9024/jsyd-iptv/main/logo/CGTNey.png",CGTN-俄语
 http://112.86.202.37:8112/JSBC_iptv/C10000233@JSBC
-#EXTINF:-1 ,group-title="央视" tvg-logo=https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/CGTNjilu.png",CGTN-法语
+#EXTINF:-1 ,group-title="央视" tvg-logo="https://raw.githubusercontent.com/wzy9024/jsyd-iptv/main/logo/CGTNjilu.png",CGTN-法语
 http://112.86.202.37:8112/JSBC_iptv/C10000449@JSBC
-#EXTINF:-1 ,group-title="央视" tvg-logo=https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/CGTNxbyy.png",CGTN-西语
+#EXTINF:-1 ,group-title="央视" tvg-logo="https://raw.githubusercontent.com/wzy9024/jsyd-iptv/main/logo/CGTNxbyy.png",CGTN-西语
 http://112.86.202.37:8112/JSBC_iptv/C10000448@JSBC
 #EXTINF:-1 ,group-title="央视" tvg-logo="https://raw.githubusercontent.com/wzy9024/jsyd-iptv/main/logo/CETV1.png",CETV1
 http://ott.mobaibox.com/PLTV/3/224/3221228931/index.m3u8
-#EXTINF:-1 ,group-title="央视" tvg-logo=https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/CETV2.png",CETV2
+#EXTINF:-1 ,group-title="央视" tvg-logo="https://raw.githubusercontent.com/wzy9024/jsyd-iptv/main/logo/CETV2.png",CETV2
 http://ott.mobaibox.com/PLTV/3/224/3221227607/index.m3u8
-#EXTINF:-1 ,group-title="央视" tvg-logo=https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/CETV3.png",CETV3
+#EXTINF:-1 ,group-title="央视" tvg-logo="https://raw.githubusercontent.com/wzy9024/jsyd-iptv/main/logo/CETV3.png",CETV3
 http://ott.mobaibox.com/PLTV/3/224/3221227018/index.m3u8
-#EXTINF:-1 ,group-title="央视" tvg-logo=https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/CETV4.png",CETV4
+#EXTINF:-1 ,group-title="央视" tvg-logo="https://raw.githubusercontent.com/wzy9024/jsyd-iptv/main/logo/CETV4.png",CETV4
 http://112.86.202.37:8112/JSBC_iptv/C10000405@JSBC
 
 
