@@ -93,13 +93,13 @@ http://ott.mobaibox.com/PLTV/3/224/3221225935/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221225929/index.m3u8
 #EXTINF:-1 ,group-title="江苏地方" tvg-logo="https://raw.githubusercontent.com/wzy9024/jsyd-iptv/main/logo/江苏新闻.png",江苏新闻
 http://ott.mobaibox.com/PLTV/3/224/3221225925/index.m3u8
-#EXTINF:-1 ,group-title="江苏地方" tvg-logo="raw.githubusercontent.com/wzy9024/jsyd-iptv/main/logo/江苏教育.png",江苏教育
+#EXTINF:-1 ,group-title="江苏地方" tvg-logo="https://raw.githubusercontent.com/wzy9024/jsyd-iptv/main/logo/江苏教育.png",江苏教育
 http://ott.mobaibox.com/PLTV/3/224/3221229034/index.m3u8
-#EXTINF:-1 ,group-title="江苏地方" tvg-logo="raw.githubusercontent.com/wzy9024/jsyd-iptv/main/logo/江苏影视.png",江苏影视
+#EXTINF:-1 ,group-title="江苏地方" tvg-logo="https://raw.githubusercontent.com/wzy9024/jsyd-iptv/main/logo/江苏影视.png",江苏影视
 http://ott.mobaibox.com/PLTV/3/224/3221228728/index.m3u8
-#EXTINF:-1 ,group-title="江苏地方" tvg-logo="raw.githubusercontent.com/wzy9024/jsyd-iptv/main/logo/江苏综艺.png",江苏国际
+#EXTINF:-1 ,group-title="江苏地方" tvg-logo="https://raw.githubusercontent.com/wzy9024/jsyd-iptv/main/logo/江苏综艺.png",江苏国际
 http://112.86.202.37:8112/JSBC_iptv/C10000470@JSBC
-#EXTINF:-1 ,group-title="江苏地方" tvg-logo="raw.githubusercontent.com/wzy9024/jsyd-iptv/main/logo/CFTX.png",财富天下
+#EXTINF:-1 ,group-title="江苏地方" tvg-logo="https://raw.githubusercontent.com/wzy9024/jsyd-iptv/main/logo/CFTX.png",财富天下
 http://112.86.202.37:8112/JSBC_iptv/C10000467@JSBC
 
 
