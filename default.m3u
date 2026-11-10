@@ -65,7 +65,7 @@ http://ott.mobaibox.com/PLTV/3/224/3221228683/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221228686/index.m3u8
 #EXTINF:-1 ,group-title="央视" tvg-logo="https://raw.githubusercontent.com/wzy9024/jsyd-iptv/main/logo/电视指南.png",电视指南
 http://ott.mobaibox.com/PLTV/3/224/3221228689/index.m3u8
-#EXTINF:-1 ,group-title="央视",CGTN
+#EXTINF:-1 ,group-title="央视" tvg-logo="https://raw.githubusercontent.com/wzy9024/jsyd-iptv/main/logo/CGTN.png",CGTN
 http://ott.mobaibox.com/PLTV/3/224/3221228811/index.m3u8
 #EXTINF:-1 ,group-title="央视",CGTN-俄语
 http://112.86.202.37:8112/JSBC_iptv/C10000233@JSBC
@@ -73,7 +73,7 @@ http://112.86.202.37:8112/JSBC_iptv/C10000233@JSBC
 http://112.86.202.37:8112/JSBC_iptv/C10000449@JSBC
 #EXTINF:-1 ,group-title="央视",CGTN-西语
 http://112.86.202.37:8112/JSBC_iptv/C10000448@JSBC
-#EXTINF:-1 ,group-title="央视",CETV1
+#EXTINF:-1 ,group-title="央视" tvg-logo="https://raw.githubusercontent.com/wzy9024/jsyd-iptv/main/logo/CETV1.png",CETV1
 http://ott.mobaibox.com/PLTV/3/224/3221228931/index.m3u8
 #EXTINF:-1 ,group-title="央视",CETV2
 http://ott.mobaibox.com/PLTV/3/224/3221227607/index.m3u8
