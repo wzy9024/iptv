@@ -69,7 +69,7 @@ http://ott.mobaibox.com/PLTV/3/224/3221228689/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221228811/index.m3u8
 #EXTINF:-1 ,group-title="央视" tvg-logo="https://raw.githubusercontent.com/wzy9024/jsyd-iptv/main/logo/CGTNey.png",CGTN-俄语
 http://112.86.202.37:8112/JSBC_iptv/C10000233@JSBC
-#EXTINF:-1 ,group-title="央视" tvg-logo="https://raw.githubusercontent.com/wzy9024/jsyd-iptv/main/logo/CGTNjilu.png",CGTN-法语
+#EXTINF:-1 ,group-title="央视" tvg-logo="https://raw.githubusercontent.com/wzy9024/jsyd-iptv/main/logo/CGTN法语.png",CGTN-法语
 http://112.86.202.37:8112/JSBC_iptv/C10000449@JSBC
 #EXTINF:-1 ,group-title="央视" tvg-logo="https://raw.githubusercontent.com/wzy9024/jsyd-iptv/main/logo/CGTNxbyy.png",CGTN-西语
 http://112.86.202.37:8112/JSBC_iptv/C10000448@JSBC
@@ -83,23 +83,23 @@ http://ott.mobaibox.com/PLTV/3/224/3221227018/index.m3u8
 http://112.86.202.37:8112/JSBC_iptv/C10000405@JSBC
 
 
-#EXTINF:-1 ,group-title="江苏地方",江苏卫视
+#EXTINF:-1 ,group-title="江苏地方" tvg-logo="https://raw.githubusercontent.com/wzy9024/jsyd-iptv/main/logo/江苏卫视4K.png",江苏卫视
 http://ott.mobaibox.com/PLTV/3/224/3221228897/index.m3u8
-#EXTINF:-1 ,group-title="江苏地方",江苏综艺
+#EXTINF:-1 ,group-title="江苏地方" tvg-logo="https://raw.githubusercontent.com/wzy9024/jsyd-iptv/main/logo/江苏综艺.png",江苏综艺
 http://ott.mobaibox.com/PLTV/3/224/3221225931/index.m3u8
-#EXTINF:-1 ,group-title="江苏地方",江苏体育休闲
+#EXTINF:-1 ,group-title="江苏地方" tvg-logo="https://raw.githubusercontent.com/wzy9024/jsyd-iptv/main/logo/江苏体育休闲.png",江苏体育休闲
 http://ott.mobaibox.com/PLTV/3/224/3221225935/index.m3u8
-#EXTINF:-1 ,group-title="江苏地方",江苏城市
+#EXTINF:-1 ,group-title="江苏地方" tvg-logo="https://raw.githubusercontent.com/wzy9024/jsyd-iptv/main/logo/江苏城市.png",江苏城市
 http://ott.mobaibox.com/PLTV/3/224/3221225929/index.m3u8
-#EXTINF:-1 ,group-title="江苏地方",江苏新闻
+#EXTINF:-1 ,group-title="江苏地方" tvg-logo="https://raw.githubusercontent.com/wzy9024/jsyd-iptv/main/logo/江苏新闻.png",江苏新闻
 http://ott.mobaibox.com/PLTV/3/224/3221225925/index.m3u8
-#EXTINF:-1 ,group-title="江苏地方",江苏教育
+#EXTINF:-1 ,group-title="江苏地方" tvg-logo="raw.githubusercontent.com/wzy9024/jsyd-iptv/main/logo/江苏教育.png",江苏教育
 http://ott.mobaibox.com/PLTV/3/224/3221229034/index.m3u8
-#EXTINF:-1 ,group-title="江苏地方",江苏影视
+#EXTINF:-1 ,group-title="江苏地方" tvg-logo="raw.githubusercontent.com/wzy9024/jsyd-iptv/main/logo/江苏影视.png",江苏影视
 http://ott.mobaibox.com/PLTV/3/224/3221228728/index.m3u8
-#EXTINF:-1 ,group-title="江苏地方",江苏国际
+#EXTINF:-1 ,group-title="江苏地方" tvg-logo="raw.githubusercontent.com/wzy9024/jsyd-iptv/main/logo/江苏综艺.png",江苏国际
 http://112.86.202.37:8112/JSBC_iptv/C10000470@JSBC
-#EXTINF:-1 ,group-title="江苏地方",财富天下
+#EXTINF:-1 ,group-title="江苏地方" tvg-logo="raw.githubusercontent.com/wzy9024/jsyd-iptv/main/logo/CFTX.png",财富天下
 http://112.86.202.37:8112/JSBC_iptv/C10000467@JSBC
 
 
@@ -202,20 +202,20 @@ http://ott.mobaibox.com/PLTV/3/224/3221228530/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
 #EXTINF:-1 ,group-title="地方卫视",凤凰资讯
 http://ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
-#EXTINF:-1 ,group-title="地方卫视",北京卫视
+#EXTINF:-1 ,group-title="地方卫视" tvg-logo="https://raw.githubusercontent.com/wzy9024/jsyd-iptv/main/logo/北京卫视4K.png",北京卫视
 http://ott.mobaibox.com/PLTV/4/224/3221228817/index.m3u8
 #EXTINF:-1 ,group-title="地方卫视",纪实科教
 http://ott.mobaibox.com/PLTV/3/224/3221227699/index.m3u8
-#EXTINF:-1 ,group-title="地方卫视",广东卫视
+#EXTINF:-1 ,group-title="地方卫视" tvg-logo="https://raw.githubusercontent.com/wzy9024/jsyd-iptv/main/logo/广东卫视4K.png",广东卫视
 http://ott.mobaibox.com/PLTV/3/224/3221228838/index.m3u8
 #EXTINF:-1 ,group-title="地方卫视",三沙卫视
 http://ott.mobaibox.com/PLTV/3/224/3221228626/index.m3u8
-#EXTINF:-1 ,group-title="地方卫视",深圳卫视
+#EXTINF:-1 ,group-title="地方卫视" tvg-logo="https://raw.githubusercontent.com/wzy9024/jsyd-iptv/main/logo/深圳卫视4K.png",深圳卫视
 http://ott.mobaibox.com/PLTV/3/224/3221228835/index.m3u8
 
-#EXTINF:-1 ,group-title="地方卫视",东方卫视
+#EXTINF:-1 ,group-title="地方卫视" tvg-logo="https://raw.githubusercontent.com/wzy9024/jsyd-iptv/main/logo/东方卫视4K.png",东方卫视
 http://ott.mobaibox.com/PLTV/4/224/3221228956/index.m3u8
-#EXTINF:-1 ,group-title="地方卫视",东方财经
+#EXTINF:-1 ,group-title="地方卫视" tvg-logo="https://raw.githubusercontent.com/wzy9024/IPTV1/main/logo/DFCJ.png",东方财经
 http://112.86.202.37:8112/JSBC_iptv/C10000420@JSBC
 #EXTINF:-1 ,group-title="地方卫视",第一财经
 http://ott.mobaibox.com/PLTV/3/224/3221229065/index.m3u8
@@ -226,23 +226,23 @@ http://112.86.202.37:8112/JSBC_iptv/C10000423@JSBC
 #EXTINF:-1 ,group-title="地方卫视",都市剧场
 http://112.86.202.37:8112/JSBC_iptv/C10000424@JSBC
 
-#EXTINF:-1 ,group-title="地方卫视",湖南卫视
+#EXTINF:-1 ,group-title="地方卫视" tvg-logo="https://raw.githubusercontent.com/wzy9024/jsyd-iptv/main/logo/湖南卫视4K.png",湖南卫视
 http://ott.mobaibox.com/PLTV/4/224/3221228883/index.m3u8
 #EXTINF:-1 ,group-title="地方卫视",快乐垂钓
 http://112.86.202.37:8112/JSBC_iptv/C10000142@JSBC
 #EXTINF:-1 ,group-title="地方卫视",金鹰纪实
 http://ott.mobaibox.com/PLTV/3/224/3221228110/index.m3u8
 
-#EXTINF:-1 ,group-title="地方卫视",山东卫视
+#EXTINF:-1 ,group-title="地方卫视" tvg-logo="https://raw.githubusercontent.com/wzy9024/jsyd-iptv/main/logo/山东卫视4K.png",山东卫视
 http://ott.mobaibox.com/PLTV/4/224/3221228880/index.m3u8
 #EXTINF:-1 ,group-title="地方卫视",山东教育
 http://ott.mobaibox.com/PLTV/3/224/3221228998/index.m3u8
 #EXTINF:-1 ,group-title="地方卫视",山东齐鲁
 http://ott.mobaibox.com/PLTV/3/224/3221228706/index.m3u8
 
-#EXTINF:-1 ,group-title="地方卫视",浙江卫视
+#EXTINF:-1 ,group-title="地方卫视" tvg-logo="https://raw.githubusercontent.com/wzy9024/jsyd-iptv/main/logo/浙江卫视4K.png",浙江卫视
 http://ott.mobaibox.com/PLTV/4/224/3221228900/index.m3u8
-#EXTINF:-1 ,group-title="地方卫视",四川卫视
+#EXTINF:-1 ,group-title="地方卫视" tvg-logo="https://raw.githubusercontent.com/wzy9024/jsyd-iptv/main/logo/四川卫视4K.png",四川卫视
 http://ott.mobaibox.com/PLTV/4/224/3221228877/index.m3u8
 
 #EXTINF:-1 ,group-title="地方卫视",重庆卫视
