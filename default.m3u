@@ -339,7 +339,7 @@ http://ott.mobaibox.com/PLTV/3/224/3221228729/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221228679/index.m3u8
 #EXTINF:-1 ,group-title="咪咕直播" tvg-logo="https://raw.githubusercontent.com/wzy9024/jsyd-iptv/main/logo/睛彩篮球.png",晴彩篮球
 http://ott.mobaibox.com/PLTV/3/224/3221228682/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wzy9024/jsyd-iptv/main/logo/AI直播.png" group-title="咪咕直播",AI直播
+#EXTINF:-1 ,group-title="咪咕直播" tvg-logo="https://raw.githubusercontent.com/wzy9024/jsyd-iptv/main/logo/AI直播.png",AI直播
 http://ott.mobaibox.com/PLTV/4/224/3221228873/index.m3u8
 #EXTINF:-1 ,group-title="咪咕直播"tvg-logo="https://raw.githubusercontent.com/wzy9024/jsyd-iptv/main/logo/美食美味.png",美食美味
 http://ott.mobaibox.com/PLTV/4/224/3221228562/index.m3u8
@@ -351,8 +351,6 @@ http://ott.mobaibox.com/PLTV/4/224/3221228794/index.m3u8
 http://ott.mobaibox.com/PLTV/4/224/3221228641/index.m3u8
 #EXTINF:-1 ,group-title="咪咕直播" tvg-logo="https://raw.githubusercontent.com/wzy9024/jsyd-iptv/main/logo/黑莓电影.png",黑莓电影
 http://ott.mobaibox.com/PLTV/3/224/3221227520/index.m3u8
-#EXTINF:-1 ,group-title="咪咕直播" tvg-logo="https://raw.githubusercontent.com/wzy9024/jsyd-iptv/main/logo/NewTV热播精选.png",热播精选
-http://ott.mobaibox.com/PLTV/4/224/3221227512/index.m3u8
 #EXTINF:-1 ,group-title="咪咕直播" tvg-logo="https://raw.githubusercontent.com/wzy9024/jsyd-iptv/main/logo/精选电影.png",精选电影
 http://ott.mobaibox.com/PLTV/4/224/3221227579/index.m3u8
 #EXTINF:-1 ,group-title="咪咕直播" tvg-logo="https://raw.githubusercontent.com/wzy9024/jsyd-iptv/main/logo/高分电影.png",高分电影
@@ -361,7 +359,7 @@ http://ott.mobaibox.com/PLTV/4/224/3221228644/index.m3u8
 http://ott.mobaibox.com/PLTV/4/224/3221228591/index.m3u8
 #EXTINF:-1 ,group-title="咪咕直播" tvg-logo="https://raw.githubusercontent.com/wzy9024/jsyd-iptv/main/logo/自然风景.png",精品记录
 http://ott.mobaibox.com/PLTV/4/224/3221228723/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wzy9024/jsyd-iptv/main/logo/动物世界.png" group-title="咪咕直播",动物世界
+#EXTINF:-1 ,group-title="咪咕直播" tvg-logo="https://raw.githubusercontent.com/wzy9024/jsyd-iptv/main/logo/动物世界.png",动物世界
 http://ott.mobaibox.com/PLTV/3/224/3221228559/index.m3u8
 
 
