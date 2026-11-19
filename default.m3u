@@ -140,15 +140,15 @@ http://ott.mobaibox.com/PLTV/3/224/3221228997/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221229067/index.m3u8
 #EXTINF:-1 ,group-title="江苏地方" tvg-logo="https://raw.githubusercontent.com/wzy9024/jsyd-iptv/main/logo/常州都市.png",常州都市
 http://ott.mobaibox.com/PLTV/3/224/3221229064/index.m3u8
-#EXTINF:-1 ,group-title="江苏地方",苏州新闻综合
+#EXTINF:-1 ,group-title="江苏地方" tvg-logo="https://raw.githubusercontent.com/wzy9024/jsyd-iptv/main/logo/苏州新闻综合.png",苏州新闻综合
 https://live-auth.51kandianshi.com/szgd/csztv1.m3u8
-#EXTINF:-1 ,group-title="江苏地方",苏州社会经济
+#EXTINF:-1 ,group-title="江苏地方" tvg-logo="https://raw.githubusercontent.com/wzy9024/jsyd-iptv/main/logo/苏州社会经济.png",苏州社会经济
 https://live-auth.51kandianshi.com/szgd/csztv2.m3u8
-#EXTINF:-1 ,group-title="江苏地方",苏州文化生活
+#EXTINF:-1 ,group-title="江苏地方" tvg-logo="https://raw.githubusercontent.com/wzy9024/jsyd-iptv/main/logo/苏州文化生活.png",苏州文化生活
 https://live-auth.51kandianshi.com/szgd/csztv3.m3u8
-#EXTINF:-1 ,group-title="江苏地方",苏州电影娱乐信息
+#EXTINF:-1 ,group-title="江苏地方" tvg-logo="https://raw.githubusercontent.com/wzy9024/jsyd-iptv/main/logo/苏州电影娱乐信息.png",苏州电影娱乐信息
 https://live-auth.51kandianshi.com/szgd/csztv4.m3u8
-#EXTINF:-1 ,group-title="江苏地方",苏州生活资讯
+#EXTINF:-1 ,group-title="江苏地方" tvg-logo="https://raw.githubusercontent.com/wzy9024/jsyd-iptv/main/logo/苏州生活资讯.png",苏州生活资讯
 https://live-auth.51kandianshi.com/szgd/csztv5.m3u8
 #EXTINF:-1 ,group-title="江苏地方" tvg-logo="https://raw.githubusercontent.com/wzy9024/jsyd-iptv/main/logo/苏州4K频道.png",苏州4K
 https://live-auth.51kandianshi.com/szgd/csztv4k_4k.m3u8
