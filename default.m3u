@@ -169,17 +169,20 @@ http://ott.mobaibox.com/PLTV/3/224/3221229088/index.m3u8
 #EXTINF:-1 group-title="江苏地方" tvg-logo="https://raw.githubusercontent.com/wzy9024/jsyd-iptv/main/logo/淮安影视娱乐.png",淮安影视娱乐
 http://ott.mobaibox.com/PLTV/3/224/3221229091/index.m3u8
 #EXTINF:-1 group-title="江苏地方" tvg-logo="https://raw.githubusercontent.com/wzy9024/jsyd-iptv/main/logo/盐城新闻综合.png",盐城1
-http://ott.mobaibox.com/PLTV/3/224/3221229085/index.m3u8
+http://ott.mobaibox.com/PLTV/3/224/3221228435/index.m3u8
 #EXTINF:-1 group-title="江苏地方" tvg-logo="https://raw.githubusercontent.com/wzy9024/jsyd-iptv/main/logo/盐城教育民生.png",盐城2
 http://ott.mobaibox.com/PLTV/3/224/3221228433/index.m3u8
+
 #EXTINF:-1 group-title="江苏地方" tvg-logo="https://raw.githubusercontent.com/wzy9024/jsyd-iptv/main/logo/扬州新闻.png",扬州新闻
 http://ott.mobaibox.com/PLTV/3/224/3221228155/index.m3u8
-#EXTINF:-1 group-title="江苏地方" tvg-logo="https://raw.githubusercontent.com/wzy9024/jsyd-iptv/main/logo/扬州民生.png",扬州民生
-http://ott.mobaibox.com/PLTV/3/224/3221229043/index.m3u8
 #EXTINF:-1 group-title="江苏地方" tvg-logo="https://raw.githubusercontent.com/wzy9024/jsyd-iptv/main/logo/扬州邗江.png",扬州邗江
 http://ott.mobaibox.com/PLTV/3/224/3221227867/index.m3u8
+
+#EXTINF:-1 group-title="江苏地方" tvg-logo="https://raw.githubusercontent.com/wzy9024/jsyd-iptv/main/logo/扬州民生.png",扬州民生
+http://ott.mobaibox.com/PLTV/3/224/3221229043/index.m3u8
 #EXTINF:-1 group-title="江苏地方" tvg-logo="https://raw.githubusercontent.com/wzy9024/jsyd-iptv/main/logo/扬州江都.png",扬州江都
 http://ott.mobaibox.com/PLTV/3/224/3221229046/index.m3u8
+
 #EXTINF:-1 group-title="江苏地方" tvg-logo="https://raw.githubusercontent.com/wzy9024/jsyd-iptv/main/logo/镇江新闻综合.png",镇江1
 http://ott.mobaibox.com/PLTV/3/224/3221229058/index.m3u8
 #EXTINF:-1 group-title="江苏地方" tvg-logo="https://raw.githubusercontent.com/wzy9024/jsyd-iptv/main/logo/镇江教育民生.png",镇江2
