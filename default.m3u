@@ -73,6 +73,8 @@ http://112.86.202.37:8112/JSBC_iptv/C10000233@JSBC
 http://112.86.202.37:8112/JSBC_iptv/C10000449@JSBC
 #EXTINF:-1 group-title="央视" tvg-logo="https://raw.githubusercontent.com/wzy9024/jsyd-iptv/main/logo/CGTNxbyy.png",CGTN-西语
 http://112.86.202.37:8112/JSBC_iptv/C10000448@JSBC
+#EXTINF:-1 group-title="央视" tvg-logo="https://raw.githubusercontent.com/wzy9024/jsyd-iptv/main/logo/CGTN阿拉伯语.png",CGTN-阿拉伯语
+http://ott.mobaibox.com/PLTV/3/224/3221228573/index.m3u8
 #EXTINF:-1 group-title="央视" tvg-logo="https://raw.githubusercontent.com/wzy9024/jsyd-iptv/main/logo/CETV1.png",CETV1
 http://ott.mobaibox.com/PLTV/3/224/3221228931/index.m3u8
 #EXTINF:-1 group-title="央视" tvg-logo="https://raw.githubusercontent.com/wzy9024/jsyd-iptv/main/logo/CETV2.png",CETV2
@@ -131,9 +133,9 @@ https://stream.thmz.com/wxtv5/playlist.m3u8
 #EXTINF:-1 group-title="江苏地方" tvg-logo="https://raw.githubusercontent.com/wzy9024/jsyd-iptv/main/logo/徐州新闻综合.png",徐州1
 http://ott.mobaibox.com/PLTV/3/224/3221228990/index.m3u8
 #EXTINF:-1 group-title="江苏地方" tvg-logo="https://raw.githubusercontent.com/wzy9024/jsyd-iptv/main/logo/徐州经济生活.png",徐州2
-http://ott.mobaibox.com/PLTV/3/224/3221225947/index.m3u8
+http://ott.mobaibox.com/PLTV/3/224/3221228993/index.m3u8
 #EXTINF:-1 group-title="江苏地方" tvg-logo="https://raw.githubusercontent.com/wzy9024/jsyd-iptv/main/logo/徐州文艺影视.png",徐州3
-http://ott.mobaibox.com/PLTV/3/224/3221225949/index.m3u8
+http://ott.mobaibox.com/PLTV/3/224/3221228996/index.m3u8
 #EXTINF:-1 group-title="江苏地方" tvg-logo="https://raw.githubusercontent.com/wzy9024/jsyd-iptv/main/logo/常州新闻综合.png",常州新闻综合
 http://ott.mobaibox.com/PLTV/3/224/3221228997/index.m3u8
 #EXTINF:-1 group-title="江苏地方" tvg-logo="https://raw.githubusercontent.com/wzy9024/jsyd-iptv/main/logo/常州生活.png",常州生活
@@ -169,7 +171,7 @@ http://ott.mobaibox.com/PLTV/3/224/3221229088/index.m3u8
 #EXTINF:-1 group-title="江苏地方" tvg-logo="https://raw.githubusercontent.com/wzy9024/jsyd-iptv/main/logo/淮安影视娱乐.png",淮安影视娱乐
 http://ott.mobaibox.com/PLTV/3/224/3221229091/index.m3u8
 #EXTINF:-1 group-title="江苏地方" tvg-logo="https://raw.githubusercontent.com/wzy9024/jsyd-iptv/main/logo/盐城新闻综合.png",盐城1
-http://ott.mobaibox.com/PLTV/3/224/3221228435/index.m3u8
+http://ott.mobaibox.com/PLTV/3/224/3221229085/index.m3u8
 #EXTINF:-1 group-title="江苏地方" tvg-logo="https://raw.githubusercontent.com/wzy9024/jsyd-iptv/main/logo/盐城教育民生.png",盐城2
 http://ott.mobaibox.com/PLTV/3/224/3221228433/index.m3u8
 
@@ -411,5 +413,6 @@ http://ott.mobaibox.com/PLTV/3/224/3221227612/index.m3u8
 http://ott.mobaibox.com/PLTV/4/224/3221225539/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wzy9024/jsyd-iptv/main/logo/NEWTV掌上财金.png" group-title="NewTV频道",掌上财金
 http://ott.mobaibox.com/PLTV/3/224/3221229068/index.m3u8
+
 
 
