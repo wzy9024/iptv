@@ -173,15 +173,7 @@ http://ott.mobaibox.com/PLTV/3/224/3221228435/index.m3u8
 #EXTINF:-1 group-title="江苏地方" tvg-logo="https://raw.githubusercontent.com/wzy9024/jsyd-iptv/main/logo/盐城教育民生.png",盐城2
 http://ott.mobaibox.com/PLTV/3/224/3221228433/index.m3u8
 
-#EXTINF:-1 group-title="江苏地方" tvg-logo="https://raw.githubusercontent.com/wzy9024/jsyd-iptv/main/logo/扬州新闻.png",扬州新闻
-http://ott.mobaibox.com/PLTV/3/224/3221228155/index.m3u8
-#EXTINF:-1 group-title="江苏地方" tvg-logo="https://raw.githubusercontent.com/wzy9024/jsyd-iptv/main/logo/扬州邗江.png",扬州邗江
-http://ott.mobaibox.com/PLTV/3/224/3221227867/index.m3u8
 
-#EXTINF:-1 group-title="江苏地方" tvg-logo="https://raw.githubusercontent.com/wzy9024/jsyd-iptv/main/logo/扬州民生.png",扬州民生
-http://ott.mobaibox.com/PLTV/3/224/3221229043/index.m3u8
-#EXTINF:-1 group-title="江苏地方" tvg-logo="https://raw.githubusercontent.com/wzy9024/jsyd-iptv/main/logo/扬州江都.png",扬州江都
-http://ott.mobaibox.com/PLTV/3/224/3221229046/index.m3u8
 
 #EXTINF:-1 group-title="江苏地方" tvg-logo="https://raw.githubusercontent.com/wzy9024/jsyd-iptv/main/logo/镇江新闻综合.png",镇江1
 http://ott.mobaibox.com/PLTV/3/224/3221229058/index.m3u8
@@ -198,6 +190,14 @@ http://ott.mobaibox.com/PLTV/3/224/3221229008/index.m3u8
 #EXTINF:-1 group-title="江苏地方" tvg-logo="https://raw.githubusercontent.com/wzy9024/jsyd-iptv/main/logo/宿迁公共.png",宿迁公共
 http://ott.mobaibox.com/PLTV/3/224/3221229061/index.m3u8
 
+#EXTINF:-1 group-title="江苏地方" tvg-logo="https://raw.githubusercontent.com/wzy9024/jsyd-iptv/main/logo/扬州新闻.png",扬州新闻
+http://ott.mobaibox.com/PLTV/3/224/3221228155/index.m3u8
+#EXTINF:-1 group-title="江苏地方" tvg-logo="https://raw.githubusercontent.com/wzy9024/jsyd-iptv/main/logo/扬州邗江.png",扬州邗江
+http://ott.mobaibox.com/PLTV/3/224/3221227867/index.m3u8
+#EXTINF:-1 group-title="江苏地方" tvg-logo="https://raw.githubusercontent.com/wzy9024/jsyd-iptv/main/logo/扬州民生.png",扬州民生
+http://ott.mobaibox.com/PLTV/3/224/3221229043/index.m3u8
+#EXTINF:-1 group-title="江苏地方" tvg-logo="https://raw.githubusercontent.com/wzy9024/jsyd-iptv/main/logo/扬州江都.png",扬州江都
+http://ott.mobaibox.com/PLTV/3/224/3221229046/index.m3u8
 
 #EXTINF:-1 group-title="地方卫视",凤凰香港
 http://ott.mobaibox.com/PLTV/3/224/3221228530/index.m3u8
@@ -411,4 +411,5 @@ http://ott.mobaibox.com/PLTV/3/224/3221227612/index.m3u8
 http://ott.mobaibox.com/PLTV/4/224/3221225539/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wzy9024/jsyd-iptv/main/logo/NEWTV掌上财金.png" group-title="NewTV频道",掌上财金
 http://ott.mobaibox.com/PLTV/3/224/3221229068/index.m3u8
+
 
